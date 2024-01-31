@@ -1,0 +1,800 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Boyer, R
+TI Is a finance-led growth regime a viable alternative to Fordism? A
+   preliminary analysis
+SO ECONOMY AND SOCIETY
+VL 29
+IS 1
+BP 111
+EP 145
+DI 10.1080/030851400360587
+PD FEB 2000
+PY 2000
+ZB 2
+Z8 1
+ZR 3
+ZS 28
+ZA 0
+TC 441
+Z9 466
+SN 0308-5147
+UT WOS:000085671100006
+ER
+
+PT J
+AU Langley, Paul
+TI Sub-prime mortgage lending: a cultural economy
+SO ECONOMY AND SOCIETY
+VL 37
+IS 4
+BP 469
+EP 494
+DI 10.1080/03085140802357893
+PD 2008
+PY 2008
+OI Langley, Paul/0000-0002-1924-7711
+ZA 0
+Z8 0
+ZB 0
+ZR 0
+TC 90
+ZS 2
+Z9 92
+SN 0308-5147
+EI 1469-5766
+UT WOS:000259648800001
+ER
+
+PT J
+AU Davies, William
+   McGoey, Linsey
+TI Rationalities of ignorance: on financial crisis and the ambivalence of
+   neo-liberal epistemology
+SO ECONOMY AND SOCIETY
+VL 41
+IS 1
+SI SI
+BP 64
+EP 83
+DI 10.1080/03085147.2011.637331
+PD 2012
+PY 2012
+OI McGoey, Linsey/0000-0002-4404-2574
+ZA 0
+TC 85
+ZB 0
+ZS 1
+ZR 0
+Z8 0
+Z9 86
+SN 0308-5147
+EI 1469-5766
+UT WOS:000301863100004
+ER
+
+PT J
+AU Engelen, Ewald
+   Erturk, Ismail
+   Froud, Julie
+   Leaver, Adam
+   Williams, Karel
+TI Reconceptualizing financial innovation: frame, conjuncture and bricolage
+SO ECONOMY AND SOCIETY
+VL 39
+IS 1
+BP 33
+EP 63
+DI 10.1080/03085140903424568
+PD FEB 2010
+PY 2010
+RI Erturk, Ismail/W-4693-2019; Leaver, Adam/
+OI Leaver, Adam/0000-0001-6199-6057
+ZS 1
+Z8 0
+ZB 0
+TC 70
+ZR 0
+ZA 0
+Z9 71
+SN 0308-5147
+EI 1469-5766
+UT WOS:000275815500002
+ER
+
+PT J
+AU Engelen, Ewald
+   Erturk, Ismail
+   Froud, Julie
+   Johal, Sukhdev
+   Leaver, Adam
+   Moran, Michael
+   Williams, Karel
+TI Misrule of experts? The financial crisis as elite debacle
+SO ECONOMY AND SOCIETY
+VL 41
+IS 3
+BP 360
+EP 382
+DI 10.1080/03085147.2012.661634
+PD 2012
+PY 2012
+RI Erturk, Ismail/W-4693-2019; Leaver, Adam/
+OI Leaver, Adam/0000-0001-6199-6057
+ZR 0
+ZB 0
+ZA 0
+TC 59
+Z8 0
+ZS 0
+Z9 59
+SN 0308-5147
+EI 1469-5766
+UT WOS:000308040600004
+ER
+
+PT J
+AU Heemskerk, Eelke M.
+TI The rise of the European corporate elite: evidence from the network of
+   interlocking directorates in 2005 and 2010
+SO ECONOMY AND SOCIETY
+VL 42
+IS 1
+BP 74
+EP 101
+DI 10.1080/03085147.2012.686720
+PD FEB 1 2013
+PY 2013
+RI Heemskerk, Eelke/E-4872-2012; Heemskerk, Eelke/
+OI Heemskerk, Eelke/0000-0001-7356-5318
+ZR 0
+Z8 0
+ZS 0
+ZA 0
+TC 55
+ZB 1
+Z9 55
+SN 0308-5147
+UT WOS:000315433500004
+ER
+
+PT J
+AU Peckham, Robert
+TI Economies of contagion: financial crisis and pandemic
+SO ECONOMY AND SOCIETY
+VL 42
+IS 2
+BP 226
+EP 248
+DI 10.1080/03085147.2012.718626
+PD MAY 1 2013
+PY 2013
+RI Peckham, Robert/A-8355-2010
+OI Peckham, Robert/0000-0001-8370-609X
+ZB 1
+Z8 0
+ZS 1
+TC 47
+ZR 0
+ZA 0
+Z9 47
+SN 0308-5147
+EI 1469-5766
+UT WOS:000316210400003
+ER
+
+PT J
+AU Kyung-Sup, C
+TI Compressed modernity and its discontents: South Korean society in
+   transition
+SO ECONOMY AND SOCIETY
+VL 28
+IS 1
+BP 30
+EP 55
+DI 10.1080/03085149900000023
+PD FEB 1999
+PY 1999
+Z8 0
+ZR 0
+TC 47
+ZB 0
+ZS 0
+ZA 0
+Z9 47
+SN 0308-5147
+UT WOS:000079530400002
+ER
+
+PT J
+AU Lysandrou, Photis
+TI Global inequality as one of the root causes of the financial crisis: a
+   suggested explanation
+SO ECONOMY AND SOCIETY
+VL 40
+IS 3
+BP 323
+EP 344
+DI 10.1080/03085147.2011.576848
+PD 2011
+PY 2011
+TC 44
+ZB 0
+ZA 0
+ZS 0
+ZR 0
+Z8 0
+Z9 44
+SN 0308-5147
+UT WOS:000299260600001
+ER
+
+PT J
+AU Henderson, J
+TI Uneven crises: institutional foundations of East Asian economic turmoil
+SO ECONOMY AND SOCIETY
+VL 28
+IS 3
+BP 327
+EP 368
+DI 10.1080/03085149900000009
+PD AUG 1999
+PY 1999
+ZR 0
+ZA 0
+TC 39
+ZB 0
+Z8 0
+ZS 0
+Z9 39
+SN 0308-5147
+EI 1469-5766
+UT WOS:000082373800001
+ER
+
+PT J
+AU Christophers, Brett
+TI Making finance productive
+SO ECONOMY AND SOCIETY
+VL 40
+IS 1
+BP 112
+EP 140
+AR PII 933729564
+DI 10.1080/03085147.2011.529337
+PD 2011
+PY 2011
+ZB 3
+ZS 0
+Z8 0
+ZR 0
+ZA 0
+TC 38
+Z9 38
+SN 0308-5147
+UT WOS:000287494800005
+ER
+
+PT J
+AU Bryan, Dick
+   Martin, Randy
+   Montgomerie, Johnna
+   Williams, Karel
+TI An important failure: knowledge limits and the financial crisis
+SO ECONOMY AND SOCIETY
+VL 41
+IS 3
+BP 299
+EP 315
+DI 10.1080/03085147.2012.661632
+PD 2012
+PY 2012
+ZS 1
+ZB 0
+ZR 0
+ZA 0
+TC 37
+Z8 0
+Z9 37
+SN 0308-5147
+EI 1469-5766
+UT WOS:000308040600001
+ER
+
+PT J
+AU Braun, Benjamin
+TI Governing the future: the European Central Bank's expectation management
+   during the Great Moderation
+SO ECONOMY AND SOCIETY
+VL 44
+IS 3
+BP 367
+EP 391
+DI 10.1080/03085147.2015.1049447
+PD 2015
+PY 2015
+OI Braun, Benjamin/0000-0002-5186-5923
+ZR 0
+ZS 0
+TC 34
+ZA 0
+ZB 0
+Z8 0
+Z9 34
+SN 0308-5147
+EI 1469-5766
+UT WOS:000369822500002
+ER
+
+PT J
+AU Morgan, Jamie
+TI Will we work in twenty-first century capitalism? A critique of the
+   fourth industrial revolution literature
+SO ECONOMY AND SOCIETY
+VL 48
+IS 3
+BP 371
+EP 398
+DI 10.1080/03085147.2019.1620027
+EA SEP 2019
+PD JUL 3 2019
+PY 2019
+Z8 0
+ZA 0
+ZR 0
+ZS 0
+ZB 0
+TC 32
+Z9 32
+SN 0308-5147
+EI 1469-5766
+UT WOS:000487085500001
+ER
+
+PT J
+AU Langley, Paul
+TI Anticipating uncertainty, reviving risk? On the stress testing of
+   finance in crisis
+SO ECONOMY AND SOCIETY
+VL 42
+IS 1
+BP 51
+EP 73
+DI 10.1080/03085147.2012.686719
+PD FEB 1 2013
+PY 2013
+OI Langley, Paul/0000-0002-1924-7711
+ZR 0
+TC 28
+ZB 1
+ZS 0
+ZA 0
+Z8 0
+Z9 28
+SN 0308-5147
+EI 1469-5766
+UT WOS:000315433500003
+ER
+
+PT J
+AU Yeung, HWC
+TI Under siege? Economic globalization and Chinese business in Southeast
+   Asia
+SO ECONOMY AND SOCIETY
+VL 28
+IS 1
+BP 1
+EP 29
+DI 10.1080/03085149900000022
+PD FEB 1999
+PY 1999
+CT International Conference on Southeast Asia under Globalization
+CY APR 09-12, 1998
+CL TAIPEI, TAIWAN
+RI Yeung, Henry Wai-chung/A-9558-2008
+OI Yeung, Henry Wai-chung/0000-0002-0647-0658
+ZA 0
+ZS 0
+ZR 0
+Z8 0
+ZB 0
+TC 28
+Z9 28
+SN 0308-5147
+EI 1469-5766
+UT WOS:000079530400001
+ER
+
+PT J
+AU Bryan, Dick
+   Rafferty, Michael
+TI Fundamental value: a category in transformation
+SO ECONOMY AND SOCIETY
+VL 42
+IS 1
+BP 130
+EP 153
+DI 10.1080/03085147.2012.718625
+PD FEB 1 2013
+PY 2013
+Z8 0
+ZR 2
+ZB 0
+ZA 0
+TC 25
+ZS 0
+Z9 27
+SN 0308-5147
+EI 1469-5766
+UT WOS:000315433500006
+ER
+
+PT J
+AU Fridman, Daniel
+TI A new mentality for a new economy: performing the homo economicus in
+   Argentina (1976-83)
+SO ECONOMY AND SOCIETY
+VL 39
+IS 2
+BP 271
+EP 302
+AR PII 921626976
+DI 10.1080/03085141003620170
+PD 2010
+PY 2010
+Z8 0
+ZA 0
+ZR 0
+ZB 0
+TC 21
+ZS 4
+Z9 25
+SN 0308-5147
+EI 1469-5766
+UT WOS:000277505900005
+ER
+
+PT J
+AU Fernandez, Rodrigo
+   Wigger, Angela
+TI Lehman Brothers in the Dutch offshore financial centre: the role of
+   shadow banking in increasing leverage and facilitating debt
+SO ECONOMY AND SOCIETY
+VL 45
+IS 3-4
+BP 407
+EP 430
+DI 10.1080/03085147.2016.1264167
+PD 2016
+PY 2016
+Z8 1
+ZB 0
+ZA 0
+ZS 0
+TC 21
+ZR 0
+Z9 22
+SN 0308-5147
+EI 1469-5766
+UT WOS:000394966000005
+ER
+
+PT J
+AU MacKenzie, Donald
+TI Knowledge production in financial markets: credit default swaps, the ABX
+   and the subprime crisis
+SO ECONOMY AND SOCIETY
+VL 41
+IS 3
+BP 335
+EP 359
+DI 10.1080/03085147.2012.661635
+PD 2012
+PY 2012
+TC 22
+ZA 0
+ZB 0
+ZR 0
+Z8 0
+ZS 0
+Z9 22
+SN 0308-5147
+EI 1469-5766
+UT WOS:000308040600003
+ER
+
+PT J
+AU Bear, Laura
+TI Speculation: a political economy of technologies of imagination
+SO ECONOMY AND SOCIETY
+VL 49
+IS 1
+SI SI
+BP 1
+EP 15
+DI 10.1080/03085147.2020.1715604
+EA FEB 2020
+PD JAN 2 2020
+PY 2020
+Z8 0
+ZA 0
+ZS 0
+ZB 0
+TC 21
+ZR 0
+Z9 21
+SN 0308-5147
+EI 1469-5766
+UT WOS:000514720900001
+ER
+
+PT J
+AU Thompson, Grahame
+TI What's in the frame? How the financial crisis is being packaged for
+   public consumption
+SO ECONOMY AND SOCIETY
+VL 38
+IS 3
+BP 520
+EP 524
+DI 10.1080/03085140903020705
+PD AUG 2009
+PY 2009
+ZS 0
+ZR 0
+ZB 0
+TC 21
+ZA 0
+Z8 0
+Z9 21
+SN 0308-5147
+UT WOS:000269983700006
+ER
+
+PT J
+AU Thompson, Helen
+TI How the City of London lost at Brexit: a historical perspective
+SO ECONOMY AND SOCIETY
+VL 46
+IS 2
+BP 211
+EP 228
+DI 10.1080/03085147.2017.1359916
+PD 2017
+PY 2017
+ZA 0
+TC 20
+ZB 0
+ZR 0
+Z8 0
+ZS 0
+Z9 20
+SN 0308-5147
+EI 1469-5766
+UT WOS:000423298600004
+ER
+
+PT J
+AU Kalinowski, Thomas
+TI Crisis management and the diversity of capitalism: fiscal stimulus
+   packages and the East Asian (neo-)developmental state
+SO ECONOMY AND SOCIETY
+VL 44
+IS 2
+BP 244
+EP 270
+DI 10.1080/03085147.2015.1013354
+PD APR 3 2015
+PY 2015
+RI Kalinowski, Thomas/ABI-4352-2020
+OI Kalinowski, Thomas/0000-0002-8334-3337
+ZB 0
+ZS 0
+ZA 0
+Z8 0
+ZR 0
+TC 18
+Z9 18
+SN 0308-5147
+EI 1469-5766
+UT WOS:000354529700004
+ER
+
+PT J
+AU Curran, Dean
+TI Risk illusion and organized irresponsibility in contemporary finance:
+   rethinking class and risk society
+SO ECONOMY AND SOCIETY
+VL 44
+IS 3
+BP 392
+EP 417
+DI 10.1080/03085147.2015.1044850
+PD 2015
+PY 2015
+Z8 0
+ZR 0
+ZS 0
+TC 17
+ZA 0
+ZB 0
+Z9 17
+SN 0308-5147
+EI 1469-5766
+UT WOS:000369822500003
+ER
+
+PT J
+AU Petry, Johannes
+TI Financialization with Chinese characteristics? Exchanges, control and
+   capital markets in authoritarian capitalism
+SO ECONOMY AND SOCIETY
+VL 49
+IS 2
+BP 213
+EP 238
+DI 10.1080/03085147.2020.1718913
+EA APR 2020
+PD APR 2 2020
+PY 2020
+Z8 0
+ZR 0
+TC 16
+ZA 0
+ZS 0
+ZB 1
+Z9 16
+SN 0308-5147
+EI 1469-5766
+UT WOS:000532025100001
+ER
+
+PT J
+AU Lysandrou, Photis
+TI Debt intolerance and the 90 per cent debt threshold: two impossibility
+   theorems
+SO ECONOMY AND SOCIETY
+VL 42
+IS 4
+BP 521
+EP 542
+DI 10.1080/03085147.2012.760346
+PD NOV 1 2013
+PY 2013
+ZB 0
+Z8 0
+TC 16
+ZR 0
+ZS 0
+ZA 0
+Z9 16
+SN 0308-5147
+EI 1469-5766
+UT WOS:000327475700001
+ER
+
+PT J
+AU Searle, Llerena Guiu
+TI The contradictions of mediation: intermediaries and the financialization
+   of urban production
+SO ECONOMY AND SOCIETY
+VL 47
+IS 4
+BP 524
+EP 546
+DI 10.1080/03085147.2018.1538638
+PD 2018
+PY 2018
+ZA 0
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+TC 14
+Z9 14
+SN 0308-5147
+EI 1469-5766
+UT WOS:000451746800002
+ER
+
+PT J
+AU Sum, Ngai-Ling
+TI A cultural political economy of crisis recovery: (trans-)national
+   imaginaries of 'BRIC' and subaltern groups in China
+SO ECONOMY AND SOCIETY
+VL 42
+IS 4
+BP 543
+EP 570
+DI 10.1080/03085147.2012.760348
+PD NOV 1 2013
+PY 2013
+ZS 0
+ZB 0
+ZR 0
+TC 11
+ZA 0
+Z8 0
+Z9 11
+SN 0308-5147
+EI 1469-5766
+UT WOS:000327475700002
+ER
+
+PT J
+AU Dorn, Nicholas
+TI Knowing markets: would less be more?
+SO ECONOMY AND SOCIETY
+VL 41
+IS 3
+BP 316
+EP 334
+DI 10.1080/03085147.2012.668032
+PD 2012
+PY 2012
+TC 11
+ZB 0
+Z8 0
+ZA 0
+ZS 0
+ZR 0
+Z9 11
+SN 0308-5147
+EI 1469-5766
+UT WOS:000308040600002
+ER
+
+PT J
+AU Leins, Stefan
+TI 'Responsible investment': ESG and the post-crisis ethical order
+SO ECONOMY AND SOCIETY
+VL 49
+IS 1
+SI SI
+BP 71
+EP 91
+DI 10.1080/03085147.2020.1702414
+EA FEB 2020
+PD JAN 2 2020
+PY 2020
+OI Leins, Stefan/0000-0002-3653-865X
+ZA 0
+ZB 1
+ZS 0
+Z8 0
+TC 10
+ZR 0
+Z9 10
+SN 0308-5147
+EI 1469-5766
+UT WOS:000513753700001
+ER
+
+PT J
+AU Cantamutto, Francisco J.
+   Ozarow, Daniel
+TI Serial payers, serial losers? The political economy of Argentina's
+   public debt
+SO ECONOMY AND SOCIETY
+VL 45
+IS 1
+BP 123
+EP 147
+DI 10.1080/03085147.2016.1161118
+PD FEB 2016
+PY 2016
+OI Ozarow, Daniel/0000-0001-6695-9984
+Z8 0
+TC 9
+ZR 0
+ZS 1
+ZB 0
+ZA 0
+Z9 10
+SN 0308-5147
+EI 1469-5766
+UT WOS:000374894800006
+ER
+
+EF

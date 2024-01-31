@@ -1,0 +1,100 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Vallet, Guillaume
+TI A local money to stabilize capitalism: the underestimated case of the
+   WIR
+SO ECONOMY AND SOCIETY
+VL 45
+IS 3-4
+BP 479
+EP 504
+DI 10.1080/03085147.2016.1224146
+PD 2016
+PY 2016
+ZB 2
+ZS 0
+Z8 0
+TC 5
+ZR 0
+ZA 0
+Z9 5
+SN 0308-5147
+EI 1469-5766
+UT WOS:000394966000008
+ER
+
+PT J
+AU MacKenzie, Donald
+TI Spoofing: Law, materiality and boundary work in futures trading
+SO ECONOMY AND SOCIETY
+VL 51
+IS 1
+BP 1
+EP 22
+DI 10.1080/03085147.2022.1987753
+EA NOV 2021
+PD JAN 2 2022
+PY 2022
+OI MacKenzie, Donald/0000-0002-1860-8116
+Z8 0
+ZB 0
+ZR 0
+ZA 0
+ZS 0
+TC 2
+Z9 2
+SN 0308-5147
+EI 1469-5766
+UT WOS:000723940600001
+ER
+
+PT J
+AU Tellmann, Ute
+TI Beyond performativity: Material futures of finance
+SO ECONOMY AND SOCIETY
+VL 49
+IS 3
+BP 345
+EP 363
+DI 10.1080/03085147.2020.1736837
+EA JUL 2020
+PD JUL 2 2020
+PY 2020
+Z8 0
+ZB 0
+ZS 0
+ZR 0
+ZA 0
+TC 1
+Z9 1
+SN 0308-5147
+EI 1469-5766
+UT WOS:000555650400001
+ER
+
+PT J
+AU Vormann, Boris
+TI When private vice hurts public virtue: of blind men, elephants and the
+   politics of market failure
+SO ECONOMY AND SOCIETY
+VL 47
+IS 4
+BP 607
+EP 626
+DI 10.1080/03085147.2018.1533304
+PD 2018
+PY 2018
+ZS 0
+TC 1
+Z8 0
+ZA 0
+ZR 0
+ZB 0
+Z9 1
+SN 0308-5147
+EI 1469-5766
+UT WOS:000451746800005
+ER
+
+EF

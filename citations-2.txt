@@ -1,0 +1,470 @@
+JSTOR Citation List
+@comment{{ These records have been provided through JSTOR. http://www.jstor.org }}
+
+
+@article{10.2307/2657295,
+ ISSN = {00031224},
+ URL = {http://www.jstor.org/stable/2657295},
+ abstract = {In recent years, the sociology of religion has been consumed by a debate over secularization that pits advocates of a new, rational-choice paradigm (the so-called religious economies model) against defenders of classical secularization theory. According to the old paradigm, the Western world has become increasingly secular since the Middle Ages; according to the new paradigm, it has become increasingly religious. I put these two images of religious development to the test through a detailed examination of religious life in Western Europe before and after the Reformation. I conclude that the changes in social structure and religious experience that occurred during this period were considerably more complex than either the old or new paradigms suggest and, indeed, that the two paradigms are neither so opposed nor so irreconcilable as many of their defenders contend. It is possible, indeed probable, that Western society has become more secular without becoming less religious. I discuss the limitations of the two competing paradigms and sketch the outlines of a more adequate theory of religious change.},
+ author = {Philip S. Gorski},
+ journal = {American Sociological Review},
+ number = {1},
+ pages = {138--167},
+ publisher = {[American Sociological Association, Sage Publications, Inc.]},
+ title = {Historicizing the Secularization Debate: Church, State, and Society in Late Medieval and Early Modern Europe, ca. 1300 to 1700},
+ urldate = {2022-06-20},
+ volume = {65},
+ year = {2000}
+}
+
+
+
+
+
+@article{10.2307/2579779,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/2579779},
+ abstract = {Secularization is most productively understood not as declining religion, but as the declining scope of religious authority. A focus on religious authority (1) is more consistent with recent developments in social theory than is a preoccupation with religion; (2) draws on and develops what is best in the secularization literature; and (3) reclaims a neglected Weberian insight concerning the sociological analysis of religion. Several descriptive and theoretical "pay-offs" of this conceptual innovation are discussed: new hypotheses concerning the relationship between religion and social movements; the enhanced capacity to conceptually apprehend and empirically investigate secularization among societies, organizations, and individuals; and clearer theoretical connections between secularization and other sociological literatures. Ironically, these connections may indeed spell the end of secularization theory as a distinct body of theory, but in a different way than previously appreciated.},
+ author = {Mark Chaves},
+ journal = {Social Forces},
+ number = {3},
+ pages = {749--774},
+ publisher = {Oxford University Press},
+ title = {Secularization as Declining Religious Authority},
+ urldate = {2022-06-20},
+ volume = {72},
+ year = {1994}
+}
+
+
+
+
+
+@article{10.2307/591190,
+ ISSN = {00071315, 14684446},
+ URL = {http://www.jstor.org/stable/591190},
+ abstract = {The argument recalls the author's initial critique twenty five years ago of one-directional theories of secularization in terms of covert philosophical assumptions, selective epiphenomenalism, conceptual incoherence, and indifference to historical complexity. Even today the evident revival of religion in Eastern Europe is treated as epiphenomenal i.e. really nationalism. The argument goes on to assert that whether in its hard version as the death of religion or in its soft form as marginalization, secularization should be treated as contingent, in particular on the situation in Europe since the Enlightenment. The rest of the article examines North and South America and the Middle East to show how things can be otherwise. It concludes that even in Europe the hostilities of the last two centuries are over.},
+ author = {David Martin},
+ journal = {The British Journal of Sociology},
+ number = {3},
+ pages = {465--474},
+ publisher = {[Wiley, London School of Economics and Political Science, London School of Economics]},
+ title = {The Secularization Issue: Prospect and Retrospect},
+ urldate = {2022-06-20},
+ volume = {42},
+ year = {1991}
+}
+
+
+
+
+
+@article{10.2307/2579304,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/2579304},
+ abstract = {This article examines the main charges against secularization theory and finds them wanting. Contrary to the recent arguments of various critics, there is a reasonably solid body of secularization theory with valid historical content; secularization cannot be explained away as either institutionalization or transformation; it is neither a self-limiting process nor reversed by fundamentalist movements; and while secularization theory may be of limited use in current macrosociological research on global change, it is as yet far from irrelevant. Until it is more solidly refuted, secularization theory remains a valuable part of the theoretical arsenal of the sociology of religion.},
+ author = {Frank J. Lechner},
+ journal = {Social Forces},
+ number = {4},
+ pages = {1103--1119},
+ publisher = {Oxford University Press},
+ title = {The Case against Secularization: A Rebuttal},
+ urldate = {2022-06-20},
+ volume = {69},
+ year = {1991}
+}
+
+
+
+
+
+@article{10.2307/591392,
+ ISSN = {00071315, 14684446},
+ URL = {http://www.jstor.org/stable/591392},
+ abstract = {The emphasis on a seemingly inevitable process of secularization leading to 'demoralization' as part of modernization has meant that sociologists have not felt it necessary to give much heed to Durkheim's call for the development of a sociology of morals. However, there has been some recent movement in that direction, stimulated by a revival of interest in Durkheimian sociology and Foucault's work on discourses and moral regulation. The analysis of controversies about representations of sexuality in broadcast television can reveal the varied range of moral discourses that are drawn on by ordinary viewers when they feel provoked to write to protest about representations that they find morally offensive. The attempts of the regulatory authorities to adjudicate between the different moral discourses reveals some of the difficulties and strategies involved in moral regulation in late- or post-modernity, with the regulators often having to retreat from moral reasoning to legal-technical rationality.},
+ author = {Kenneth Thompson and Anita Sharma},
+ journal = {The British Journal of Sociology},
+ number = {3},
+ pages = {434--455},
+ publisher = {[Wiley, London School of Economics and Political Science, London School of Economics]},
+ title = {Secularization, Moral Regulation and the Mass Media},
+ urldate = {2022-06-20},
+ volume = {49},
+ year = {1998}
+}
+
+
+
+
+
+@article{10.2307/590872,
+ ISSN = {00071315, 14684446},
+ URL = {http://www.jstor.org/stable/590872},
+ abstract = {This paper examines Bryan Turner's view that medicine has replaced religion as the 'social guardian of morality'. It argues that Turner's failure to co-ordinate the theories of secularization and medicalization has prevented this hypothesis from being fully explored. A systematic and synthesized account of both medicalization and secularization is given, and used as the framework for a review of the history of Seventh-day Adventism - a sect that is both a product and an agent of the two processes. In conclusion it is suggested that medicalization may be conducive to sect development, and that secularization and medicalization are compatible models of social change.},
+ author = {Malcolm Bull},
+ journal = {The British Journal of Sociology},
+ number = {2},
+ pages = {245--261},
+ publisher = {[Wiley, London School of Economics and Political Science, London School of Economics]},
+ title = {Secularization and Medicalization},
+ urldate = {2022-06-20},
+ volume = {41},
+ year = {1990}
+}
+
+
+
+
+
+@article{10.2307/1519771,
+ ISSN = {00031224},
+ URL = {http://www.jstor.org/stable/1519771},
+ author = {Gerald Marwell and N. J. Demerath},
+ journal = {American Sociological Review},
+ number = {2},
+ pages = {314--316},
+ publisher = {[American Sociological Association, Sage Publications, Inc.]},
+ title = {"Secularization" by Any Other Name},
+ urldate = {2022-06-20},
+ volume = {68},
+ year = {2003}
+}
+
+
+
+
+
+@article{10.2307/29737782,
+ ISSN = {03600572, 15452115},
+ URL = {http://www.jstor.org/stable/29737782},
+ abstract = {The study of secularization appears to be entering a new phase. Supplyside theories that focus exclusively on religious participation and membership seem too one-dimensional. But classical theories of secularization contain generalized and teleological premises that are at odds with the complexities of empirical reality and the historical record. This review seeks to map a new way forward and identify key obstacles and goals. It begins by retracing the development of secularization theory within sociology and the genealogy of the secularization concept within presociological discourse. It then reviews what is and is not known about secularization in the West, noting the limitations of the data and biases in research. The article further argues for comparative and historical approaches that incorporate non-Christian religions and non-Western regions. The social scientific literature that critically reassesses the relationship between diverse religious movements, secularisms, and liberal democracies presents new questions for future research. We stress the importance of theoretical approaches that move beyond the deeply entrenched secularist and religious assumptions and propose general guidelines for future research on the varieties of secularity.},
+ author = {Philip S. Gorski and Ateş Altinordu},
+ journal = {Annual Review of Sociology},
+ pages = {55--85},
+ publisher = {Annual Reviews},
+ title = {After Secularization?},
+ urldate = {2022-06-20},
+ volume = {34},
+ year = {2008}
+}
+
+
+
+
+
+@article{10.2307/20430829,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/20430829},
+ abstract = {Sociologists of religion have often connected secularization to science, but have rarely examined the role of religion in the lives of scientists or how the sciences have changed religiously over time. Here we address this shortcoming by comparing religiosity between two samples of elite academic natural and social scientists, one in 1969 and one in 2005. Findings show an overall decline in religiosity among university scientists as well as a change in their religious composition. Attendance rates were lower for social scientists in 1969 compared to natural scientists, but in 2005 growing parity in attendance occurred between the two fields. Findings also show a decline in the proportion of Protestant scientists and a growth in Catholic scientists. Demographic factors associated with religiosity in the general population, with the exception of age and having children, had no impact among elite academic scientists. Overall, findings challenge and revise older studies on the role of religion in the lives of scientists. Specific results are connected to theories that pose science as a master identity, which may be mitigated by some institutionalized aspects of religion. They also lead to new directions in the sociology of religion that take seriously the role of religion in the lives of elites and connect societal religious changes to differences between institutional spheres, particularly those, such as the academy, that play a leadership role in society.},
+ author = {Elaine Howard Ecklund and Jerry Z. Park and Phil Todd Veliz},
+ journal = {Social Forces},
+ number = {4},
+ pages = {1805--1839},
+ publisher = {Oxford University Press},
+ title = {Secularization and Religious Change among Elite Scientists},
+ urldate = {2022-06-20},
+ volume = {86},
+ year = {2008}
+}
+
+
+
+
+
+@article{10.2307/26573262,
+ ISSN = {00039756, 14740583},
+ URL = {https://www.jstor.org/stable/26573262},
+ abstract = {Matthew Wood’s recent article in the European Journal of Sociology is a useful addition to the secularization debate. There is value in studying ways in which religious organizations now attempt to re-enter the public arena and the secularizing consequences of such activity. However, there is no justification for framing that case as an indictment of either Bryan R. Wilson’s original 1966 presentation of the modern sociological secularization theory or the subsequent work of others in the same paradigm. This rejoinder explains Wilson’s apparent assuming rather than demonstrating the declining influence of religious institutions and concludes that his work can be augmented without asserting that he had missed something which fundamentally alters the secularization approach to religious change.},
+ author = {STEVE BRUCE},
+ journal = {European Journal of Sociology / Archives Européennes de Sociologie / Europäisches Archiv für Soziologie},
+ number = {2},
+ pages = {375--384},
+ publisher = {Cambridge University Press},
+ title = {Public Religion and Secularization in England: Defending Bryan R. Wilson},
+ urldate = {2022-06-20},
+ volume = {57},
+ year = {2016}
+}
+
+
+
+
+
+@article{10.2307/23999110,
+ ISSN = {00039756, 14740583},
+ URL = {http://www.jstor.org/stable/23999110},
+ abstract = {In many European democracies, religion was an important political cleavage throughout the twentieth century. But in Denmark and Sweden, religious differences have not been translated into political competition. Instead, class conflict has dominated. This article attempts to explain why. Our argument is that in the first decades of the twentieth century, the issue that mattered most for the politicization of religion elsewhere in Europe — the role of churches in the provision of poor relief and education — was already settled. The main reason was that in the nineteenth century, the secular state had captured the organizational infrastructure that churches used to provide these services. Dans nombre de démocraties européennes les divisions religieuses ont été encore au xxe siècle, un puissant facteur de clivage politique. Ce ne fut le cas ni au Danemark ni en Suède où le conflit de classe fut prédominant. L'article propose une explication, à savoir que le rôle des Églises dans l'éducation et la gestion de la pauvreté était une question déjà réglée. Dès le XIXe siècle l'État avait pris aux Églises les infrastructures et mis en place une gestion étatisée de ces services. In vielen europäischen Demokratien des 20. Jahrhunderts war die Religion ein politisch trennendes Element, außer in Dänemark und Schweden. Hier dominierte der Klassenkampf, da, anders als in anderen europäischen Ländern, die Rolle der Kirche in puncto Armenfürsorge und Erziehung bereits geregelt war, da im Laufe des 19. Jahrhundert der Säkularstaat die sozialen Infrastrukturen der Kirchen übernommen hatte.},
+ author = {LARS BO KASPERSEN and JOHANNES LINDVALL},
+ journal = {European Journal of Sociology / Archives Européennes de Sociologie / Europäisches Archiv für Soziologie},
+ number = {1},
+ pages = {119--143},
+ publisher = {Cambridge University Press},
+ title = {Why No Religious Politics? The Secularization of Poor Relief and Primary Education in Denmark and Sweden},
+ urldate = {2022-06-20},
+ volume = {49},
+ year = {2008}
+}
+
+
+
+
+
+@article{10.2307/3559631,
+ ISSN = {02667215, 14682672},
+ URL = {http://www.jstor.org/stable/3559631},
+ abstract = {The religious question of men's origin and destination can be answered by belief, unbelief, uncertainty and indifference. The degree of secularization should increase belief against the three remaining options, unbelief against uncertainty and indifference, and uncertainty against indifference. The paper asks if the enforced form of secularization of East European countries has the same effects even if the degree of secularization is controlled, and if these developments are reversed after the demise of communism. Furthermore, it examines if the developments of countries and their reversal remain significant if the education, the age and the religious practice of individuals are controlled. Dependent variables are the belief in God and the Bible as surveyed in the ISSP 1991 and 1998. In 1991, the degree and the form of secularization affect the answers to the religious question as expected. Up to 1998, the effects of the degree and the form of secularization persist. Furthermore, the effects of the degree and the form of secularization do not shrink if education and age of individuals are controlled, and do shrink but remain significant if additionally religious practice is controlled.},
+ author = {Heiner Meulemann},
+ journal = {European Sociological Review},
+ number = {1},
+ pages = {47--61},
+ publisher = {Oxford University Press},
+ title = {Enforced Secularization - Spontaneous Revival?: Religious Belief, Unbelief, Uncertainty and Indifference in East and West European Countries 1991-1998},
+ urldate = {2022-06-20},
+ volume = {20},
+ year = {2004}
+}
+
+
+
+
+
+@article{10.2307/26573208,
+ ISSN = {00039756, 14740583},
+ URL = {https://www.jstor.org/stable/26573208},
+ abstract = {Critics of secularization theory have recently focused upon religion’s public role to put forward theses about de-differentiation, post-secularity and desecularization. A strong defence of secularization theory has not been forthcoming because its proponents have tended to assume, rather than demonstrate, that religion has lost social significance. Drawing upon a neosecularization theoretical approach that highlights the scope of religious authority, this article examines evidence from qualitative studies of the attempts of English mainstream Christian organizations to bring religious messages into the public space and to engage in welfare provision. This re-assessment shows that religious organizations are increasingly co-opted by secular authorities, in ways neither anticipated by, nor explored in, orthodox accounts of secularization. But rather than blurring “the religious” and “the secular,” their distinction is heightened. This situation involves an interlinked and mutually-reinforced declining scope of religious authority at the macro-, meso- and micro-levels, which, it is proposed, constitutes a state of advanced secularization. Les critiques de la thérie de la sécularisation se sont intéressés au rôle public de la religion pour avancer différentes thèses caractérisées en termes de dédifférenciation, de postlaïcité ou encore de désécularisation. Une défense solide de la théorie de la sécularisation fait à ce jour encore défaut parce que ses promoteurs ont trop souvent tendance à supposer, plutôt qu’á démontrer, que la religion a perdu toute signification sociale. S’inspirant d’une approche de type néo-sécularisatrice, qui s’intéresse à la portée de l’autorité religieuse, cet article examine les résultats d’études qualitatives consacrées aux diverses tentatives des organisations chrétiennes traditionnelles anglaises pour investir l’espace public par leurs discours et leurs pratiques religieuses. Cette ré-évaluation montre que ces organisations sont de plus en plus cooptées par les autorités séculières, et d’une façon qui n’a été généralement ni anticipée ni étudiée par les approches traditionnelles de la sécularisation. La distinction entre les dimensions « religieuses » et le « séculière » s’en trouve dès lors non pas effacée mais bel et bien renforcée. Cet affaiblissement de l’autorité religieuse aux niveaux tant macro-, meso-, que micro- correspond, c’est du moins la thèse développée dans cet article, à un état de sécularisation avancée. Die Kritiken an der Säkularisierungstheorie konzentrieren sich auf die öffentliche Aufgabe der Religion, um Thesen über Entdifferenzierung, Post-Säkularisierung und Entsäkularisierung vorzustellen. Eine überzeugende Verteidigung der Säkularisierungstheorie ist dabei nicht zustande gekommen, weil ihre Befürworter mehr behaupten als beweisen, dass die Religion jegliche soziale Bedeutung verloren hat. Aufbauend auf einem theoretischen Ansatz der Neosäkularisierung, der die Tragweite der religiösen Autorität beleuchtet, untersucht dieser Beitrag die Ergebnisse qualitativer Studien, die den zahlreichen Versuchen traditioneller christlicher Verbände Englands verstärkt religiöse Botschaften an die Öffentlichkeit zu bringen und soziale Fürsorge zu betreiben gewidmet wurden. Der Neuansatz verdeutlicht, dass religiöse Verbände verstärkt von säkularen Behörden kooptiert werden, und dies auf eine Art und Weise, die traditionellere Ansätze der Säkularisierung weder vorhergesehen noch untersucht hätten können. Anstatt die Unterscheidung zwischen „religiös“ und „säkular“ zu verwischen, wird sie hierdurch verstärkt. Die Schwächung der religiösen Autorität sowohl auf Makro-, als auch auf Meso- und Mikroebene entspricht, so die These dieses Beitrags, einem vorangeschrittenen Säkularisierungsstadium.},
+ author = {MATTHEW WOOD and Veronique Altglas},
+ journal = {European Journal of Sociology / Archives Européennes de Sociologie / Europäisches Archiv für Soziologie},
+ number = {2},
+ pages = {241--270},
+ publisher = {Cambridge University Press},
+ title = {Shadows in Caves?: A Re-Assessment of Public Religion and Secularization in England Today},
+ urldate = {2022-06-20},
+ volume = {56},
+ year = {2015}
+}
+
+
+
+
+
+@article{10.2307/2579976,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/2579976},
+ author = {Frank J. Lechner},
+ journal = {Social Forces},
+ number = {1},
+ pages = {225--228},
+ publisher = {Oxford University Press},
+ title = {Secularization Revisited},
+ urldate = {2022-06-20},
+ volume = {71},
+ year = {1992}
+}
+
+
+
+
+
+@article{10.2307/40784568,
+ ISSN = {02667215, 14682672},
+ URL = {http://www.jstor.org/stable/40784568},
+ abstract = {Well-being depends on self-concern and self-transcendence on the person level for which corresponding processes on the country level can be identified. On the person level, self-concern is geared to success; self-transcendence is geared either to other people or to a transcendent reality and manifests itself in altruism as well as in religiosity. On the level of countries, success manifests itself in economic and democratic development, altruism in advances of the civil society, and religiosity—negatively designated secularization—in religious traditions and means of religious practices. On the level of persons and of countries, two questions are examined: Does self-transcendence increase well-being once self-concern is controlled for? And if so, which of the two directions of self-transcendence, other people or another world, has the stronger impact? Dependent variables are life-satisfaction and happiness as measured in the European Social Survey 2002 and 2004 with altogether 48 country × time samples of 88,040 respondents. Intercept models of multi-level regressions are applied. On the person level, success has a strong, altruism a weak, and religiosity a marginal impact on well-being. On the country level, economic and democratic development affect mean well-being, but advances of the civil society and secularization do not.},
+ author = {Heiner Meulemann},
+ journal = {European Sociological Review},
+ number = {4},
+ pages = {385--399},
+ publisher = {Oxford University Press},
+ title = {Self-Concern, Self-Transcendence, and Weil-Being},
+ urldate = {2022-06-20},
+ volume = {26},
+ year = {2010}
+}
+
+
+
+
+
+@article{10.2307/44075400,
+ ISSN = {02667215, 14682672},
+ URL = {http://www.jstor.org/stable/44075400},
+ abstract = {Analysing survey data from the European Values Study, we investigate whether and how changes in church attendance bring about changes in people's acceptance of abortion, homosexuality, divorce, and euthanasia. We argue that decreasing church attendance not only should enhance overall acceptance of these moral issues, but it should also lead to greater diversity in opinions on them. From our analyses, we can indeed conclude that declining levels of church attendance have been accompanied by greater permissiveness and increased diversity in attitudes towards abortion, divorce, and euthanasia. However, opinions about homosexuality hardly seem affected by developments in religiosity. Moreover, the trends in Western and Eastern Europe appear rather different. Eastern Europeans are far more conservative; in fact, no significant changes in church attendance levels (on average) were found there. The association between church attendance and moral views is in general weaker in Central and Eastern Europe than in Western Europe, and is even absent in some cases.},
+ author = {Loek Halman and Erik van Ingen},
+ journal = {European Sociological Review},
+ number = {5},
+ pages = {616--627},
+ publisher = {Oxford University Press},
+ title = {Secularization and Changing Moral Views: European Trends in Church Attendance and Views on Homosexuality, Divorce, Abortion, and Euthanasia},
+ urldate = {2022-06-20},
+ volume = {31},
+ year = {2015}
+}
+
+
+
+
+
+@article{10.1086/591289,
+ ISSN = {00029602, 15375390},
+ URL = {http://www.jstor.org/stable/10.1086/591289},
+ abstract = {Does religious pluralism decrease religious participation or increase it? Secularization theorists claim the former, while religious economies proponents claim the latter, and each side has used estimated pluralism‐participation correlations to support its argument. Using a formal game theoretic model, this article shows how religious market forces and regulations generate plausible pluralism‐participation correlations, whether or not the direct causal mechanisms argued by either side of the debate exist. The model generates testable hypotheses concerning the pluralism‐participation relationship at both local and national levels and yields insights into previous empirical work.},
+ author = {Michael McBride},
+ journal = {American Journal of Sociology},
+ number = {1},
+ pages = {77--106},
+ publisher = {The University of Chicago Press},
+ title = {Religious Pluralism and Religious Participation: A Game Theoretic Analysis},
+ urldate = {2022-06-20},
+ volume = {114},
+ year = {2008}
+}
+
+
+
+
+
+@article{10.2307/23254595,
+ ISSN = {03600572, 15452115},
+ URL = {http://www.jstor.org/stable/23254595},
+ abstract = {In this article, I review three contemporary streams of scholarship that are revitalizing the cultural analysis of religion, an approach that dates to the discipline's founding. Research from an institutional field perspective focuses on the institutions that shape religious belief, practice, and mobilization. Work on lived religion, including neo-Durkheimian approaches, focuses on religious experience and contested practices of sacralization. Scholarship on religious cultural tools and symbolic boundaries analyzes religion as symbolic legitimation. These three approaches avoid serious problems associated with both market and secularization accounts, in part because of the way they conceptualize religious authority and religious identity, and in part because of their broader scope of inquiry. In the conclusion, I combine the insights from these approaches to articulate a promising agenda for future research, offering a set of focus questions that are relevant to both classical and contemporary concerns about religion's role in modern societies.},
+ author = {Penny Edgell},
+ journal = {Annual Review of Sociology},
+ pages = {247--265},
+ publisher = {Annual Reviews},
+ title = {A Cultural Sociology of Religion: New Directions},
+ urldate = {2022-06-20},
+ volume = {38},
+ year = {2012}
+}
+
+
+
+
+
+@article{10.2307/43282174,
+ ISSN = {00039756, 14740583},
+ URL = {http://www.jstor.org/stable/43282174},
+ abstract = {This paper examines the development of religious education policy in the government schools of New South Wales (Australia) since 1960. The New South Wales religious education curriculum features three components: (1) teacher-led "general religious education" (GRE); (2) right-of-entry denominational instruction provided by visiting clergy ("special religious education", or SRE); and (3) occasional additional devotional exercises such as hymns and prayers. Between 1960 and 1980, this system underwent a partial secularization, GRE was transformed from a straightforward course in Christianity built around government-produced Scripture readers to a flexible curricular component built around the academic study of multiple religions. At the same time, SRE was strengthened and had its position in the curriculum secured; and devotional exercises were allowed to continue only in those settings where they formed an "appropriate" match with the community. I find that "secularizing" reforms were most consistently driven by teachers and administrators with practical motives: avoiding controversy, improving working conditions, and facilitating class management. This finding both challenges and complements recent works that interpret secularization as a political process driven by politicians and professionals primarily interested in enhancing their power or prestige at the expense of religious actors. L'article porte sur l'évolution de la politique d'éducation religieuse dans les établissements scolaires publics des Nouvelles Galles du Sud depuis 1960. Trois volets : l'éducation religieuse de base dispensée par un maître, le droit pour les dénominations d'offrir un cours spécifique dispensé par un prêtre ou un pasteur, et enfin les expressions circonstancielles, hymnes et prières. Entre 1960 et 1980 une sécularisation partielle a remplacé le catéchisme avec manuel officiel, par un cours flexible d'introduction scientifique aux diverses religions. Les enseignements dispensés par des ministres d'un culte ont vu leur place dans le curriculum consolidée. Ces réformes ont été conduites à partir d'un point de vue pragmatique et dans un souci d'harmonie. Elles vont à l'encontre de l'idée selon laquelle sécularisation irait nécessairement avec idéologie antireligieuse et luttes de pouvoir Dieser Beitrag erörtert die religiöse Erziehungspolitik in öffentlichen Schulen Neusüdwales seit 1960. Drei Aspekte werden beleuchtet: der von einem Lehrer erteilte Religionsunterricht, das Recht einer besonderen Unterweisung durch eine katholischen oder evangelischen Pfarrer und schließlich gelegenheitsgebundene Ausdrucksformen, wie Hymnen oder Gebete. Zwischen 1960 und 1980 hat eine Teilsäkularisierung zur Abschaffung des Religionsunterrichts mit offiziellem Unterrichtsmaterial geführt, der durch einen flexiblen Unterricht mit einer wissenschaftlichen Einführung in verschiedene Religionen ersetzt wurde. Der jeweils von offiziellen Vertretern einer Religion erteilte Unterricht wurde im Weiteren verstärkt. Sowohl pragmatische Ansätze als auch Harmoniegedanken haben zu diesen Reformen geführt, die widerlegen, dass die Säkularisation hautpsächlich ein politischer Prozess sei, der von Politkern und anderen Akteuren geführt würde, um ihre eigene Macht oder ihr eigenes Prestige auf Kosten der Kirchen zu stärken.},
+ author = {DAMON MAYRL},
+ journal = {European Journal of Sociology / Archives Européennes de Sociologie / Europäisches Archiv für Soziologie},
+ number = {1},
+ pages = {111--142},
+ publisher = {Cambridge University Press},
+ title = {Administenng Secularization: Religious Education in New South Wales since 1960},
+ urldate = {2022-06-20},
+ volume = {52},
+ year = {2011}
+}
+
+
+
+
+
+@article{10.2307/43282279,
+ ISSN = {00039756, 14740583},
+ URL = {http://www.jstor.org/stable/43282279},
+ abstract = {Between 1940 and 1944, sociologist Talcott Parsons and political scientist Eric Voegelin engaged in a vigorous correspondence, discussing the origins of totalitarianism and modern anti-Semitism, the legacy of Max Weber, patterns of secularization set in motion by the Protestant Reformation, the methodology and goals of social science, and more. This article introduces and explicates the surprisingly amicable and intellectually rich exchange between these two seemingly different thinkers. Although the letters hold obvious historical interest, their variegated topics are also closely thematically related, revealing an inner logic that we interpret as a theoretical search for "critical naïveté". This logic, we argue, is relevant to contemporary discussions about the social, political, and scientific legacies of world-transcendent spiritual traditions. De 1940 à 1944, Talco « Parsons et Eric Voegelin, opposant au nazisme récemment émigré entretiennent une correspondance suivie que l'on peut classer sous cinq grandes entrées : Théorie de l'action et histoire des idées politiques, Formes de sécularisation, Méthodologie des sciences sociales, Legs de Max Weber, La transcendance des sciences sociales. Certaines lettres on déjà été publiées, mais l'ensemble ne l'avait pas été. II l'est désormais dans l'édition électronique de la revue. L'article ici proposé entend être une présentation et un guide pour éviter le piège d'anachronisme dans l'interprétation. Von 1940 bis 1944 führen Talcott Parsons und Eric Voegelin, ein kürzlich ausgewanderter Naziregimegegner, einen Briefwechsel, der in fünf große Abschnitte unterteilt werden kann: Handlungstheorie und politische Ideengeschichte, Säkularisationsformen, sozialwissenschaftliche Methodik, Webers Vermächtnis, Transzendenz der Sozialwissenschaften. Auch wenn einige Briefe bereits veröffentlicht worden sind, gab es bis dato keine Gesamtausgabe. Sie liegt nun als elektronische Ausgabe der Zeitschrift vor. Der hier veröffentlichte Beitrag versteht sich als Einführung und Leitfaden, um eine Irreführung der Interpretation durch den Anachronismus zu verhindern.},
+ author = {PETER BRICKEY LEQUIRE and DANIEL SILVER},
+ journal = {European Journal of Sociology / Archives Européennes de Sociologie / Europäisches Archiv für Soziologie},
+ number = {2},
+ pages = {265--293},
+ publisher = {Cambridge University Press},
+ title = {Critical Naivete? Religion, Science and Action in the Parsons-Voegelin Correspondence},
+ urldate = {2022-06-20},
+ volume = {54},
+ year = {2013}
+}
+
+
+
+
+
+@article{10.2307/23361101,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/23361101},
+ abstract = {The aim of this article is to present two different roles of the state affecting individuals' religiosity. First, we provide evidence for the effectiveness of socialist regimes in influencing citizens' opinions by comparing religious beliefs among several generations of Eastern Europeans. Second, the article explores whether the democratization process in Eastern Europe led to a revival of religiosity by applying two strands of reasoning from the secularization framework: Berger's theory of plausibility structures (Berger 1969) and Norris and Inglehart's (2004) existential security hypothesis. The results show that due to an increased plausibility structure created by the democratic states a slight religious revival can be observed in several postcommunist countries.},
+ author = {Tim Müller and Anja Neundorf},
+ journal = {Social Forces},
+ number = {2},
+ pages = {559--582},
+ publisher = {Oxford University Press},
+ title = {The Role of the State in the Repression and Revival of Religiosity in Central Eastern Europe},
+ urldate = {2022-06-20},
+ volume = {91},
+ year = {2012}
+}
+
+
+
+
+
+@article{10.2307/23998920,
+ ISSN = {00039756, 14740583},
+ URL = {http://www.jstor.org/stable/23998920},
+ abstract = {Surveying three generations of comparative sociologists, separated by abrupt discontinuities, the study reaches the conclusion that the original promise of comparative sociology set in motion a century ago remains largely unfulfilled. It will then be argued that the work of the third generation of comparative sociologists on civilizational analysis and multiple modernities can redeem the promise of comparative sociology by rectifying the neglect of developmental patterns in other civilizations and recovering the fundamental relevance of the periphery. The third generation is thus seeking to undo the erasure of the historical experience of a very sizeable portion of humankind from the foundation of social theory. This argument is illustrated by selective reference to the concept of the nation-state, and comparisons of civilizational processes and developmental patterns that stem from different religions and traditions and generate varieties of nationalism, alternative modernities and patterns of secularization. Passant en revue trois générations de sociologie comparative, l'auteur arrive à la conclusion que le programme formé il y a un siècle est encore loin d'être réalisé. Les travaux de la troisième génération, analyse des civilisations, modernités multiples, réparent cet oubli des processus de développement dans les civilisations autres qu'occidentales et retrouvent l'importance fondamentale de la périphérie. Ce faisant, ils s'emploient à réintroduire l'expérience historique d'une partie importante de l'humanité complètement mise à l'écart par la théorie sociologique depuis ses débuts. L'argument s'appuie sur un choix de références à des concepts tels que l'état-nation, à des comparaisons de processus de civilisation et de modèles de développement tirés de religions et de traditions diverses. Variétés des nationalismes, modernités alternatives et figures de sécularisation. Drei Generationen komparativ-arbeitender Soziologen haben das vor einem Jahrhundert aufgestellte Programm noch lange nicht ausgeschöpft. Durch die Arbeiten der dritten Generation - Studien über die ins Vergessen geratenen Entwicklungsprozesse nichtwestlicher Kulturen und die fundamentale Bedeutung der Peripherie - werden die Versäumnisse der komparativen Soziologie ausgeglichen, die seit ihrer Gründung den historischen Erfahrungsschatz eines Großteils der Menschheit ausgeschlossen hat. Belegt wird dies anhand einer Auswahl von Nationalstaaten und der Gegenüberstellung verschiedener Kulturprozesse und Entwicklungsmodelle, denen unterschiedlichen Religionen und Traditionen zu Grunde liegen und die zu einer weiten Palette von Nationalismen, alternativen Modernitäten und Säkularisationsformen geführt haben.},
+ author = {SAÏD AMIR ARJOMAND},
+ journal = {European Journal of Sociology / Archives Européennes de Sociologie / Europäisches Archiv für Soziologie},
+ number = {3},
+ pages = {363--399},
+ publisher = {Cambridge University Press},
+ title = {Three Generations of Comparative Sociologies},
+ urldate = {2022-06-20},
+ volume = {51},
+ year = {2010}
+}
+
+
+
+
+
+@article{10.2307/26573207,
+ ISSN = {00039756, 14740583},
+ URL = {https://www.jstor.org/stable/26573207},
+ abstract = {Why do similar modern nations accord religion different roles in their public institutions? This paper engages this question by examining trends in religious instruction in the public schools of the United States and Australia from 1850 to 1950. I find that American education secularized farther and faster than Australian education because of its decentralized system of educational administration. In the United States, decentralized educational administration facilitated challenges to religious exercises by religious minorities, fostered professional development among educators, and allowed novel educational practices oriented in new educational theories rather than religion to spread. In Australia, by contrast, centralized state control over education insulated majoritarian religious exercises from minority criticism, suppressed professional development, and helped maintain traditional educational practices that sustained religious instruction. The state thus has both mediating and constitutive effects on secularization, a finding which opens new directions for research into the dynamics of secularization. Pourquoi des nations modernes similaires accordent-elles à la religion des rôles différents dans leurs institutions publiques ? Cet article aborde cette question à partir de l’examen des tendances de l’enseignement religieux dans les écoles publiques aux États-Unis et en Australie entre 1850 et 1950. Il montre que l’éducation américaine relève d’une forme avancée de sécularisation en raison du caractère décentralisé de l’administration scolaire. Aux États-Unis, cette décentralisation a facilité tout à la fois la mise en cause des activités des minorités religieuses, la professionnalisation des éducateurs et la diffusion de nouvelles pratiques éducatives davantage ancrées dans les théories de l’éducation que dans la religion. À l’inverse, en Australie, le contrôle centralisé de l’État sur l’éducation a contribué à insulariser les pratiques religieuses majoritaires des critiques minoritaires, à ralentir tout développement professionnel, et à maintenir des pratiques éducatives traditionnelles étroitement liées à l’instruction religieuse. En mettant en évidence la variété des effets de l’État, l’article ouvre de nouvelles perspectives pour la recherche sur les dynamiques de la sécularisation. Weshalb werden der Religion in vergleichbaren modernen Nationen jeweils andere Aufgaben in öffentlichen Institutionen zugewiesen? Der Beitrag verfolgt diese Frage, gestützt auf die Entwicklungen des Religionsunterrichts öffentlicher amerikanischer und australischer Schulen von 1850 bis 1950. Er zeigt, dass der amerikanische Unterricht sich durch eine vorangeschrittene Form der Säkularisierung auszeichnet, da von der Schulbehörde dezentralisiert aufgebaut. In den Vereinigten Staaten hat diese Dezentralisierung sowohl die Hinterfragung der Aktivitäten religiöser Minderheiten, als auch die Berufsausbildung der Erzieher und die Verbreitung neuer Erziehungstechniken erlaubt, mehr auf Erziehungstheorien als auf Religion basierend. Im Unterschied zu Australien, wo die zentralistische, staatliche Kontrolle die mehrheitlichen Religionspraktiken von der Minderheitenkritik isoliert, jegliche Berufsentwicklung gedrosselt und traditionelle Erziehungspraktiken in enger Verbindung zur Religionserziehung gehalten hat. Die Betonung der verschiedenartigen Auswirkungen staatlichen Eingriffs eröffnet neue Forschungsperspektiven der Säkularisierungsdynamiken.},
+ author = {DAMON MAYRL},
+ journal = {European Journal of Sociology / Archives Européennes de Sociologie / Europäisches Archiv für Soziologie},
+ number = {2},
+ pages = {207--239},
+ publisher = {Cambridge University Press},
+ title = {How Does the State Structure Secularization?},
+ urldate = {2022-06-20},
+ volume = {56},
+ year = {2015}
+}
+
+
+
+
+
+@article{10.2307/26545743,
+ ISSN = {00029602, 15375390},
+ URL = {https://www.jstor.org/stable/26545743},
+ abstract = {Virtually every discussion of secularization asserts that high levels of religiosity in the United States make it a decisive counterexample to the claim that modern societies are prone to secularization. Focusing on trends rather than levels, the authors maintain that, for two straightforward empirical reasons, the United States should no longer be considered a counterexample. First, it has recently become clear that American religiosity has been declining for decades. Second, this decline has been produced by the generational patterns underlying religious decline elsewhere in the West: each successive cohort is less religious than the preceding one. America is not an exception. These findings change the theoretical import of the United States for debates about secularization.},
+ author = {David Voas and Mark Chaves},
+ journal = {American Journal of Sociology},
+ number = {5},
+ pages = {1517--1556},
+ publisher = {The University of Chicago Press},
+ title = {Is the United States a Counterexample to the Secularization Thesis?},
+ urldate = {2022-06-20},
+ volume = {121},
+ year = {2016}
+}
+
+
+
+
+
+@article{10.2307/24807739,
+ ISSN = {03600572, 15452115},
+ URL = {http://www.jstor.org/stable/24807739},
+ abstract = {This article critically reviews recent contributions to religious research in Latin America. Social scientists have long considered religion to be a structuring feature of culture and local society. Owing to the centrality of Catholicism in Latin America, early studies privileged the political influences of the Catholic Church with respect to the state and society at large. The "otherness" of native folk religions received less attention, with scholars undervaluing the presence of indigenous and African religiosities. In Latin America, religions are currently experiencing a diversification and reconfiguration, owing in part to the growing influence of different Christian denominations, particularly Evangelical and Pentecostal churches. Religious change is also occurring at the margins of institutional churches through New Age, neo-pagan, neo-Indian, neo-esoteric, and self-styled religiosities, as well as through popular religious syncretisms, indicating new experiments with what is considered sacred. This dynamism poses theoretical and conceptual challenges to scholars analyzing religious diversity and the renewed role that religions play in contemporary societies with respect to secularization, syncretism, and hybridization as well as the emergence of alternative identities (gender, sexual, ideological and political).},
+ author = {Renée de la Torre and Eloisa Martín},
+ journal = {Annual Review of Sociology},
+ pages = {473--492},
+ publisher = {Annual Reviews},
+ title = {Religious Studies in Latin America},
+ urldate = {2022-06-20},
+ volume = {42},
+ year = {2016}
+}
+

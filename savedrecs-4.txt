@@ -1,0 +1,26 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Tomlinson, Jim
+TI After the great complacence: Financial crisis and the politics of reform
+SO ECONOMY AND SOCIETY
+VL 43
+IS 2
+BP 307
+EP 314
+DI 10.1080/03085147.2014.912462
+PD MAY 2014
+PY 2014
+ZA 0
+ZR 0
+ZB 0
+TC 0
+ZS 0
+Z8 0
+Z9 0
+SN 0308-5147
+EI 1469-5766
+UT WOS:000337687800007
+ER
+
+EF

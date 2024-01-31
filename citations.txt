@@ -1,0 +1,226 @@
+JSTOR Citation List
+@comment{{ These records have been provided through JSTOR. http://www.jstor.org }}
+
+
+@article{10.2307/2083364,
+ ISSN = {03600572, 15452115},
+ URL = {http://www.jstor.org/stable/2083364},
+ abstract = {Sociologists have always recognized the "double function" of religion in the legitimation of power and privilege and in protest and opposition, but theories of secularization and modernization predicted the declining significance of religion in contemporary public life. We review new approaches to religious activism and legitimation efforts in the United States and in the world-system that stress the interrelatedness of religion and politics. Then we evaluate the contributions of new theories of social movements and culture, Marxism, and feminism to new conceptualizations of the relationships among religious struggles, inequality, and political order today.},
+ author = {Dwight B. Billings and Shaunna L. Scott},
+ journal = {Annual Review of Sociology},
+ number = {},
+ pages = {173--202},
+ publisher = {Annual Reviews},
+ title = {Religion and Political Legitimation},
+ urldate = {2022-06-20},
+ volume = {20},
+ year = {1994}
+}
+
+
+
+
+
+@article{10.2307/2771726,
+ ISSN = {00029602, 15375390},
+ URL = {http://www.jstor.org/stable/2771726},
+ abstract = {Five types representing increasing degrees of secularization are: the cult, the sect, the institutionalized sect, the church, and the denomination. The Christian Science church has of late taken on the character of an institutionalized sect, as evidenced by its demographic, ecological, associational, structural, and social-psychological features.},
+ author = {Harold W. Pfautz},
+ journal = {American Journal of Sociology},
+ number = {2},
+ pages = {121--128},
+ publisher = {University of Chicago Press},
+ title = {The Sociology of Secularization: Religious Groups},
+ urldate = {2022-06-20},
+ volume = {61},
+ year = {1955}
+}
+
+
+
+
+
+@article{10.2307/2578439,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/2578439},
+ abstract = {This paper reviews and evaluates two critiques of sport. The radical critique argues that sport is authoritarian, excessively competitive and exclusionary. The feminist critique holds that sport is male-dominated and masculine in orientation. The critiques overlap in their emphases on social inequalities and instrumentality in sport and their advocacy of change. The analysis presented here argues that the radical critique is polemical and poorly formulated. The radicals' criticisms are reanalyzed in a discussion of the secularization and rationalization of sport. The feminist critique is insufficiently developed. Feminists who call for equality in sport and a diminution of the masculine orientation fail to explicate, respectively, the meaning of equality and the institutional features of a revised model of sport.},
+ author = {Nancy Theberge},
+ journal = {Social Forces},
+ number = {2},
+ pages = {341--353},
+ publisher = {Oxford University Press},
+ title = {A Critique of Critiques: Radical and Feminist Writings on Sport},
+ urldate = {2022-06-20},
+ volume = {60},
+ year = {1981}
+}
+
+
+
+
+
+@article{10.2307/2776351,
+ ISSN = {00029602, 15375390},
+ URL = {http://www.jstor.org/stable/2776351},
+ abstract = {Austria has been described as a prototypic segmented society. Religion, social class, and ideology produce sharp distinctions that are incorporated into all aspects of the political life of the country. With pressures from secularization and rising living standards, it can be questioned from secularization and rising living standards, it can be questioned whether current voter loyalties should be solely related to historic ties with parties. A survey conducted in Austria in 1968 demonstrated that, beyond the organizational continuity of parties and the persistence of social cleavages, there was a separate line of continuity for partisan stability associated with the nature of group ties. While the group benefits that come from a particular party are not always evident, the social bonds linking individuals to parties in a sense bypass this political content. Some of the qualities of Austrian political life for example, the lengthy experience of a coalition government that established a system for sharing administrative offices on the basis of party affiliation are unique, but this should not obscure the more general relevance of the findings: that primary group ties continue to have a political importance even when the structural bases of the ties are weakened.},
+ author = {Frederick C. Engelmann and Mildred A. Schwartz},
+ journal = {American Journal of Sociology},
+ number = {4},
+ pages = {948--966},
+ publisher = {University of Chicago Press},
+ title = {Partisan Stability and the Continuity of a Segmented Society: The Austrian Case},
+ urldate = {2022-06-20},
+ volume = {79},
+ year = {1974}
+}
+
+
+
+
+
+@article{10.2307/2094469,
+ ISSN = {00031224},
+ URL = {http://www.jstor.org/stable/2094469},
+ abstract = {Sociological theories of religion typically presuppose a religiously-based normative order, and for this reason their appropriateness in a modern, secular society is questionable. A local-cosmopolitan theory is proposed which attempts to identify an important "plausibility structure" for traditional, church-type religion today. Analysis of data from a sample of North Carolina Episcopalians shows that this theory not only explains multidimensional religiosity patterns, but also provides a parsimonious interpretation for the effects of education and community size. Implications for the changing social basis of church religion in modern society and the process of secularization are discussed.},
+ author = {Wade Clark Roof},
+ journal = {American Sociological Review},
+ number = {2},
+ pages = {195--208},
+ publisher = {[American Sociological Association, Sage Publications, Inc.]},
+ title = {Traditional Religion in Contemporary Society: A Theory of Local-Cosmopolitan Plausibility},
+ urldate = {2022-06-20},
+ volume = {41},
+ year = {1976}
+}
+
+
+
+
+
+@article{10.2307/2094573,
+ ISSN = {00031224},
+ URL = {http://www.jstor.org/stable/2094573},
+ abstract = {This paper is a sociological analysis of the most radical attempt in modern history to challenge the Western standard temporal reference framework, namely the French Republican calendrical reform of 1793. This reform obliterated the existing system of units of time and time-reckoning and dating frameworks by introducing a new annual cycle, new months, a new weekly cycle, a new subdivision of the daily cycle, and a new chronological dating framework. The paper first analyzes the symbolic function of the Revolutionary Calendar, namely, the representation of three main themes of the French Enlightenment: secularism, naturalism and rationalism. It then brings into focus three major factors which account for its failure: totality of the obliteration of the traditional sociotemporal order, overemphasis on secularization, and advocation of nationalistic particularism at the expense of a practical and cognitive disruption of temporal coordination on a global level.},
+ author = {Eviatar Zerubavel},
+ journal = {American Sociological Review},
+ number = {6},
+ pages = {868--877},
+ publisher = {[American Sociological Association, Sage Publications, Inc.]},
+ title = {The French Republican Calendar: A Case Study in the Sociology of Time},
+ urldate = {2022-06-20},
+ volume = {42},
+ year = {1977}
+}
+
+
+
+
+
+@article{10.2307/2771457,
+ ISSN = {00029602, 15375390},
+ URL = {http://www.jstor.org/stable/2771457},
+ abstract = {Understanding of society may be gained through construction of an ideal type of primitive or folk society as contrasted with modern urbanized society. Such a society is small, isolated, nonliterate, and homogeneous, with a strong sense of group solidarity. The ways of living are conventionalized into that coherent system which we call "a culture." Behavior is traditional, spontaneous, uncritical, and personal; there is no legislation or habit of experiment and reflection for intellectual ends. Kinship, its relationships and institutions, are the type categories of experience and the familial group is the unit of action. The sacred prevails over the secular; the economy is one of status rather than of the market. These and related characterizations may be restated in terms of "folk mentality." In studying societies comparatively, or one society in the course of change, with the aid of these conceptions, problems arise and are, in part, solved as to the necessary or probable interrelations of some of the elements of the ideal folk society with others. One such relationship is that between disorganization of culture and secularization.},
+ author = {Robert Redfield},
+ journal = {American Journal of Sociology},
+ number = {4},
+ pages = {293--308},
+ publisher = {University of Chicago Press},
+ title = {The Folk Society},
+ urldate = {2022-06-20},
+ volume = {52},
+ year = {1947}
+}
+
+
+
+
+
+@article{10.2307/2574046,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/2574046},
+ author = {Harold W. Pfautz},
+ journal = {Social Forces},
+ number = {3},
+ pages = {246--251},
+ publisher = {Oxford University Press},
+ title = {Christian Science: A Case Study of the Social Psychological Aspect of Secularization},
+ urldate = {2022-06-20},
+ volume = {34},
+ year = {1956}
+}
+
+
+
+
+
+@article{10.2307/2776304,
+ ISSN = {00029602, 15375390},
+ URL = {http://www.jstor.org/stable/2776304},
+ abstract = {The point of departure of this paper is an examination of the sociological literature on the recent occult revival in modern societies. This phenomenon, which clashes with the image of secularization, is particularly notable among the youth of the counterculture. To further sociological analysis, a conceptualization of esoteric culture is proposed. It is further argued that esoteric culture has played a significant role in Western cultural change, in such areas as artistic expressions of reality, political ideas, and even scientific thought. Esoteric culture is thus treated as a source of ideational innovations in Western modernization.},
+ author = {Edward A. Tiryakian},
+ journal = {American Journal of Sociology},
+ number = {3},
+ pages = {491--512},
+ publisher = {University of Chicago Press},
+ title = {Toward the Sociology of Esoteric Culture},
+ urldate = {2022-06-20},
+ volume = {78},
+ year = {1972}
+}
+
+
+
+
+
+@article{10.2307/2088469,
+ ISSN = {00031224},
+ URL = {http://www.jstor.org/stable/2088469},
+ author = {S. J. Tambiah and Bryce Ryan},
+ journal = {American Sociological Review},
+ number = {3},
+ pages = {292--299},
+ publisher = {[American Sociological Association, Sage Publications, Inc.]},
+ title = {Secularization of Family Values in Ceylon},
+ urldate = {2022-06-20},
+ volume = {22},
+ year = {1957}
+}
+
+
+
+
+
+@article{10.2307/2773240,
+ ISSN = {00029602, 15375390},
+ URL = {http://www.jstor.org/stable/2773240},
+ abstract = {The very popular inspirational religious literature, sampled for the last seventy-five years, shows pronounced tendencies toward emphasis on salvation in this world, toward general decline of eschatological interest, and toward further secularization in the form of devaluation of suffering and instrumentalization of the deity. This last feature of instrumentalization, in combination with others, serves both to mark the emergence of a distinctive "spiritual technology" in the literature and to stress that its writers incline more or less deliberately to make what have been certain "by-products" of religious activity into "goals." The drive to make religion useful is possibly self-defeating.},
+ author = {Louis Schneider and Sanford M. Dornbusch},
+ journal = {American Journal of Sociology},
+ number = {5},
+ pages = {476--481},
+ publisher = {University of Chicago Press},
+ title = {Inspirational Religious Literature: From Latent to Manifest Functions of Religion},
+ urldate = {2022-06-20},
+ volume = {62},
+ year = {1957}
+}
+
+
+
+
+
+@article{10.2307/2576223,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/2576223},
+ abstract = {How adequate is Weber's world-historical Sociology of Religion in relation to ongoing secularization, especially the rise of quasi-religious political movements and ideologies? It is argued that his work retains a considerable degree of conceptual adequacy in the face of new historical developments for both analytical and historical reasons. The essay distinguishes between Weber's developmental theory of modern revolutionary beliefs and his sociology of ideological virtuosi and of social marginality. The model of revolutionary religious virtuosity is applied to the Catholic opposition against church and state in the United States. The essay concludes with some observations on the counterculture in the light of Weber's developmental theory and sociohistorical model.},
+ author = {Guenther Roth},
+ journal = {Social Forces},
+ number = {2},
+ pages = {257--272},
+ publisher = {Oxford University Press},
+ title = {Religion and Revolutionary Beliefs: Sociological and Historical Dimensions in Max Weber's Work-In Memory of Ivan Vallier (1927-1974)},
+ urldate = {2022-06-20},
+ volume = {55},
+ year = {1976}
+}
+

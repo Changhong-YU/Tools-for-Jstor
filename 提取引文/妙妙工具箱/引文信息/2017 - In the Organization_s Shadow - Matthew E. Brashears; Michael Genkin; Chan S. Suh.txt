@@ -1,0 +1,181 @@
+Abbott 1988
+Abbott 1997
+Albert and Whetten 1985
+Alexander, Zucker, and Brody 1970
+Aral and Van Alstyne 2011
+Argote and Greve 2007
+Ashforth and Mael 1989
+Barabási and Albert 1999
+Barash, Cameron, and Macy 2012
+Barber, Eccles, and Stone 2001
+Barnes et al. 2014
+Bearman, Moody, and Stovel 2004
+Bewley 1999
+Blalock 1984
+Bond et al. 2012
+Bonikowski 2010
+Borgonovi 2008
+Brady, Verba, and Schlozman 1995
+Brand and Xie 2010
+Brockner and Swap 1976
+Brown and Lohr 1987
+Brown, Eicher, and Petrie 1986
+Burgess, Sanderson, and UmanaAponte 2011
+Burt 1980
+Burt 1991
+Buuren 2007
+Centola 2010
+Centola and Macy 2007
+Chantala and Suchindran 2011
+Christakis and Fowler 2007
+Coleman 1986
+Coleman, Katz, and Menzel 1966
+Colman 1982
+Colman 1990
+Conell and Cohn 1995
+Crosnoe et al. 2008
+Dalton et al. 2003
+Davis 1991
+Dawkins [1976] 2006
+DiMaggio and Powell 1983
+DiPrete et al. 2011
+Diaz and Handa 2006
+Dornbusch et al. 2001
+Drapela, Gebelt, and McRee 2006
+Duncan et al. 2009
+Durkheim [1851] 1997
+Eccles and Barber 1999
+Eder and Parker 1987
+Ellemers, Spears, and Doosje 2002
+Emile. 1851
+Erbring and Young 1979
+Feld 1981
+Feldman 1984
+Field et al. 2006
+Flache and Macy 2011
+Fowler and Christakis 2008
+Frank 2009
+Frank et al. 2008
+Frank, Muller, and Mueller 2013
+Friedkin 1983
+Friedkin 2001
+Friedkin and Johnsen 1997
+Friedkin and Johnsen 2011
+Gamoran and Mare 1989
+Gardner, Mulvey, and Shaw 1995
+Gavetti, Levinthal, and Ocasio 2007
+Gilbert, Giesler, and Morris 1995
+Gioia and Poole 1984
+Gioia et al. 2010
+Giordano 2003
+Goodreau, Kitts, and Morris 2009
+Gove and Crutch.eld 1982
+Granovetter 1995
+Guo and Fraser 2010
+Haas and Schaefer 2014
+Hallinan and Williams 1989
+Hanks 1981
+Hannan and Freeman 1989
+Harris 2009
+Harrison and Carroll 2002
+Haynie 2001
+Henry and Huizinga 2007
+Hogg and Terry 2000
+Holden 1986
+Hornsey 2008
+Hunter 2007
+Hunter, Goodreau, and Handcock 2008
+Ibarra 1995
+Ingram and Roberts 2000
+Johnson, Dowd, and Ridgeway 2006
+Jussim and Osgood 1989
+Kelley and De Graaf 1997
+Kilduff, Elfenbein, and Staw 2010
+Killworth et al. 1990
+Kirke 2004
+Kitts 2006
+Klein 1997
+Kohn and Schooler 1982
+Ku, Malhotra, and Murninghan 2005
+Kubitschek and Hallinan 1998
+Laumann 1965
+Laumann 1966
+Lazarsfeld and Merton 1954
+Levins 1968
+Lewis, Gonzalez, and Kaufman 2012
+Lim and MacGregor 2012
+Lusher, Koskinen, and Robins 2013
+Marin 2012
+Mark 1998
+Mark 2003
+Marsden 1981
+Marsden 1987
+Marsden 1988
+Marsden and Friedkin 1993
+Marsden and Gorman 2001
+Matsueda and Anderson 1998
+McCarty et al. 2001
+McCarty, Killworth, and Rennell 2007
+McPherson 1983
+McPherson 2004
+McPherson and RangerMoore 1991
+McPherson and Rotolo 1996
+McPherson and SmithLovin 1987
+McPherson and SmithLovin 1988
+McPherson, SmithLovin, and Cook 2001
+Mercken et al. 2010
+Moreland and Zajonc 1982
+Morgan and Todd 2008
+Morgan and Winship 2007
+Muller et al. 2007
+Mussweiler and Ruter 2003
+Nathan 2008
+Newman and Newman 1976
+Newman, Barabási, and Watts 2006
+Ouchi and Wilkins 1985
+Peli and Bruggeman 2006
+Perrow 1979
+Perrow 2002
+Polos 2003
+Popielarz and McPherson 1995
+Raghunathan et al. 2001
+Richard. 1976
+Richardson 1940
+Roberts et al. 2008
+Rogers 2003
+Rosenbaum and Rubin 1983
+Rotchford and Roberts 1982
+Rubin 2006
+Ruiter and De Graaf 2006
+Ruiter and De Graaf 2010
+Saegert, Swap, and Zajonc 1973
+Sargent 2005
+Schaefer et al. 2011
+Schaefer, Kornienko, and Fox 2011
+Schooler 1978
+Scott 2004
+Scott and Meyer 1994
+Simpkins et al. 2012
+Smith, McPherson, and SmithLovin 2014
+Stattin and Magnusson 1990
+Strang and Soule 1998
+Suchman 1995
+Sun et al. 2013
+Swap 1977
+Tajfel 1982
+Thomas 2006
+Trinitapoli and Vaisey 2009
+Useem 1984
+Uzzi 1997
+Uzzi and Lancaster 2003
+Van den Bulte and Lilien 2001
+Van der Meer, Te Grotenhuis, and Pelzer 2010
+Walker and Zelditch 1993
+Walker, Thomas, and Zelditch 1986
+White, Boorman, and Breiger 1976
+Wilson and Musick 1999
+Wilson and Ross 2000
+Zajonc 1968
+Zelditch and Walker 2003
+Zhang et al. 2015
+Zucker 1977

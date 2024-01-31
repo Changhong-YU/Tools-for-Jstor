@@ -1,0 +1,474 @@
+JSTOR Citation List
+@comment{{ These records have been provided through JSTOR. http://www.jstor.org }}
+
+
+@article{10.2307/2775469,
+ ISSN = {00029602, 15375390},
+ URL = {http://www.jstor.org/stable/2775469},
+ abstract = {Fifty-six small, private American colleges are used as substitutes for total societies in order that a global theory of social change and social integration can be investigated. Schools are classified by degree of secularization and quality, and a number of measures of their cohesion are then observed. High-quality secular colleges and low-quality sacred colleges are found to be similar in cohesion, whereas schools that are either sacred or high quality evidence less cohesion. This pattern is interpreted as the replacement by incorporation of what is lost through secularization.},
+ author = {Phillip E. Hammond},
+ journal = {American Journal of Sociology},
+ number = {2},
+ pages = {188--194},
+ publisher = {University of Chicago Press},
+ title = {Secularization, Incorporation, and Social Relations},
+ urldate = {2022-06-20},
+ volume = {72},
+ year = {1966}
+}
+
+
+
+
+
+@article{10.2307/3088893,
+ ISSN = {00031224},
+ URL = {http://www.jstor.org/stable/3088893},
+ abstract = {Does religious pluralism undermine or promote religious involvement? Some secularization theories contend that diversity breeds loss of belief and lower participation. The religious economies model counters that involvement is boosted by the availability of alternative religious suppliers and the competition that results, with each group working harder to gain adherents. The issue is sufficiently important that a recent review found 193 tests of this question in 26 published articles. Almost all of these findings (both positive and negative) should be abandoned. The associations reported do not reflect the effects of pluralism but a previously overlooked mathematical relationship between measures of religious participation and the index of pluralism. Even when pluralism has no effect on participation, the correlation between these two variables is likely to be nonzero. The sign and magnitude of this expected correlation depend on the nature of the size distributions of the religious groups across the areas studied. Results from several frequently cited studies closely match what would be expected from chance alone. Various alternative methods for studying pluralism in future research are examined, but currently there is no compelling evidence that religious pluralism has any effect on religious participation.},
+ author = {David Voas and Alasdair Crockett and Daniel V. A. Olson},
+ journal = {American Sociological Review},
+ number = {2},
+ pages = {212--230},
+ publisher = {[American Sociological Association, Sage Publications, Inc.]},
+ title = {Religious Pluralism and Participation: Why Previous Research Is Wrong},
+ urldate = {2022-06-20},
+ volume = {67},
+ year = {2002}
+}
+
+
+
+
+
+@article{10.2307/2573804,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/2573804},
+ author = {W. Seward Salisbury},
+ journal = {Social Forces},
+ number = {3},
+ pages = {197--205},
+ publisher = {Oxford University Press},
+ title = {Religion and Secularization},
+ urldate = {2022-06-20},
+ volume = {36},
+ year = {1958}
+}
+
+
+
+
+
+@article{10.2307/2580531,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/2580531},
+ abstract = {Over the past two or three decades there has been a substantial decline in support for traditional beliefs about premarital sex. From theories about religious privatization and religious plausibility structures it was predicted the decline was slower among conservative Protestants who attended church often than among any other group of Christians. The prediction was tested using data from the 1972-93 Cumulative Social Surveys. The findings indicate that among conservative Protestants who attended church often there was no decline in support for traditional beliefs about premarital sex between 1972 and 1993. On the other hand, support for such beliefs declined significantly among mainline Protestants and Catholics at all levels of church attendance and among conservatives who were infrequent attenders. Theoretical implications of these findings are discussed.},
+ author = {Larry R. Petersen and Gregory V. Donnenwerth},
+ journal = {Social Forces},
+ number = {3},
+ pages = {1071--1088},
+ publisher = {Oxford University Press},
+ title = {Secularization and the Influence of Religion on Beliefs about Premarital Sex},
+ urldate = {2022-06-20},
+ volume = {75},
+ year = {1997}
+}
+
+
+
+
+
+@article{10.2307/2578520,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/2578520},
+ abstract = {The theory of secularization is a product of the social and cultural milieu from which it emerged. The expectation of receding religious influence fits well the evolutionary model of modernization. Critical reexamination reveals secularization to be an orienting concept grounded in an ideological preference rather than a systematic theory. This paper examines the historical context which permitted the idea of secularization to go unchallenged for so long, and then develops four discrete types of evidence to account for the present challenge to the theory.},
+ author = {Jeffrey K. Hadden},
+ journal = {Social Forces},
+ number = {3},
+ pages = {587--611},
+ publisher = {Oxford University Press},
+ title = {Toward Desacralizing Secularization Theory},
+ urldate = {2022-06-20},
+ volume = {65},
+ year = {1987}
+}
+
+
+
+
+
+@article{10.2307/590663,
+ ISSN = {00071315, 14684446},
+ URL = {http://www.jstor.org/stable/590663},
+ abstract = {The apparent resurgence of conservative or fundamentalist religion in various parts of the world calls into question sociological orthodoxy about secularization. This essay uses the example of the failure of the new Christian right (NCR) in American as an opportunity to reconsider the relationship between religion and modernity. In addition to assessing the career of the NCR, it argues that there are obvious reasons why fundamentalist movements will not succeed in establishing an imperium. Although the cognitive threats to supernaturalistic religion of science and technology can be readily neutralised, the problems of adapting to social, cultural and religious pluralism cannot. In the language of church, sect, and denomination, fundamentalism can maintain itself in a sectarian form but given that the cultural homogeneity required for a church no longer exists, expansion into the wider society brings pressure to shift to a more denominational self-image.},
+ author = {Steve Bruce},
+ journal = {The British Journal of Sociology},
+ number = {4},
+ pages = {477--496},
+ publisher = {[Wiley, London School of Economics and Political Science, London School of Economics]},
+ title = {Modernity and Fundamentalism: The New Christian Right in America},
+ urldate = {2022-06-20},
+ volume = {41},
+ year = {1990}
+}
+
+
+
+
+
+@article{10.2307/2095353,
+ ISSN = {00031224},
+ URL = {http://www.jstor.org/stable/2095353},
+ abstract = {Theories about the secularization of society notwithstanding, basic indicators of participation in organized religion show little change over the 50 years covered by the survey research record. Among Protestants, we find that 1950 was a point of low attendance with no prior or subsequent deviation from an average of 40 percent weekly attendance. Among Catholics, attendance rates fell rapidly between 1968 and 1975 but not before or after. Since there are few other trends in the data, we focus on this period of falling attendance among Catholics. The key to falling attendance was the conjuncture of vocal defense of traditional sexual teaching by the Pope and other leaders in the face of rapidly growing opposition to that position among the church-going population. Many Catholics who disagreed with Church teachings on sexuality reduced their attendance (very few actually left the Church). Among active Catholics, opposition to the hierarchy continues to grow, but there has been no decline in attendance rates since 1975. From a latent variable analysis, we conclude that loyalty to the community and communal values is the factor that separates the active from the lapsed Catholics in the 1980s.},
+ author = {Michael Hout and Andrew M. Greeley},
+ journal = {American Sociological Review},
+ number = {3},
+ pages = {325--345},
+ publisher = {[American Sociological Association, Sage Publications, Inc.]},
+ title = {The Center Doesn't Hold: Church Attendance in the United States, 1940-1984},
+ urldate = {2022-06-20},
+ volume = {52},
+ year = {1987}
+}
+
+
+
+
+
+@article{10.2307/2781954,
+ ISSN = {00029602, 15375390},
+ URL = {http://www.jstor.org/stable/2781954},
+ abstract = {Internal secularization is reconceptualized as religious authority's declining scope within religious organizations. It is analyzed as the outcome of intraorganizational conflics between elites of two parallel stuctures within denominations: religious authority and agencies. Using longitudinal data collected from 83 Protestant denominations, this article finds that, generally, religious authority has decreasing control over denominations' organizational resources. But internal secularization is neither complete nor irreversible. Drawing on organizational and social movement theory, this article connects variation in internal secularization primarily to variation in the extent to which both religious authority and agencies are centralized. Recently resurgent religious authority is discussed.},
+ author = {Mark Chaves},
+ journal = {American Journal of Sociology},
+ number = {1},
+ pages = {1--48},
+ publisher = {University of Chicago Press},
+ title = {Intraorganizational Power and Internal Secularization in Protestant Denominations},
+ urldate = {2022-06-20},
+ volume = {99},
+ year = {1993}
+}
+
+
+
+
+
+@article{10.2307/2657418,
+ ISSN = {00031224},
+ URL = {http://www.jstor.org/stable/2657418},
+ abstract = {Immigrant religious communities in the United States are undergoing profound transformations. Three processes of change occurring in new immigrant religions are described and analyzed: (1) adopting the congregational form in organizational structure and ritual, (2) returning to theological foundations, and (3) reaching beyond traditional ethnic and religious boundaries to include other peoples. These changes support the "new paradigm" in the sociology of religion that refutes secularization theories: Internal and external religious pluralism, instead of leading to the decline of religion, encourages institutional and theological transformations that energize and revitalize religions. Moreover, these changes are not merely attributable to Americanization. Rather, these changes have transnational implications for global religious systems-implications that are facilitated by the material and organizational resources that new U.S. immigrants possess.},
+ author = {Fenggang Yang and Helen Rose Ebaugh},
+ journal = {American Sociological Review},
+ number = {2},
+ pages = {269--288},
+ publisher = {[American Sociological Association, Sage Publications, Inc.]},
+ title = {Transformations in New Immigrant Religions and Their Global Implications},
+ urldate = {2022-06-20},
+ volume = {66},
+ year = {2001}
+}
+
+
+
+
+
+@article{10.2307/2575735,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/2575735},
+ abstract = {Secularization is the object of controversy and unclarity. By restricting the concept to traditional forms of religiosity, and by distinguishing it multidimensionally, similar to Glock and Stark's model of religious commitment, it can be fruitfully applied. A priori hypotheses predicting increases in secularization based on differences in urbanization and industrialization from samples of Catholic male adolescents in Merida, San Juan, St. Paul, and New York are partially confirmed, and the need for a multidimensional concept of secularization is underscored. A suggested expansion of the concept would include vocabularies of motives, e.g., Anglo respondents checked parental expectations as reasons for attending church considerably more than did the Latin respondents. Caution is in order, however, when applying data from a cross-sectional design to theories of change.},
+ author = {Andrew J. Weigert and Darwin L. Thomas},
+ journal = {Social Forces},
+ number = {1},
+ pages = {28--36},
+ publisher = {Oxford University Press},
+ title = {Secularization: A Cross-National Study of Catholic Male Adolescents},
+ urldate = {2022-06-20},
+ volume = {49},
+ year = {1970}
+}
+
+
+
+
+
+@article{10.2307/3559496,
+ ISSN = {02667215, 14682672},
+ URL = {http://www.jstor.org/stable/3559496},
+ abstract = {This paper critically reviews Ronald Inglehart's recent comparative work on value change in modern societies. It is argued that Inglehart's central thesis - value change seen primarily as a consequence of technological development and economic growth, leading to the spread of secular-rational and self-expression values - is materialist, unilinear, and comparative-static. The example of religious secularization is used to show an alternative comparative approach which takes into consideration institutional characteristics of states and societies.Two aspects of Inglehart's methodology are investigated: his measurement of 'traditional vs. secular-rational' and 'survival vs. self-expression values' and his treatment of units and levels of measurement. It is shown that his scales are heterogeneous collections of items, that his classification of the countries into 'cultural zones' is not very consistent, and that he is unaware of the distinction between the macro and micro levels of analysis. Comparative data on national identity and pride are used to show the importance of this distinction. Three general requirements of comparative research are outlined in the concluding section.},
+ author = {Max Haller},
+ journal = {European Sociological Review},
+ number = {2},
+ pages = {139--158},
+ publisher = {Oxford University Press},
+ title = {Theory and Method in the Comparative Study of Values: Critique and Alternative to Inglehart},
+ urldate = {2022-06-20},
+ volume = {18},
+ year = {2002}
+}
+
+
+
+
+
+@article{10.2307/2094731,
+ ISSN = {00031224},
+ URL = {http://www.jstor.org/stable/2094731},
+ abstract = {A "generation unit" theory derived from Mannheim's discussion is developed as an explanation of irregularity in the secularization process. This approach indicates that distinct shifts in religious trends may be the result of age strata attempting to differentiate themselves symbolically from some other age strata. Applying this approach to recent patterns of secularization suggests that the so-called counterculture of the late 1960s may have been an important source of the shifts evident in religious trends. Tests of five derivative hypotheses using a variety of data sets lend support to this interpretation. Other instances of dramatic fluctuation in religious patterns that may be understandable as generational phenomena are suggested.},
+ author = {Robert Wuthnow},
+ journal = {American Sociological Review},
+ number = {5},
+ pages = {850--867},
+ publisher = {[American Sociological Association, Sage Publications, Inc.]},
+ title = {Recent Pattern of Secularization: A Problem of Generations?},
+ urldate = {2022-06-20},
+ volume = {41},
+ year = {1976}
+}
+
+
+
+
+
+@article{10.1086/497307,
+ ISSN = {00029602, 15375390},
+ URL = {http://www.jstor.org/stable/10.1086/497307},
+ abstract = {In Suicide, Durkheim found that involvement in religious communities is inversely related to suicide risk. In this article, two explanations for this relationship are examined. One is that religious networks provide support. The other is that religious communities prohibit suicide. To examine these hypotheses, individual‐level data on suicide in the Netherlands from 1936 to 1973 are used. The results show that with an increase in the proportion of religious persons in a municipality, the chances of committing suicide decrease for every denomination in that municipality, as well as among nonchurch members. Furthermore, along with the secularization of Dutch society, the impact of religious composition on suicide wanes. These results contradict the network‐support mechanism and confirm the notion that religious communities have a general protective effect against suicide.},
+ author = {Frank van Tubergen and Manfred te Grotenhuis and Wout Ultee},
+ journal = {American Journal of Sociology},
+ number = {3},
+ pages = {797--823},
+ publisher = {The University of Chicago Press},
+ title = {Denomination, Religious Context, and Suicide: Neo‐Durkheimian Multilevel Explanations Tested with Individual and Contextual Data},
+ urldate = {2022-06-20},
+ volume = {111},
+ year = {2005}
+}
+
+
+
+
+
+@article{10.2307/591652,
+ ISSN = {00071315, 14684446},
+ URL = {http://www.jstor.org/stable/591652},
+ abstract = {The article analyses the increasing controversy in Britain surrounding Sunday Trading laws. It asks whether some aspects of the continuing public debate over Sunday Trading may serve as useful indices of the degree of secularization of British society. It distinguishes between three different dimensions of secularization, concluding that: there is no necessary correlation between secularization, if it is defined in terms of declining levels of religious participation, and the increasing incidence of Sunday Trading; where secularization is defined in terms of religious change, religion in contemporary Britain has tended to move in directions likely to be more open to Sunday Trading; the ongoing contest in British society over the question of Sunday Trading lends weight to the proposition that secularization, if defined in terms of the marginalization of religion in modern society, is not a one-way process: there has been significant, and so far apparently successful, organized opposition on the part of churches and their allies to the legalized extension of Sunday Trading -- this should probably be interpreted as a counter-secularizing tendency. Whatever category of secularization is invoked, however, the Sunday Trading debate remains an intensely ambiguous arena of contestation.},
+ author = {Philip Richter},
+ journal = {The British Journal of Sociology},
+ number = {3},
+ pages = {333--348},
+ publisher = {[Wiley, London School of Economics and Political Science, London School of Economics]},
+ title = {Seven Days' Trading Make One Weak? The Sunday Trading Issue as an Index of Secularization},
+ urldate = {2022-06-20},
+ volume = {45},
+ year = {1994}
+}
+
+
+
+
+
+@article{10.2307/2779996,
+ ISSN = {00029602, 15375390},
+ URL = {http://www.jstor.org/stable/2779996},
+ abstract = {Given the need for a multidimensional approach to religious commitment, this study uses a new Bayesian cohort analysis to study data from the United States, Holland, and Japan. After tests of the secularization thesis, this study's findings indicate that secularization cannot be viewed as a "global phenomenon" of modern societies and suggest that the thesis is derived from generational difference factors and often from domestic sociohistorical events. Bahr's traditional model was partially supported for the United States, where aging has a slight effect on church attendance. A similar trend was found for Holland for religious affiliation. The aging process in Japan has a significant effect on religious belief.},
+ author = {Masamichi Sasaki and Tatsuzo Suzuki},
+ journal = {American Journal of Sociology},
+ number = {5},
+ pages = {1055--1076},
+ publisher = {University of Chicago Press},
+ title = {Changes in Religious Commitment in the United States, Holland, and Japan},
+ urldate = {2022-06-20},
+ volume = {92},
+ year = {1987}
+}
+
+
+
+
+
+@article{10.2307/2083184,
+ ISSN = {03600572, 15452115},
+ URL = {http://www.jstor.org/stable/2083184},
+ abstract = {This review article draws upon all of the social science literature about the Mormons published in the United States during the 20th century, though it is based primarily on the 250-plus references furnished at the end. These references are limited to the English language citations in the major bibliographic reference works such as the International Index to the Social Sciences, the Social Science Citation Index, Sociological Abstracts, and the indexes to the major scholarly journals of religion not cited in these general reference works. During the first half of the twentieth century, scholarly literature on the Mormons dealt primarily with historical and contemporary studies of social geography, rural sociology, agricultural economics, the family, and fertility among the Mormons. Although these topics continue to be studied, since mid-century new foci of interest have appeared in the literature, including the impact of modernization and secularization upon the Mormon subculture and religion; shifting public images of Mormonism; Mormon involvement in politics; Mormon relationships with ethnic groups, especially with blacks; sex roles and the position of women within the Mormon subculture; and the growth of Mormonism outside North America. A somewhat less prominent, but also important, emphasis in the more recent literature is Mormon religiosity and its consequences. Among the potentially interesting topics scarcely addressed in any of the literature on Mormons are social stratification and the distribution of power within the Mormon Church and communities; parent-child relationships (despite a fairly large extant literature on other family topics); deviant behavior, singleness and divorce, the erosion of patriarchy, and internal efforts to deal with these phenomena; plus proselyting, conversion, defection, and schisms within the Mormon movement. Much could also be learned from more extensive studies of the consequences of the large-scale "exportation" of Mormonism now underway, especially in the Third World, given the recent observation by prominent non-Mormon scholars that Mormonism may be on the verge of mushrooming into the first new world religion since Islam.},
+ author = {Armand L. Mauss},
+ journal = {Annual Review of Sociology},
+ number = {},
+ pages = {437--460},
+ publisher = {Annual Reviews},
+ title = {Sociological Perspectives on the Mormon Subculture},
+ urldate = {2022-06-20},
+ volume = {10},
+ year = {1984}
+}
+
+
+
+
+
+@article{10.2307/591342,
+ ISSN = {00071315, 14684446},
+ URL = {http://www.jstor.org/stable/591342},
+ abstract = {Working within a specific secularization paradigm and with data on church attendance, self-assessed religiosity, Christian doctrinal orthodoxy and devotionalism, this article develops societal profiles of religious involvement of ten European countries included in the 1981 European Values Survey. Overall the findings support Martin's work in his book, A General Theory of Secularization (1978).},
+ author = {Liana Giorgi},
+ journal = {The British Journal of Sociology},
+ number = {4},
+ pages = {639--656},
+ publisher = {[Wiley, London School of Economics and Political Science, London School of Economics]},
+ title = {Religious Involvement in a Secularized Society: An Empirical Confirmation of Martin's General Theory of Secularization},
+ urldate = {2022-06-20},
+ volume = {43},
+ year = {1992}
+}
+
+
+
+
+
+@article{10.2307/2579184,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/2579184},
+ abstract = {Both in the popular mind and in the social sciences, images of the modern world and the forces that brought it into existence frequently incorporate some notion of secularization as an essential process. Challenging the secularization thesis is the focal concern of this essay; claims of diminishing religious significance are reinterpreted as evidence of religious transformation. The argument unfolds initially by outlining the secularization thesis and identifying its principal weaknesses. Next, the contributions of key sociological theorists (Durkheim and Marx, in particular) serve as a basis for extracting some useful elements of the transformation thesis. Finally, the hypothesis of religious transformation is presented with special reference to the relation between the evolution of sacred symbols and the market and polity dimensions of sovereign organization in the modern world.},
+ author = {Timothy Crippen},
+ journal = {Social Forces},
+ number = {2},
+ pages = {316--336},
+ publisher = {Oxford University Press},
+ title = {Old and New Gods in the Modern World: Toward a Theory of Religious Transformation},
+ urldate = {2022-06-20},
+ volume = {67},
+ year = {1988}
+}
+
+
+
+
+
+@article{10.2307/3005737,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/3005737},
+ abstract = {The relationship between secularization theory and open-systems theory of organization is explored in its application to explanation of Roman Catholic Church involvement in education and social welfare in the United States. It is suggested that an organizational model accounts for what can only be regarded as error by the secularization hypothesis. Four hypotheses are deduced, relating extent of church involvement to the minority status and ethnicity of the Catholic population, and the degree of modernization and overt hostility of its milieu. The test of the hypotheses relies on demographic and socioeconomic data; states are units of analysis. Correlation and regression are the principal techniques of analysis. With some qualifications, the model receives clear support.},
+ author = {Kenneth Westhues},
+ journal = {Social Forces},
+ number = {3},
+ pages = {460--469},
+ publisher = {Oxford University Press},
+ title = {An Elaboration and Test of a Secularization Hypothesis in Terms of Open-Systems Theory of Organization},
+ urldate = {2022-06-20},
+ volume = {49},
+ year = {1971}
+}
+
+
+
+
+
+@article{10.2307/522633,
+ ISSN = {02667215, 14682672},
+ URL = {http://www.jstor.org/stable/522633},
+ abstract = {In this paper I examine generational changes in men and women's attitudes to abortion across nations and time. First, I use time-series data from British Social Attitudes and the General Social Survey of the United States to track men and women's changing attitudes. In particular, I investigate whether change is due mainly to period effects or to cohort replacement. I also compare the trajectory and pace of change in the two countries. Second, I use data from the International Social Survey Programme to compare Anglo-American attitudes with those of four other nations (Ireland, Germany, Sweden, and Poland) that have very different abortion policies. Although gender differences in attitudes to abortion are rare, generational differences tend to be conditioned on gender. As predicted, post-pill cohorts of women adopt a more favourable stance than earlier cohorts. In Britain, over the last decade, women's attitudes have become more liberal far more rapidly than men's, resulting in a gender gap in the 1990s. Gender differences in generational effects are apparent in the six-nation comparison, even when religion is taken into account. It is argued that rising expectations concerning reproductive control, together with generational succession and increasing secularization, will further increase endorsement of abortion but is unlikely to eradicate policy dispute.},
+ author = {Jacqueline Scott},
+ journal = {European Sociological Review},
+ number = {2},
+ pages = {177--190},
+ publisher = {Oxford University Press},
+ title = {Generational Changes in Attitudes to Abortion: A Cross-National Comparison},
+ urldate = {2022-06-20},
+ volume = {14},
+ year = {1998}
+}
+
+
+
+
+
+@article{10.2307/591602,
+ ISSN = {00071315, 14684446},
+ URL = {http://www.jstor.org/stable/591602},
+ abstract = {Recent critics of the secularization thesis have questioned the extent to which premodern Britain was religious by creating a caricature of a 'Golden Age of Faith' and then showing that the reality fell short of that image. This rejoinder stresses the need to appreciate the nature of religion pre-Reformation and draws on the work of leading historians to show that, even if we accept the most jaundiced view of religion before and shortly after the Reformation, the previous orthodoxy was more accurate than the recent revisions. In Laslett's phrase, 'the world we have lost' was a religious world.},
+ author = {Steve Bruce},
+ journal = {The British Journal of Sociology},
+ number = {4},
+ pages = {667--680},
+ publisher = {[Wiley, London School of Economics and Political Science, London School of Economics]},
+ title = {The Pervasive World-View: Religion in Pre-Modern Britain},
+ urldate = {2022-06-20},
+ volume = {48},
+ year = {1997}
+}
+
+
+
+
+
+@article{10.2307/590666,
+ ISSN = {00071315, 14684446},
+ URL = {http://www.jstor.org/stable/590666},
+ abstract = {It is becoming increasingly apparent that there is a division of opinion about the British contribution to the sociology of religion. Whilst no one disputes the scholarly quality of the best work in this field, there is less agreement about whether the bulk of the work has much relevance to understanding contemporary social developments or to mainstream sociology. Critics have argued that an excessive focus on secularization and sects has meant that British sociologists of religion have marginalized their subject-matter. This tendency has combined with an exaggerated disdain for theoretical developments in sociology, which has further marginalized the sub-discipline. All of this is in marked contrast with the central position that the sociology of religion occupied in classical sociology, as exemplified by Durkheim. A reassessment of Durkheim's sociology of the sacred and of morals might be one way of re-directing British sociology of religion into the mainstream of sociology.},
+ author = {Kenneth Thompson},
+ journal = {The British Journal of Sociology},
+ number = {4},
+ pages = {531--535},
+ publisher = {[Wiley, London School of Economics and Political Science, London School of Economics]},
+ title = {Religion: The British Contribution},
+ urldate = {2022-06-20},
+ volume = {41},
+ year = {1990}
+}
+
+
+
+
+
+@article{10.2307/522776,
+ ISSN = {02667215, 14682672},
+ URL = {http://www.jstor.org/stable/522776},
+ abstract = {In this article, we examine the influence of individual attributes (education, parental education, religious homogamy of parents, religious homogamy of respondent and spouse, frequency of attending religious services, and denomination) and contextual characteristics (cohort and period effects of secularization) on the risk of leaving a faith, using life-event data from the Dutch Family Survey 1992-1993. This approach allows a stronger test of the direction of causality, and enables us to disentangle life-cycle, period, and cohort effects. The results show that education, parental education, and marrying a non-religious spouse significantly increase the risk of becoming unchurched. With regard to the influence of both one's own and one's parents' education, it appears that up to the level of higher secondary education (HAVO) each higher level of education linearly increases the risk of becoming unchurched. Also, the results show a non-linear life-cycle effect: people are more likely to leave their faith when they are in their late teens. Furthermore, our results suggest a period effect: the current level of secularization increases the risk of becoming unchurched.},
+ author = {Ariana Need and Nan Dirk de Graaf},
+ journal = {European Sociological Review},
+ number = {1},
+ pages = {87--99},
+ publisher = {Oxford University Press},
+ title = {'Losing My Religion': A Dynamic Analysis of Leaving the Church in the Netherlands},
+ urldate = {2022-06-20},
+ volume = {12},
+ year = {1996}
+}
+
+
+
+
+
+@article{10.2307/2578784,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/2578784},
+ abstract = {This paper offers a macro-level explanation of the way in which Roman Catholicism, as an organization or social system, has changed during the twentieth century. Rejecting a primary focus on secularization, rationalization, and delegitimation theses, the term, "contested accommodation" is introduced. Catholicism has accommodated to its surrounding milieu, largely by incorporating contemporary structures and principles and by building on the advances of science. But the accommodation has not been complete, automatic, or peaceful. Instead, it has been partial and conflict-laden, arising in conflict, progressing through power struggles, and continuing in conflict. "Contested accommodation" implies a set of processes whereby the changes occurred. These include evolutionary updating, religious reconstruction, and power contention. Yet given all these factors, I suggest that such radical change as that undergone by Catholicism will only occur if accident, luck, or the force of key personalities tips the balance in favor of change.},
+ author = {John Seidler},
+ journal = {Social Forces},
+ number = {4},
+ pages = {847--874},
+ publisher = {Oxford University Press},
+ title = {Contested Accommodation: The Catholic Church as a Special Case of Social Change},
+ urldate = {2022-06-20},
+ volume = {64},
+ year = {1986}
+}
+
+
+
+
+
+@article{10.2307/2579145,
+ ISSN = {00377732, 15347605},
+ URL = {http://www.jstor.org/stable/2579145},
+ abstract = {Twenty variables, representing competing theories, were compared in their ability to explain church membership rates (CMRs) in 288 metropolitan areas for 1980, using multiple regression. Strong support emerged for social bond theory, which predicts low rates of church membership in communities with high social instability, such as that caused by geographic migration. Secularization theories, however, did not fare well. Their prediction that CMRs would be low in big cities was contradicted, and CMRs correlated positively with percent urban, rather than negatively. Although education correlates negatively with CMRs, this may be the effect of economic prosperity rather than the secularizing effect of education itself. Life cycle theories of church membership received only weak support.},
+ author = {William Sims Bainbridge},
+ journal = {Social Forces},
+ number = {4},
+ pages = {1287--1296},
+ publisher = {Oxford University Press},
+ title = {Explaining the Church Member Rate},
+ urldate = {2022-06-20},
+ volume = {68},
+ year = {1990}
+}
+

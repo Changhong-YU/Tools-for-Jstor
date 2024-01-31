@@ -1,0 +1,1272 @@
+Boise State University
+ScholarWorks 
+Sociology Faculty Publications and Presentations Department of Sociology 
+11-1-2017 
+
+In the Organization’s Shadow: How IndividualBehavior is Shaped by Organizational Leakage 
+Matthew E. Brashears 
+University of South Carolina 
+
+Michael Genkin 
+Singapore Management University 
+
+Chan S. Suh 
+Boise State University 
+10.1086/693703 
+
+In the Organization’s Shadow: How Individual Behavior Is Shaped by Organizational Leakage1 
+Matthew E. Brashears 
+University of South Carolina 
+Michael Genkin 
+Singapore Management University 
+Chan S. Suh 
+Boise State University 
+Individuals who join an organization often adopt its characteristic be-haviors, but does the same effect extend to nearby nonmembers, and is this process impeded or enhanced by the competition between orga-nizations? This article argues that organizations in.uence the behav-ior of both members and proximate nonmembers in a process we term “organizational leakage” and that competition between organizations moderates the impact of any one of them on individual behavior. This article .nds, using the Add Health data, that an individual’s location in an organizational ecology is an important predictor of his or her be-havior, even while controlling for other factors, including membership. 
+Organizations, and organizational competition, affect individual behavior. Organizations are unique social entities that exhibit behaviors (Argote and Greve 2007; Gavetti, Levinthal, and Ocasio 2007), possess identities (Albert and Whetten 1985; Gioia et al. 2010), and exert a powerful normative in-
+1 Preliminary versions of this article were presented at Sunbelt XXXII and at the annual meeting of the American Sociological Association in Denver, Colorado. The authors thank Jon Kleinberg, Edward Lawler, Michael Macy, David Strang, Pamela Tolbert, Brayden 
+. 2017 by The University of Chicago. All rights reserved. 0002-9602/2017/12303-0004$10.00 
+AJS Volume 123 Number 3 (November 2017): 787–849 787 
+.uence over their members (Alexander, Zucker, and Brody 1970; Zucker 1977). Organizations are also embedded in environments (see Scott 2004) and are in.uenced both by events taking place in other organizations (Davis 1991; Strang and Soule 1998) and by the knowledge of new recruits (DiMaggio and Powell 1983). Finally, organizations are in competition with each other, both for members (McPherson 1983; McPherson and Ranger-Moore 1991) and for customers (Hannan and Freeman 1989). Thus, organizations directly affect the behaviors of both individual members and other organizations. But can organizations also in.uence socially proximate nonmembers, and is the organizational in.uence on individual behaviors moderated by competition between organizations? 
+We argue that the answer to both of these questions is yes. Organizational boundaries are porous, which allows new behaviors to enter the organiza-tion from the outside, while also permitting behaviors to leak out of the or-ganization into the local social environment. Proximity to an organization in social space should thus make these leaking behaviors more available and attractive to individuals who are not members of that organization, as long as both are part of the same local context. Moreover, organizations compete with each other for members, for resources, and for clients; and when individuals are exposed to the behaviors of many different organiza-tions (i.e., high organizational competition), the in.uence of any one organi-zation will be diminished. As a result, the behaviors of individuals can be fully understood only when placed in the context of organizations and the competition between them. 
+We begin by describing previous research on organizations, their effects on individual behavior, and their interactions with their environment. Orga-nizations have a uniquely powerful ability to generate and maintain norms, thereby in.uencing member behavior. We then introduce McPherson’s (1983) af.liational ecology or “Blau space” model and extend it by linking organizational competition to individual-level behavior. Blau space allows us to model ecological forces and to capture “casual contact,” or interpersonal 
+King, Ben Cornwell, Brian Rubineau, Beth Duckles, Laura Aufderheide Brashears, Yongren Shi, Nicholas Harrigan, Jordan Raddick, and Yisook Lim for their helpful sug-gestions. All remaining errors are strictly the responsibility of the authors. This research was supported by a grant from the Defense Threat Reduction Agency (HDTRA-10-1-0043). This research uses data from Add Health, a program project directed by Kathleen Mullan Harris and designed by J. Richard Udry, Peter S. Bearman, and Kathleen Mullan Harris at the University of North Carolina at Chapel Hill and funded by grant P01-HD31921 from the NICHD, with cooperative funding from 23 other federal agencies and foundations. This research also uses data from the Adolescent Health and Academic Achievement study, which was funded by a grant (R01 HD040428-02) from the NICHD and a grant (REC-0126167) from the National Science Foundation. For more informa-tion, see http://www.laits.utexas.edu/ahaa. Direct all correspondence to Matthew E. Brashears, Sloan College, University of South Carolina, Room 321, 911 Pickens Street, Columbia, South Carolina 29208. E-mail: brasheam@mailbox.sc.edu 
+contacts that are impractical or impossible to measure with conventional so-cial network instruments. We argue that individuals are more likely to ex-hibit behaviors that are common in a cohesive organization that competes for their time, regardless of whether they are members of that organization. We further argue that the strength of this effect is moderated by the degree of competition the individual experiences: when one is being competed over by several organizations, the degree of in.uence that any one organization exerts over individual behavior is reduced. We then introduce .ve scope conditions that limit the applicability of our argument. In brief, our argu-ment applies to organizations that are structurally cohesive and to behav-iors that enjoy normative consensus in their host organizations, that can be observed in nonorganizational contexts, and that are potentially usable to those outside the organization. Additionally, we argue that organizational competition moderates these effects only when the organizations are com-peting over the same individuals. Finally, we demonstrate the utility of our model by using the Add Health data to predict individual behaviors (both conventional and delinquent) within a set of 81 independent organizational ecologies identi.ed using extracurricular activity membership. The results are consistent with our hypotheses and suggest important avenues for fu-ture research on organizations, norms, and social contagions. 
+BACKGROUND AND THEORY Individual Behavior, Organizations, and the Environment Organizations are distinctive social entities (e.g., Perrow 1979, 2002; Cole-
+man 1982, 1990), which can be viewed as “a particular kind of social actor, capable of behaving in a purposeful, intentional manner” (King, Felin, and Whetten 2010, p. 291). Organizations exhibit behavior (Argote and Greve 2007; Gavetti et al. 2007), possess identities (Albert and Whetten 1985; Gioia et al. 2010), and enact their own scripts (Gioia and Poole 1984). Moreover, organiza-tions are often viewed as actors by individuals (e.g., Scott and Meyer 1994) and possess their own unique cultures (Ouchi and Wilkins 1985). 
+In addition to having attitudes and behaviors at the organizational level, the members of an organization frequently possess characteristic patterns of attitudes and behaviors. Organizations tend to foster social identities (Tajfel 1982; Ashforth and Mael 1989; Ellemers, Spears, and Doosje 2002), and these identities are often associated with speci.c behaviors (e.g., Ashforth and Mael 1989; Eccles and Barber 1999; Barber, Eccles, and Stone 2001). Many behav-iors, though not all, are characteristic of particular organizations or organi-zational identities, and organizations of the same type (i.e., members of an “organizational .eld”; see DiMaggio and Powell 1983) often host similar individual behaviors. These characteristic behaviors can become norms (Friedkin 2001), which often (but not invariably; see Feldman 1984; Kitts 2006) support the objectives of the organization. The development of norms depends on perceptions of the situation (Alexander et al. 1970): persons who identify themselves as members of an organization transmit group norms to new members more quickly, maintain the norms more reliably, and resist the encroachment of rival norms more effectively than others (Zucker 1977). These norms are legitimated, and thereby entrenched, by both formal and informal authorization from superordinate individuals as well as by implicit or explicit endorsement from peers (Suchman 1995; Johnson, Dowd, and Ridgeway 2006). As a consequence, organizations are uniquely effective at transmitting and maintaining norms, and organizational culture is quite stable (Harrison and Carroll 2002). 
+While organizational culture is resistant to change, organizations are not static entities. Rather, they are embedded in environments and their bound-aries are porous to outside in.uences (see Scott 2004). The diffusion of ideas and behaviors between organizations can occur via several mechanisms (Strang and Soule 1998) and has been used to explain a wide variety of spe-ci.c outcomes (e.g., Holden 1986; Davis 1991; Conell and Cohn 1995), as well as organizational isomorphism (DiMaggio and Powell 1983) more gen-erally. Organizations also serve as foci around which social network ties form (Feld 1981), and these networks allow organization leaders to monitor the environment (Useem 1984) and in.uence organizational pro.tability and success (Uzzi 1997; Ingram and Roberts 2000). 
+Just as porous boundaries permit behaviors to enter the organization, they also allow organizational behaviors and attitudes to exit into the en-vironment by altering the actions of members across a variety of settings (see Rotchford and Roberts 1982). Kohn and Schooler (1978) use longitudi-nal data to .nd that job complexity leads to greater intellectual .exibility in nonjob tasks and that job characteristics in.uence current intellectual and personality traits expressed in nonemployment situations (Kohn and Schooler 1982). Similarly, Hanks (1981) .nds that participation in volun-tary organizations in adolescence leads to heightened political activity in early adulthood. McFarland and Thomas (2006) .nd that adolescent in-volvement in politically salient voluntary organizations (e.g., debate team, French club) predicts political activity in adulthood, while involvement in other types of voluntary organizations (e.g., cheerleading) does not (see also Wilson and Musick 1999). Adolescent involvement in extracurricular clubs has been shown to shape identities (Ashforth and Mael 1989; Hornsey 2008) as well as current and future educational, occupational, and substance use outcomes (Eccles and Barber 1999; Barber et al. 2001). Research using an adult population (Brady, Verba, and Schlozman 1995) .nds that involve-ment in organizations that promote “civic skills,” such as public speaking, leads to greater levels of political activity. Thus, both for-pro.t and volun-tary organizations are able to affect the behaviors of their current and for-mer members outside of organizational settings. Moreover, this appears to be a function of the organization’s characteristics (e.g., job complexity, po-litical salience) rather than solely a result of involvement in an organization, regardless of its characteristics or norms. 
+The existing research on organizations and individual-level behavior is substantial, but it can be extended in at least two respects: by examining the effects of organizations on nonmembers and by attending to the simul-taneous impact of multiple organizations on individuals. First, research has focused on how organizations affect member behaviors, both inside and outside of the organization, but the porous boundaries that allow practices to enter an organization can also permit the practices and norms (i.e., cul-ture) of an organization to leak out into the surrounding social network. Members do not cease exhibiting organization-typical behaviors whenever they are outside of the organization; instead they carry these behaviors into recreational, familial, and other settings. Mere exposure to a behavior is of-ten suf.cient to produce positive attitudes toward it (e.g., Zajonc 1968; Saegert, Swap, and Zajonc 1973; Brockner and Swap 1976; Swap 1977; Moreland and Zajonc 1982), making adoption of organizational behaviors by nonmembers more likely. Organizations have a powerful ability to de-velop and maintain norms (Zucker 1977), and many of these norms will have been legitimated within the organization. The adherence of organiza-tion members to these norms and their corresponding behaviors outside of organizational contexts implicitly endorses these behaviors to nonmembers (Walker, Thomas, and Zelditch 1986). This endorsement encourages non-members to view these behaviors as valid (i.e., socially appropriate), leading to feelings of propriety (i.e., that a behavior is appropriate for oneself ), and further encourages behavioral adoption (Walker and Zelditch 1993; Zel-ditch and Walker 2003). The organization therefore legitimates and stabi-lizes the behaviors of members and then, through members, exerts a con-sistent in.uence over nonmember behavior. While nonmembers certainly exert in.uence on members in return, this in.uence is not consistent across all nonmembers and lacks the legitimacy and stabilization provided by an organization. As a result, behaviors will tend to spread more readily from members to the nonmember population than the reverse. Exposure to or-ganizational behaviors can occur via direct association, such as when an organization member has an ongoing relationship (e.g., friends, romantic partners) with a nonmember, but this is not the only vector. There is also ca-sual contact wherein nonmembers who share the same settings with members (e.g., eating in the same restaurant, waiting at the same bus stop) are exposed to the behaviors of members without an ongoing relationship. Casual contact allows nonmembers to observe and adopt many behaviors in the absence of an ongoing relationship with an organizational member. Moreover, the num-ber of people who are in casual contact with organization members is likely to greatly exceed the total number who have ongoing relationships with mem-bers, thereby magnifying the scope of organizational in.uence. Some re-search (e.g., Giordano 2003; Crosnoe et al. 2008; Frank et al. 2008; Frank, Muller, and Mueller 2013; Sun et al. 2013) has already begun to uncover the importance of casual contact. Unfortunately, these efforts are limited, both in their ability to speak to a variety of types of casual contact and in their reliance on data that are rarely available (discussed more fully below). As such, there is considerable room for additional work on casual contact. Fi-nally, nonmembers who are indirectly connected to members via short chains of intermediaries (e.g., if a member is a “friend of a friend”) are more likely to hear about and adopt organization-typical behaviors secondhand. In all of these cases, socially proximate nonmembers will have greater exposure to, and an increased likelihood of adopting, organization-typical behaviors. In contrast, when a nonmember has few or no associates who are members, has infrequent or no casual contact with members, and is connected to mem-bers only via long chains of intermediaries, he will have lower exposure to, and a decreased likelihood of adopting, organization-typical behaviors. Thus, in a process that we term “organizational leakage,” both members and non-members are more likely to engage in organization-typical behaviors when the organization is part of the local social context (discussed more extensively below).2 If organizations affect the behavior of socially proximate nonmem-bers (i.e., if organizational leakage occurs), then efforts to predict individual behaviors must take organizational in.uences into account.3 
+Second, research on how organizations affect member behavior has typ-ically focused on one organization at a time, but the world contains multiple organizations and individuals are likely to be exposed to leakage from sev-eral organizations simultaneously. Since individuals have limited time and attention to devote to behaviors, persons who are exposed to multiple orga-nizations are unlikely to be able to fully adopt the characteristic (i.e., norma-tive) behaviors of all of those organizations. Moreover, the presence of mul-tiple organizations will produce con.icting endorsements, greatly weakening the ability of any one organization’s behaviors to be legitimated. Thus, when individuals are exposed to leakage from several organizations, the relative in-
+2 Organizational leakage is similar to, but more general than, the “religious network spill-over” hypothesis (e.g., Borgonovi 2008), which argues in part that higher religiosity in an area (e.g., a county or country) changes the behavior of religious and nonreligious indi-viduals (Kelley and De Graaf 1997; Ruiter and De Graaf 2006; Lim and MacGregor 2012; but see also Ruiter and De Graaf 2010; Van der Meer, Te Grotenhuis, and Pelzer 2010). We agree that group behaviors can spread to nonmembers, but we view leakage as a property of organizations generally rather than of religious organizations speci.cally. 
+3 This expectation is consistent with existing models of norm formation and equilibrium in social networks that explicitly include exogenous effects (e.g., Friedkin and Johnsen 1997; Friedkin 2001). 
+.uence that any one organization exerts will be reduced, even if the organi-zations and individuals are unaware that competition exists.4 Understanding individual behavior thus requires attention not just to organizations but to the competitive ecology of organizations. 
+To evaluate these ideas we need a method that can capture organizational leakage while simultaneously accounting for the effect of competition. This is especially dif.cult because organizational leakage can occur via casual contact, which is dif.cult to measure in a precise manner. These require-ments are met with the assistance of the next element of our theoretical structure: Blau space. 
+Blau Space and the Ecology of Af.liation We use Blau space to capture the social proximity of individuals and orga-nizations, to measure casual contact between individuals, and to model the competitive ecology of those organizations. Blau space, named in honor of Peter M. Blau, is a k-dimensional system in which each dimension is a so-ciodemographic parameter and each point is represented by a set of k coor-dinates (McPherson 1983; McPherson and Ranger-Moore 1991). Each set of coordinates represents a unique combination of sociodemographic charac-teristics, and both individuals and organizations can be represented in Blau space at coordinates that correspond to these combinations. Blau space can be used as a probabilistic description of social networks when network data are either unavailable or incomplete and allows us to model social processes by focusing on multidimensional propinquity rather than the linear effects of individual variables. 
+Blau space can serve as a probabilistic description of social networks be-cause of the prevalence of homophily (Lazarsfeld and Merton 1954), or the tendency for individuals to associate with those who are similar to them-selves (e.g., “birds of a feather .ock together”). Homophily is one of the most robust of all social science .ndings (e.g., McPherson, Smith-Lovin, and Cook 2001; Smith, McPherson, and Smith-Lovin 2014) and plays a signif-icant role in determining association in both the United States (Marsden 1987, 1988; Smith et al. 2014) and elsewhere (Brashears 2008b). As a conse-quence of homophily, nearness in a Blau space model is positively related to the likelihood of association across many types of relations, meaning that our social worlds tend to encompass only small, local regions of Blau space 
+4 Competition between organizations should reduce organizational leakage of all types but will most strongly affect behavior. Because behaviors are costly in terms of time, in-dividuals cannot adopt new behaviors without limit. Attitudes, on the other hand, im-pose relatively lower costs in time and are affected primarily by competition for attention. 
+(i.e., individual networks tend to be populated by those who are nearby in a Blau space model).5 
+Blau space is also a useful approach to modeling organizations such as religious groups, recreational clubs, businesses, and professional organiza-tions.6 Organizations exist for a variety of purposes and require a variety of resources, but they all require members, and this need contributes to a Blau space model in two important ways. First, organizations recruit new mem-bers primarily from among the associates of their existing members; one is more likely to join an organization that already includes people who are known. This is true even in for-pro.t organizations; informal recruiting via networks is the most common mode of recruitment in the labor market and is responsible for approximately half of all hires (Granovetter 1995; Bewley 1999; Marsden and Gorman 2001). However, the networks of mem-bers are constrained by homophily at the individual level and thus connect to others who are nearby in Blau space.7 As a result, organizations are local-ized to particular areas of a Blau space model, known as niches, and most organization members are drawn from within these niches. 
+Second, both the amount of time that any one person can devote to his memberships and the number of persons available in any given segment of a population (i.e., area in a Blau space model) are limited. As a conse-quence, organizations whose niches overlap are competing over the same limited pool of resources (i.e., member time and attention). The larger the number of organizations that attempt to draw members from the same area in a Blau space model (i.e., the same population segment), the more compe-tition these organizations experience. Thus, Blau space permits us to con-struct an ecological model of organizational membership, and the changing demographics of organizations can be predicted—at least in part—through a Darwinian process of recruitment and retention.8 Moreover, and in con-trast to some other approaches (e.g., Ku, Malhotra, and Murninghan 2005; Kilduff, Elfenbein, and Staw 2010), it is not necessary that organiza-
+5 Blau space is not real in a physical sense, but is simply a useful model, and care should 
+be taken to avoid reifying Blau space. 6 Blau space has usually been used to analyze “voluntary associations,” but as is clear in McPherson’s original (1983) treatment, the theory applies to all social organizations. Vol-untary associations are simply a useful test case for this more general theory. 
+7 Weak ties (Granovetter 1995) are often less constrained by homophily than strong ties, but stronger ties provide larger amounts (Aral and Van Alstyne 2011) of better-tailored (Marin 2012) information and thus are often more important to recruitment events. Nev-ertheless, both types of ties depend on foci (Feld 1981) and therefore tend to be homo-philous on characteristics associated with that focus. 
+8 This model is similar to population ecology models (e.g., Hannan and Freeman 1989) because both analogize to biological ecology. Blau space emphasizes competition for members, whereas population ecology focuses on competition for customers. See also Hannan, Carroll, and Polos (2003). 
+tions be aware that they are competing. As long as two organizations are exploiting the same .nite pool of resources, they are in competition and will affect one another’s fortunes. 
+The degree of competition in a region of a Blau space has predictable ef-fects on organizational memberships. In areas of high competition, current members are more likely to leave the organization (Popielarz and McPher-son 1995; McPherson and Rotolo 1996), drawn off by connections to others in competing groups. Likewise, recruitment efforts will be less successful as rival organizations pursue the same individuals. In contrast, areas of rela-tively low competition will produce more successful recruitment and less at-trition. Over time the niches of organizations drift away from areas of high competition (i.e., population segments that are being recruited by many or-ganizations) and toward areas of low competition (i.e., population segments that are being recruited by few, or no, organizations), eventually reaching equilibrium where the available resources have been divided between the competing organizations.9 However, periodic changes in the quantity of po-tential members (i.e., the carrying capacity of the system) will generate shifts in the positions of organization niches (McPherson and Ranger-Moore 1991) and prevent a static equilibrium. Organizations rely on individuals for their survival, and changes in the number and location of individuals in Blau space will produce changes in the location of organizational niches. 
+The Blau space model was constructed to explain the membership char-acteristics of organizations but has been used to explain individual familiar-ity with, and fondness for, cultural products (Mark 2003), such as musical styles (Mark 1998; Bonikowski 2010). In other words, cultural products, such as musical styles, can be modeled as competing for fans in much the same way that organizations compete for members, and in theory a wide va-riety of phenomena can be modeled in similar fashion (McPherson 2004). 
+Despite its broad theoretical potential, the Blau space model has been pri-marily used to explain why individuals join certain groups or adopt certain types of music, both of which can be viewed as memberships of one sort or another. It has not been used to detect the leakage of organizational norms and behaviors into the networks that surround the organization or to proxy for casual contact, and we use it for these purposes. 
+Organizational Leakage, Context Effects, and Casual Contact 
+As described above, organizational leakage is a process by which individu-als who are regularly exposed to organizational culture in their environment become more likely to exhibit organization-typical behaviors. Organiza-
+9 Organizations may also be able to develop symbiotic relationships, but this is beyond the scope of this article. See Shi et al. (2017) for an investigation of these issues. 
+tional leakage can thus be viewed as a type of context effect; nonmembers are likely to engage in the behaviors common in organizations that share their context. Context effects have a long history in social science (see Bla-lock 1984; Abbott 1997) but have often been criticized for assuming a form of “social telepathy” (Erbring and Young 1979). In other words, there must be a mechanism that allows the context to in.uence the individual. Social networks are a particularly valuable approach to solving this problem. In this method, in.uence is thought to move through ongoing interpersonal relationships, and thus measuring these relationships (i.e., network ties) permits one to understand how a context affects individual behavior (e.g., Marsden and Friedkin 1993; Kirke 2004; Centola 2010; Mercken et al. 2010; Friedkin and Johnsen 2011; Bond et al. 2012). This solves the social telepathy problem, but there are several dif.culties that limit the utility of this approach. First, network data are notoriously time intensive to collect (e.g., McCarty, Killworth, and Rennell 2007), and the average person main-tains networks of a few hundred (McCarty et al. 2001; Roberts et al. 2008; DiPrete et al. 2011) to nearly two thousand (Killworth et al. 1990) others. As a result, it is impractical or impossible to accurately measure all of the rela-tionships through which in.uence can .ow. This problem is exacerbated by the need to collect data from all members of the study population in order to correctly estimate in.uence effects (Lewis, Gonzalez, and Kaufman 2012). Second, while network methods are appropriate for measuring ongoing re-lationships, they are much less likely to capture the impact of casual contact. When we observe others engaging in behavior, it makes that behavior more cognitively accessible for us (i.e., it comes to mind more readily) and makes it appear more acceptable (i.e., endorses the behavior), even when those others are not people with whom we have a relationship. For example, chil-dren who observe people smoking in movies are more likely to smoke them-selves, even though they do not know the smokers personally (Dalton et al. 2003; Sargent 2005), and mere exposure has long been known to positively in.uence attitudes toward behaviors (Zajonc 1968; Saegert et al. 1973; Brockner and Swap 1976; Swap 1977; Moreland and Zajonc 1982). While network measures can capture in.uence conveyed by stable, ongoing rela-tionships, they cannot detect the effects of casual contact. Given that in a day we typically observe the behaviors of many others with whom we have no ongoing relationships, casual contact represents an important channel of in.uence. Casual contact has already received some limited attention, al-though much work remains to be done. Sun et al. (2013) found that adults tend to encounter the same strangers (i.e., casual contacts) on a predictable basis. Giordano (2003) showed that many types of relationships in.uence adolescents, including family members, direct associates, romantic part-ners, and, crucially, unconnected but salient others most often referred to as “crowds” (see also Brown, Eicher, and Petrie 1986; Eder and Parker 1987). While the impact of crowds on individuals is often viewed as an iden-tity effect and does not require association between members of a crowd, this work nevertheless suggests channels of in.uence other than the inter-personal ties measured by network analysis (see also Frank 2009). An excel-lent stream of research, utilizing adolescents, has identi.ed the importance of “local positions” (Field et al. 2006; Frank et al. 2008), or recurring pat-terns of copresence in foci (Feld 1981). In the school context, each course se-lected by an adolescent constrains the other courses that can .t in his or her schedule. Therefore, adolescents tend to sort themselves into particular con-.gurations of courses where they encounter the same set of others across multiple classes. Adolescents who are part of one such con.guration of classes share a “local position,” and local positions have been found to in.u-ence academic performance (Crosnoe et al. 2008; Frank et al. 2008) and net-work composition (Frank et al. 2013). While of high quality, this research relies on data that are often unavailable and captures only a narrow, but detailed, slice of an individual’s casual contacts. For example, Sun et al. (2013) relied on electronic records of public transit access in Singapore while the literature on local positions has relied on adolescent course rosters. Both types of data provide excellent detail about the copresence of speci.c indi-viduals but are often dif.cult to obtain as they can raise concerns about in-vasion of privacy.10 Moreover, even when these data are available, they can capture casual contacts occurring only via those speci.c contexts (e.g., pub-lic transport or course schedule) and are unable to speak to casual contacts occurring in other venues. 
+Third, research suggests that individuals are sometimes most likely to adopt the behaviors of individuals to whom they are not directly connected, instead responding to the actions of disconnected, but structurally similar, others (e.g., Burt 1980). This effect implies that the mutual awareness and monitoring common to any social situation may act as a conduit for context effects even in the absence of ongoing relationships (e.g., friendship ties).11 As a result, while studies have used networks to identify in.uence (e.g., Coleman, Katz, and Menzel 1966; Christakis and Fowler 2007), they have often been challenged for assuming that the measured networks are the only, or primary, channels through which in.uence occurs (Van den Bulte and Lilien 2001; Cohen-Cole and Fletcher 2008a, 2008b). 
+Finally, while social networks provide a clear channel for in.uence that is frequently absent from context effects, the reason why contact with speci.c 
+10 We do not mean to imply any judgment about the ethics of this research, but only to note that access to these types of data is sometimes tightly constrained by human subjects panels. 
+11 Conventional network methods are capable of measuring structural equivalence, but identifying equivalences is not the same as explaining how such individuals are able to in.uence one another. 
+others encourages adoption of their behavior is left unspeci.ed. Adoption could result from simple contagion, as in meme theory (Dawkins [1976] 2006), from a need to conform in order to achieve group approval (Hogg and Terry 2000), from the objective utility of the behavior (Rogers 2003), or from some other mechanism. Thus, social networks clarify the route of in.uence, but not necessarily the mechanism of in.uence.12 
+Blau space models provide a practical way to capture the social environ-ment of individuals, including their many unmeasured relationships and ca-sual contacts, thereby supplementing and expanding on traditional network methods. Persons who are close in a Blau space model are demographically similar and, because of homophily, are likely to be directly connected to each other, to be connected by short chains of intermediaries, and to have frequent casual contact. Put differently, similar individuals are more likely to be sorted (by structural effects) into the same foci, where they can then develop rela-tionships (e.g., persons of similar socioeconomic status [SES] are more likely to share neighborhoods than those of disparate SES). While this does not guarantee that all individuals who are similar are equally available for asso-ciation, it does explain why similar individuals are more likely to be associ-ates, to have associates in common, and to encounter each other casually than dissimilar individuals. Blau space models thus capture the organizational context, while avoiding “social telepathy,” and eliminate or reduce the need for often unattainable types of network data. Moreover, organizational leak-age in Blau space provides a more concrete mechanism of in.uence. Organi-zations provide a reservoir of individuals who possess organizational iden-tities, conform to organizational behaviors, and subsequently both expose nonmembers to these behaviors and help legitimate them, thereby encourag-ing adoption. Moreover, the number of organizations competing in an area of Blau space conditions the amount of in.uence any one organization exerts (see below for a longer discussion of this issue). Finally, our Blau space–based approach requires only comparatively innocuous, and frequently available, data on demographics and group membership. As long as we can construct niches based on member attributes and compare those niches to nonmember characteristics, we are able to capture casual contact. And while our Blau space–based method cannot detect copresence with the precision of Sun et al. (2013) or Frank and his colleagues, it can probabilistically capture ca-sual contact across a wider variety of contexts (e.g., extracurricular activities, places of residence). 
+12 Particular thanks to an anonymous reviewer for bringing this issue more .rmly to our attention. 
+Hypotheses 
+If organization members tend to engage in a particular behavior, individu-als within the organization’s Blau space niche are likely both to observe this behavior and to .nd themselves in a social environment that endorses the behavior. As a result, the organization-typical behavior is more likely to enter the behavioral repertoire of those located in the niche and is more likely to be legitimated by residents of the niche, even if those individuals are not mem-bers of the organization whose niche they occupy. 
+As an example, suppose a business school requires its professors to wear suits to class. These business professors will be seen dressed in suits on cam-pus but also tend to reside in neighborhoods, eat in restaurants, and other-wise occupy settings populated by individuals with similar characteristics (i.e., others who are proximate in a Blau space model). These others will ob-serve the professors wearing suits, even if they are not direct associates of the professors (i.e., casual contact), thereby making this fashion choice both more cognitively available and more legitimate. In response, some of these persons may adopt suits of their own and trigger a further cascade of adop-tions that popularizes suits throughout the niche. Thus, organizational leak-age can make an organization-typical behavior become pervasive through-out the local social world. Further, the presence of the organization helps to legitimate the norm and protect it against alternatives. Organizations com-peting over members thus cast a shadow over Blau space; those in the shadow (i.e., in the niche) are in.uenced by the behaviors of the organization to a greater extent than those outside of the shadow. 
+Other scholars have made use of the individual’s own Blau space posi-tion (i.e., one’s demographic characteristics) in studies of norms and behav-ior (e.g., Friedkin and Johnsen 1997; Friedkin 2001), but we argue that it is not the individual’s absolute position in the Blau space model that is impor-tant, but rather the individual’s location relative to competing organiza-tions (e.g., whether one is within a particular niche). Since organizations are in competition, and that competition causes niches to move through Blau space, one’s proximity to a niche will change over time (i.e., niche lo-cations can change as a result of competition even if individuals remain at the same coordinates). As a result, it is the competitive ecology in a Blau space model, rather than the Blau space location itself, that in.uences the likelihood of adopting particular behavioral norms. 
+In contrast to studies of social contagion that view behaviors as spreading at will through social ties (e.g., Coleman et al. 1966; Newman, Barabási, and Watts 2006; Centola and Macy 2007; Christakis and Fowler 2007; Fowler and Christakis 2008; Flache and Macy 2011; Barash, Cameron, and Macy 2012), we suggest that organization-typical behaviors are more “contagious” when an individual is close to that organization and less so elsewhere. The adoption and maintenance of a norm are predicated on the ability of group members to mutually in.uence one another, but individuals who are separated by a path of more than two steps (i.e., the shortest path be-tween them contains more than one intermediary) have a relatively weak im-pact on each other’s behavior (Friedkin 1983). As a result of homophily, as distance to the organizational niche in a Blau space model increases, the probability of even one two-step path declines and the organization loses its ability to meaningfully in.uence individual behavior. Likewise, at greater distances from an organization’s niche, fewer individuals will consistently ex-hibit its typical behaviors, thereby reducing the endorsement the behavior re-ceives and its resulting legitimacy. Thus while organization-typical behavior may still spread throughout a network, organizational leakage provides only a local advantage and is distinct from more general diffusion models. The particular power of an organization to encourage the adoption and mainte-nance of norms does extend beyond its boundaries, but it does not extend far beyond those boundaries. This leads to the following hypothesis: 
+NICHE MEMBERSHIP HYPOTHESIS.—Individuals located within a particular organization’s niche, regardless of their membership in the organization, are more likely to exhibit behaviors characteristic of that organization than in-dividuals located outside of that organization’s niche. 
+Competition in a Blau space model is primarily driven by the limited time that humans can devote to a given activity; any time spent practicing the har-monica, for example, is time not spent playing basketball. In areas of Blau space where two or more organizational niches overlap, two or more sets of organization-typical behaviors are competing for the same pool of time. As a result, an individual who adopts a new behavior may have to displace an existing behavior, and not all occupants of an organizational niche (i.e., nichers) are exposed to equal competitive pressures. We distinguish between two types of nichers: exclusive nichers, who are within the niche of only a sin-gle organization, and manifold nichers, who are within the niches of several organizations. Exclusive nichers have networks that are largely bounded by an organization, whereas manifold nichers possess unbounded networks con-necting them to multiple organizations. In the former case, individual net-works tend to lead to only a single reference group: only one set of behaviors are routinely cognitively available to, and legitimated for, the individual, be-cause there is only one organization in.uencing the individual. As a result, the individual is more likely to exhibit those behaviors even if she never formally joins the organization whose niche she occupies. In the latter case, individual networks lead to several different reference groups, multiple sets of behaviors are available, and multiple organizational identities and cultures are present and in direct competition, thereby reducing the in.uence felt from any one of them. As a result, the individual may exhibit the behaviors characteristic of at least one organization but is less likely to exhibit all the behaviors character-istic of any speci.c organization or to exhibit only those behaviors. Moreover, while individuals may be aware of this competition, no such awareness is nec-essary for these effects to occur: if two organizations are exploiting the same pool of human time, they are in competition. 
+Returning to our earlier example, imagine that the suit-wearing business school professors share their local area of Blau space with a second group: engineering professors. These engineering professors have settled on jeans and a collared shirt as standard work attire and will also be seen on campus, in neighborhoods, restaurants, and other settings populated by similar others. Because the niche of the business school professors overlaps with the niche of the engineering professors (i.e., it is composed of demographically similar individuals), both types of professors will be seen in the same settings and by the same people. Thus both suits and jeans-and-shirts will be cognitively available and normatively acceptable to others in the area of overlap, but individuals cannot wear both styles of dress simultaneously, creating com-petition between them. And because this diversity of dress reduces the level of endorsement that either receives, nonmembers are exposed to less (and less consistent) in.uence to dress one way or the other. It may still be likely that each of these modes of dress will spread to others, but the diversity of options makes it less likely that any given person in the overlapping area will, for example, adopt suits speci.cally or that suits become dominant gen-erally. This leads to the following hypothesis: 
+NICHE OVERLAP HYPOTHESIS.—Individuals who are located in only a sin-gle niche (i.e., exclusive nichers), regardless of their membership in the orga-nization, are more likely to engage in the organization’s typical behaviors than are individuals who are located in two or more niches (i.e., manifold nichers). 
+Our concept of organizational leakage is consistent with social identity theory (SIT; e.g., Tajfel 1982; Hornsey 2008); organizations foster particu-lar identities (Ashforth and Mael 1989), and these identities produce behav-iors (Eccles and Barber 1999; Barber et al. 2001). Moreover, once they de-velop, these identities can become widely dispersed throughout a “crowd,” only some of whom are members of the organization (e.g., Newman and Newman 1976; Brown et al. 1986; Brown and Lohr 1987). However, social identity theory also predicts that when identity is challenged, individuals adhere more closely to an identity prototype and maximize their distinctive-ness from other groups (e.g., Hogg and Terry 2000; Ellemers et al. 2002). This would lead to an expectation that organization-typical behaviors should be exhibited at higher levels in areas of manifold niche overlap, where iden-tities are in con.ict, than in areas of exclusive niche overlap, where one or-ganizational identity dominates, which is contrary to our expectations. More-over, SIT’s effects occur when the individual adopts the corresponding identity (e.g., athlete), whereas our theory requires only contact with the or-ganization. 
+Organizational leakage is also consistent with social comparisons theory (SCT; e.g., Festinger 1954; Goethals 1986); individuals seek to evaluate their performance and, when objective measures are unavailable, will make use of comparisons to others. Even when objective measures are available, social comparisons may still be used and can exert a greater effect on the individual than objective indicators (Klein 1997). Moreover, while comparisons are made promiscuously, greater emphasis is placed on comparisons to similar others (Gilbert, Giesler, and Morris 1995). SCT might therefore lead us to a similar expectation that individuals will tend to adopt the behaviors of those nearby in Blau space so as to compare favorably with them. However, later research indicates signi.cant .uidity in the criteria used to select others for social com-parisons (Wilson and Ross 2000) and that comparisons are often made to a set of “typical” others, without regard to their similarity on relevant details (Mussweiler and Ruter 2003). In other words, SCT argues that individuals shape their own behavior on the basis of the behaviors of others, as do we, but is not speci.c that the relevant set of others are casual contacts as mea-sured through Blau space. Moreover, SCT does not produce our niche com-petition effects. Therefore, while our theoretical model has some obvious con-sistencies with both SIT and SCT, it nonetheless makes distinct predictions and is not identical to either.13 
+In summary, we argue that the norms and behaviors common in organi-zations will spread to those who are socially proximate through a process we term “organizational leakage” and that this process is moderated by the competition between organizations. Organizational leakage occurs via on-going relationships (i.e., network ties), indirect ties, and casual contacts and is therefore dif.cult to fully measure with traditional network methods. We use Blau space modeling to capture casual contact, proximity, and compe-tition and derive a set of hypotheses relating overlap in a Blau space model to individual behavior (see .g. 1). 
+Scope Conditions We de.ne .ve scope conditions for our theory. First, our theory is limited to structurally cohesive (often face-to-face) groups. Common membership in a group increases the likelihood of casual contact, but many groups are so large that it is impossible for any one member to know all of the others. As a result, normative consensus may emerge primarily at the subgroup level rather than for the group as a whole. In such cases, the subunits of an orga-nization would qualify as “groups” under our theory and ought to exhibit or-ganizational leakage. Returning to our earlier example, the business school and engineering school are subunits of a university. Each of these subunits, 
+13 We also do not regard this work as a test of either SCT or SIT. 
+
+FIG.1.—Exclusive and manifold nichers in a two-dimensional Blau space with three competing organizations. 
+which operate on a face-to-face basis, functions as a separate normative group from the other even though they are nested within a larger structure. Similarly, different norms and behaviors might become common in different branches of a business, especially if they are geographically distant. The crit-ical factor is whether the group as a whole is suf.ciently well connected and cohesive as to allow a behavior to become normative throughout. On the ba-sis of prior work (Friedkin 1983), we suggest that organizations in which the average geodesic path (i.e., shortest path through a network) separating mem-bers is of length two or less will be suf.ciently cohesive. Face-to-face groups, in which all members are directly acquainted, are a special conforming case. While we would certainly expect some degree of normative consensus through-out a large organization, often as a result of policy directives, the effects we describe are limited to structurally cohesive groups or subgroups. 
+Second, our theory is limited to behaviors about which (sub-)groups ex-hibit normative consensus. Some groups are functionally homogeneous, fa-voring the development of many behavioral norms. Other groups, while co-hesive, are functionally heterogeneous, thus favoring the development of norms applying more narrowly to functionally equivalent individuals (e.g., separate norms for professors and department staff). We expect organiza-tional leakage to occur most reliably when the leaking behavior is held widely, rather than narrowly, by organization members. 
+Third, in order for ideas or behaviors to leak via casual contact, they must be observable in other contexts and can therefore be adopted by persons present in these contexts. Some behaviors, such as the wearing of suits or polo shirts, will be easily observable in almost any context and thus should spread quite easily via casual contact. Other behaviors, such as particular ways of presenting statistical coef.cients, may spread readily in certain con-texts (e.g., joint meetings between engineering faculty and industry person-nel) but not in others (e.g., in restaurants). Finally, some behaviors may never be exhibited outside of the relevant organization (e.g., norms for interaction in a faculty meeting) and thus will be unable to spread. We anticipate orga-nizational leakage to occur for a behavior only when it can be observed in nonorganizational contexts and that it will spread only to those who are present in those contexts to observe it. 
+Fourth, leaking behaviors will be adopted by individuals in the local so-cial context only when the behaviors are usable by those individuals. In the above example, observability is the key criterion as effectively all individu-als wear clothing, and thus all individuals could conceivably adopt these suits or collared shirts. But if the engineering faculty members were to dis-cuss norms of hypothesis testing around staff members in their depart-ments, these behaviors might not spread simply because those persons have no particular need to formally test hypotheses in the .rst place. That said, we note that if a behavior is exhibited or otherwise comes up in a setting, it is likely that it is relevant to at least certain members, or circumstances, of the context. Additionally, even if exposed individuals do not exhibit the behav-ior, they are nevertheless exposed to it and will become more favorable to it because of the mere exposure effect. 
+Fifth, in order for the effects of niche overlap to be felt, the two niches must be able to compete for the same individuals; in other words, the orga-nizations must be members of the same organizational ecology. For exam-ple, a fraternal organization and a sports organization that have identical niches and recruit from the same city are members of the same ecology and are in competition. In contrast, if the same two organizations had iden-tical niches but recruited from different cities, they would not be in compe-tition for the same pool of individuals and therefore would not be members of the same ecology. Similarly, while niches can be constructed for organi-zations at a very high level (e.g., national level), these niches imply very little concrete interaction between individuals within them, and thus our predicted effects should be reduced or eliminated entirely. 
+In the future we believe that several of these conditions can be relaxed. However, relaxing these scope conditions will require additional theoretical and empirical work, and so we set it aside pending empirical con.rmation of our existing theory. 
+DATA, METHODS, AND ANALYTIC STRATEGY Data 
+Our data derive from the National Longitudinal Study of Adolescent to Adult Health (or Add Health), a nationally representative sample of U.S. adolescents (Harris 2009). These data were gathered by taking a strati.ed sample of high schools (public and private) and then sampling students from within these schools. The resulting data include measures of basic de-mographics (e.g., sex, race, national origin), academic performance, living sit-uations, and attitudes and behaviors, as well as social networks. It is an es-pecially good data set for this study because it combines information on a number of behaviors (e.g., deviant activities such as .ghting or vandalizing property), membership information for a number of groups (permitting the calculation of niches), and sociometric social network data useful for dem-onstrating the ability of a Blau space model to capture casual contact. Each school is also a separate organizational ecology (i.e., an independent Blau space), yielding a robust test of our hypotheses, and the collection of data from schools guarantees that the respondents (i.e., students) have frequent physical access to each other.14 Finally, much of the existing work on casual contact– like processes, including the research on crowds (e.g., Newman and Newman 1976; Brown et al. 1986; Brown and Lohr 1987; Eder and Parker 1987) and local positions (e.g., Field et al. 2006; Crosnoe et al. 2008; Frank et al. 2008, 2013), has relied on data on adolescents in general and the Add Health in par-ticular. While our theory is not speci.cally about adolescents, the multiple ecologies contained in the Add Health are essential to a valid test and simplify comparisons between our work and related efforts. This is therefore an ideal data set for testing our theory. 
+The Add Health data were collected longitudinally, but most of the var-iables required for our analysis are available only in wave 1, which forces us to use a cross-sectional approach. Our hypotheses can be evaluated without the use of longitudinal data, and the implications of this limitation are dis-cussed at greater length below. Wave 1 includes both an in-school question-naire and an in-home interview conducted somewhat later. The in-school 
+14 We are unaware of any similarly detailed data that contain so many separate ecologies. 
+questionnaire was administered to 90,118 students between September 1994 and April 1995 on a single day, determined uniquely for each school, using paper forms that were distributed to all students present in school on that day. This attendee sample was then supplemented by 20,745 in-home inter-views conducted by a member of the research team between April and De-cember 1995. Respondents to the in-home survey were drawn from the orig-inal sampling frame, regardless of their participation in the in-school data collection. These data were collected using both a face-to-face interview and an A/CASI (audio computer-assisted self-interview) system that allowed the respondents to complete sensitive portions of the survey in relative pri-vacy, using headphones to listen to the questions and a computer to respond. This methodology allowed the adolescents to respond truthfully to questions about deviant activities such as violence or drug use without being overheard by others, and the resulting data on deviant behavior are highly reliable. Be-cause we make use of variables from both the in-home and in-school surveys, our data are limited to those who were respondents in both. 
+Independent Variables 
+To test our hypotheses and the underlying theoretical model, we must create a Blau space for each school that includes both the positions of individuals and the organization niches. This requires that we .rst selecta setofdimensionsto de.netheBlauspace;second,determinethenichepositions of theorganiza-tions; and third, identify the positions of individuals relative to the niches. 
+We de.ne our Blau space using four variables that affect association: Add Health Picture Vocabulary Test score (AHPVT) as a proxy for intelli-gence; body mass index (BMI) as an indicator of physical condition; the in-terviewer’s assessment of the respondent’s level of physical development relative to same-age others; and the respondent’s family income as indicated by a parent, most often the resident mother, as a measure of SES.15 Individ-uals are located at positions in Blau space corresponding to their unique com-binations of characteristics. 
+We selected these four variables for several reasons.16 First, they are char-acteristics that affect patterns of association. Adolescents select associates on the basis of BMI similarity (Crosnoe, Frank, and Mueller 2008; Hayea 
+15 The AHPVT is an abridged, age-standardized version of the Peabody Picture Vocab-ulary Test. BMI was calculated from respondent weight and height using the standard method (e.g., Schaefer, Kornienko, and Fox 2011). 
+16 An arbitrarily large number of variables can be chosen to create a Blau space, but pre-vious studies have used up to four. For example, McPherson’s organization-level model (1983) picked age, occupational prestige, education, and sex, while Mark’s individual-level model (1998) used age, occupational prestige, education, and income. We use four variables for consistency with prior literature and as a compromise between speci.city and parsimony. 
+et al. 2011; Simpkins et al. 2012), physical development relative to same-age peers (Stattin and Magnusson 1990; Drapela, Gebelt, and McRee 2006), family SES (Bearman, Moody, and Stovel 2004; Nathan 2008; Schaefer et al. 2011), and intelligence (Richardson 1940; Bearman et al. 2004; Bur-gess, Sanderson, and Umana-Aponte 2011; see also Schaefer et al. 2011; Barnes et al. 2014). Moreover, both intelligence and SES have been shown to in.uence the assignment of students to academic tracks (Gamoran and Mare 1989), and these tracks structure friendships (Hallinan and Williams 1989; Kubitschek and Hallinan 1998). We also used exponential random graph models (see Lusher, Koskinen, and Robins 2013) to con.rm that ad-olescents in our data tend to associate with those like themselves on each of these characteristics, controlling for demographic variables, organizational comembership, and network endogeneity effects (see the appendix for de-tails). Therefore, on the basis of both previous scholarship and analysis of the existing data, we know that these dimensions help structure association and are appropriate for our study. Second, while Blau space analyses of or-ganizational competition have represented categorical dimensions (e.g., race, sex) as the percentage of members who belong to a speci.c category (e.g., per-centage female), this strategy cannot be used to plot the locations of individ-uals (e.g., an organization can be 60% male and 40% female, but individuals are male or female). As there are no validated techniques for including cat-egorical dimensions in our individual-level analyses, we select only continu-ous variables as Blau dimensions. For this reason, we also do not include age or grade as Blau dimensions. These variables are clearly salient to our pop-ulation and in principle are interval (age) or ordinal (grade). Nonetheless, ac-ademic course selections are constrained by grade, and this variable behaves more like a categorical variable in practice. Likewise, age is so strongly cor-related with grade (r 5 .914, P < .001) that it exhibits the same de.ciency. Fortunately, while grade strongly constrains the academic lives of students, it has a much weaker in.uence on voluntary organization participation. Clubs, such as drama or band, discriminate weakly or not at all on the basis of grade, while sports (e.g., football) often include both a junior varsity and varsity division, each of which typically contains a mixture of grades. Omit-ting potentially salient dimensions (e.g., race and sex) compacts the Blau space, introducing individuals into a context in the model who do not, socially speak-ing, belong there. This reduces the extent to which behavior appears to be in.uenced by local context, and thus omitting these dimensions makes our hypothesized effects harder to detect and our tests more conservative. We also control for important categorical factors (including age) elsewhere in our models, thereby determining their direct, as opposed to ecological, ef-fects. Third, we use only demographic variables as dimensions in our Blau space and do not use other factors such as attitudes; previous research (e.g., Mark 1998) has predicted cultural preferences using a demographic Blau space, suggesting that demographic factors are more often antecedent to opinions than the reverse. Finally, the demographic factors we select are generally not determined by respondent preferences. Parental income and physical maturation are entirely out of the respondent’s control. Intelli-gence is largely outside respondent control, although the measure we use could hypothetically be improved with training. Finally, research suggests that 68%–83% of the variance in BMI among adolescent girls is attributa-ble to genetics (Duncan et al. 2009), and thus preferences likely have a very limited impact on BMI. Respondents have limited or no control over their positions on any single one of these dimensions and by extension have no effective control over their position as measured using all four. Individual preferences therefore cannot account for both Blau space position and indi-vidual behavior. We do not normalize these dimensions in any way because any valid normalization would have no impact on the degree of overlap be-tween niches. 
+Using these four variables to create a Blau space is distinct from includ-ing them as independent variables in standard regression analyses because it relies on a different causal logic and avoids sacri.cing social detail on the altar of linear effects (e.g., McPherson 2004). By using these variables to de-.ne a Blau space, we focus on the individuals’“action in context”(Abbott 1997, p. 1158) rather than on the aggregation of individuals into variables (see also White, Boorman, and Breiger 1976; Abbott 1988). What matters for predicting the outcome is the respondent’s position in Blau space rela-tive to the niches of competing entities. As an analogy, if we were interested in understanding the health effects of living near a toxic chemical spill, we would determine the latitude and longitude of the spill as well as of each household in the area and then use those coordinates to calculate the dis-tances between each household and the toxic chemicals. Short distances to the spill would likely predict poorer health, and greater distances better health, but the causal factor is position relative to the spill (i.e., their context) rather than coordinates. Similarly, our effects are driven by position relative to the niches (e.g., whether one is overlapped by a niche or niches) rather than the absolute position in Blau space (e.g., particular values for BMI or income). Because the niches are located at different combinations of di-mensions in each school (i.e., the ecology of each school is independent), any effects we observe are unlikely to be attributable to speci.c combinations of Blau space parameters. While any of our four Blau space dimensions could be included as independent variables, and we do so for control purposes, this speci.es a different relationship to our outcome and is not equivalent to a Blau space approach. 
+Next, we de.ne the niches that populate our Blau space by using mea-sures of membership in several voluntary organizations (also referred to as “groups”for simplicity), including athletic clubs (e.g., baseball/softball, football), academic clubs (e.g., math club, German club), artistic clubs (e.g., dance, theater), other clubs (e.g., Future Farmers of America), religious youth group attendance, formal full-time employment, and gangs.17 These are primarily voluntary organizations but nevertheless are groups with unique goals, cultures, and identities. For example, most of the athletic clubs are dedicated to team sports, which require organization and encourage collec-tive sentiment. Likewise, the Add Health asks about participation in a “named gang,” implying that the group exists independent of speci.c indi-viduals and is not just an informal collection of youths. Our data cannot dis-tinguish membership in speci.c groups (e.g., working as a waitress from work-ing as a saleswoman), but the proper level of analysis for Blau space is the “species,” de.ned as the organizational type, rather than the “individual,” typically de.ned as a speci.c organization (see also McPherson 1983; Eccles and Barber 1999). It is well known that organizations that belong to the same .eld or market often exhibit similar norms and behaviors (e.g., DiMaggio and Powell 1983; Uzzi and Lancaster 2003). Because each of the adolescent clubs aggregated into a group is located in the same school and will often share members (e.g., the same individuals may compete in sports that occur in dif-ferent seasons), this organizational isomorphism is likely to be especially ro-bust in our case. Empirically, this method is advantageous because not every speci.c organization (e.g., soccer team) is present in every school, but these organizational species are invariably found in every school. Finally, existing research has used this method of aggregation and found that adolescents are more likely to develop a network tie if they share a species membership (Schaefer et al. 2011), which supports the ecological validity of this approach. Our aggregation of speci.c clubs into club types is thus appropriate theoret-ically and practically. Roughly 87% of our .nal analytic sample are members of at least one of the groups described above, and the majority of those who are not members are still overlapped by one or more niches. In the event that participation in one group within a species makes participation in another group in that species more likely (e.g., soccer and baseball), then they are likely to exhibit similar organization-typical behavior, consistent with our aggre-gation. In the event that participation in one group makes participation in 
+17 Participation in religious youth groups may not be wholly under the adolescent’s control and thus may not be entirely “voluntary,” but this is likely to be the case to a greater or lesser extent with any extracurricular activity. We include it to provide a more complete picture of adolescent activity commitments. The Add Health asked a gang membership question only in wave 2, which was collected approximately 12 months after wave 1, while all other club membership items were asked only in wave 1. We therefore use the wave 2 data to specify the gang niche in wave 1. Because this question was retrospective (i.e., “Have you ever been initiated into a named gang?”), doing so will incorrectly classify only individuals who were not gang members at wave 1 but became gang members by wave 2. Otherwise, all data derive from wave 1. Gang membership was determined during the A/ CASI portion of the interview and is highly reliable. 
+another group of the same species less likely, they are more likely to exhibit different behavioral pro.les, thus punishing our hypotheses. As such, ag-gregating these groups to the species level is theoretically and practically ap-propriate and does not unfairly advantage our hypotheses. 
+Although we calculate niches for a variety of groups, we test our hypoth-eses by focusing on two types: gangs and athletic clubs. These two groups are chosen for several reasons. First, they provide examples of both deviant and nondeviant groups and therefore offer a rigorous test of our hypotheses. We might reasonably expect that the factors that lead to gang-typical be-havior differ from those that lead to athletic-typical behavior, and if our model can predict both, it suggests that it is general in nature. Second, these are both face-to-face groups, which should exhibit strong Blau space effects. Finally, suf.cient behavioral measures (described below) are available for each group, whereas the same types of variables are unavailable for other groups (e.g., academic clubs). While we can locate the niches of other groups in our Blau space model, we do not have independent measures of the typ-ical behaviors of these groups to use as a dependent variable. These two groups are thus appropriate on theoretical, substantive, and methodologi-cal grounds. The niches for all group types (i.e., athletic groups, academic groups, artistic groups, other school groups, religious youth groups, formal full-time employment, and gangs) are included in our Blau space, and all are used to determine niche overlap, but we predict the behaviors associated only with athletic groups and gangs. 
+Having identi.ed our groups, we must de.ne their niches and identify ar-eas of overlap. Following McPherson (1983), our niches are centered on the mean value of a parameter for a particular group and extend 1.5 SDs above and below this mean. For example, if athletic clubs have a mean IQ of 102 with an SD of 8, the niche of athletic clubs in the IQ dimension would extend from 90 to 114. We adopt this niche width because it has been found to pro-vide the best .t in several studies (McPherson 1983; McPherson and Smith-Lovin 1988; McPherson and Ranger-Moore 1991; McPherson and Rotolo 1996; Mark 1998) and is strikingly close to the optimum niche width for bi-ological organisms (i.e., somewhat more than 1.4 SDs; see Levins 1968). Some studies have used other niche widths that provided more favorable results (e.g., Popielarz and McPherson 1995; Bonikowski 2010), and we could do the same, but we view a niche width of 1.5 SDs as having the greatest prior justi.cation and prefer it to the alternatives.18 Because we use four Blau space dimensions, our niches are regular four-dimensional polygons. Individuals lo-cated within a niche (i.e., whose Blau space coordinates are within 1.5 SDs of the niche mean in all dimensions) are competed over by that organization 
+18 Sensitivity analyses show that our results are robust to changes in niche width but im-prove somewhat if we use larger niches for gangs and smaller niches for athletic groups. 
+but are not automatically members. Individuals outside a niche can become members of that organization, though the likelihood decreases with increas-ing distance from the niche. Two niches that occupy the same area of Blau space (e.g., artistic clubs and full-time employment), partly or in whole, are said to be overlapping, and we distinguish between areas of overlap, where two or more niches are present, and areas of nonoverlap, where only one niche is present. 
+Finally, to test our hypotheses, we created a set of binary independent var-iables. To test the niche membership hypothesis, we generated a gang nicher variable and an athletic nicher variable that equal one when the respondent is within the niche of his or her school’s gang and athletic group, respectively, and zero otherwise. Because these variables are calculated using each school’s unique niches (i.e., the niches of each organization type are in different lo-cations in each school), their effects depend on whether one is overlapped by a particular niche or niches and not on the absolute Blau space param-eter values (e.g., whether one has a high PVT score or low BMI). 
+To test the niche overlap hypothesis, we decomposed the nicher variables into an additional pair of binary variables for exclusive nichers and mani-fold nichers. The former equals one when the respondent is in the focal niche (gang or athletic, depending on the model) for his or her school but is not within the niche of any other organization. The latter equals one when the respondent is both within his or her school’s focal niche (gang or athletic, depending on the model) and also in the niche(s) of one or more of the other organizations in the ecology (e.g., artistic, athletic, religious youth group). A single respondent cannot be both a manifold and an exclusive nicher, and the omitted category is individuals who are outside the focal niche (i.e., non-nichers). We expect that nichers will be more likely to exhibit organization-typical (gang or athletic) behavior than those outside the niche, but exclu-sive nichers will exhibit higher levels of the behavior than manifold nichers. Proportions of our sample that fall into these categories are given in table 1. Because niches cannot be de.ned when the number of members is very small (e.g., a standard deviation cannot be calculated from a single score), we limit our analyses to schools with three or more gang members, for a to-tal of 81 schools and 8,625 respondents.19 
+Blau space is a useful tool because of its similarity to a physical space, but it is not a physical space. As a result, measuring “distance” in a Blau space model runs the risk of incorporating features that are appropriate physically but are not appropriate socially. First, prior research (Burt 1991) indicates that a unit difference in a single dimension (e.g., 5 years of age) can exert a variable in.uence on association across the range of that dimension (e.g., as-
+19 Imposing the same requirement for athletic groups has no effect as there are always at least three athletic group members in any given school. 
+TABLE 1 Descriptive Statistics for the Ecological Variables (N 5 8,625) 
+Variable Percentage of Population 
+Gangnicher .................... 22.0 Gangmanifoldnicher ............ 20.4 Gangexclusivenicher ............ 1.6 Athleticnicher .................. 60.0 Athletic manifold nicher . . . . . . . . . . 58.9 Athletic exclusive nicher . . . . . . . . . . 1.1 
+sociation between a 12-and 17-year-old is less likely than between a 30-and 35-year-old). Thus, distance calculated in terms of the raw dimension may be misleading. Second, in contrast to a physical space, the social distance between point A and point B in a dimension can differ from the distance between point B and point A (e.g., individuals are more likely to form rela-tionships with those higher in a status hierarchy than with those lower; see Laumann 1965, 1966; Brashears 2008b). Finally, while physical dimensions are measured in common units (inches, meters, etc.), Blau space dimensions are not (BMI units, thousands of dollars, etc.). As a result, while it is mathe-matically possible to calculate the distance between points separated by two or more dimensions (i.e., the hypotenuse of a triangle whose legs are in differ-ent dimensions), the meaningfulness of this distance is unclear. Moreover, transforming the dimensions into a common metric (e.g., z-scores) would not compensate for differences in social meaningfulness. In summary, linear distance measures in Blau space models incorporate assumptions about so-cial space that are unlikely to be theoretically reasonable. 
+Empirically, we .nd that most of the manifold nichers are located toward the center of their niches, while the exclusive nichers appear near the edge. This is unsurprising as most of the niches are clustered where there are more individuals to be recruited (i.e., where the carrying capacity is greatest; see McPherson and Ranger-Moore 1991). Moreover, in our sensitivity analyses for niche width (see n. 18 above), using smaller niches that are more concen-trated on the niche centers did not invariably lead to improvements in .t. As such, our data are inconsistent with a simple model wherein proximity to the center of a niche, without regard to competition, predicts behavior. Our focus on niche overlap (i.e., our nicher, exclusive nicher, and manifold nicher binary variables), rather than linear distance, is therefore appropriate on the-oretical and empirical grounds. 
+Dependent Variables Our dependent variables are indices of the frequency with which respon-dents engage in athletic-related and gang-related activities. We use the 
+15-item Add Health delinquency scale as our index of gang-related activi-ties, and thus our index is similar or identical to that used in other studies.20 We created an index of athletic-related behaviors by having three under-graduate coders independently search the Add Health codebook and iden-tify items that captured behaviors they believed to be typical of athletic clubs. Any variable on which the coders unanimously agreed was included, resulting in a two-variable (i.e., play an active sport, engage in various forms of exercise) index of athletic activities (see table 2).21 All items in both scales measure behavioral frequency (preceding week for athletic activities and preceding 12 months for delinquency) and are scaled from 0 to 3, where 0 corresponds to “never,” 1to “1 or 2 times,” 2to “3 or 4 times,” and 3 to “5or more times.” For simplicity, we sum these variables, and thus the indices capture the number of activities the respondent engages in and the intensity of engagement. Measures of construct validity support our gang-related ac-tivities index (a 5 0.831) as well as our athletic-related activities index (q 5 0.257, P < .001).22 
+Our dependent variables are measures of organization-typical behavior but are nonetheless quite generic. For example, it might in some ways be more compelling if we showed that a behavior unique to a particular group (e.g., adoption of a speci.c type of clothing by all football players) were to leak into the surrounding social environment. We do not adopt this approach for two reasons. First, such speci.c and idiosyncratic indicators are, by def-inition, speci.c and idiosyncratic and thus are not consistent across schools or captured in any systematic way in our data. In contrast, athletic-related and gang-related behaviors should be common to these groups across all of our schools and are adequately measured. Second, while speci.c and idiosyn-cratic behaviors would be quite useful, they are substantively less interesting than showing that our model can predict meaningful behaviors, such as the propensity to exercise (in light of the obesity epidemic) or propensity to engage in delinquent behavior (which has obvious, potentially lifelong, consequences). Thus, our selection of these more generic behavioral scales re.ects method-ological demands, data limitations, and a desire to show the substantive im-portance of organizational leakage. 
+20 Haynie (2001), who also used the Add Health, employed a 14-variable index of delin-quent activity, 12 of which overlap with ours. If we substitute Haynie’s scale for our own, the results do not change markedly. 
+21 Employing the same procedure for deviant activities reproduced the Add Health de-
+linquency scale, indicating that this method produces sensible results. 22 Spearman’s rho is used for the athletic-related behaviors index because Cronbach’s al-pha produces small values when the number of items is low. As a check, we computed Cronbach’s alpha for several pairs of items from the gang-related behaviors index, and the value was always comparable to the athletic-related behaviors index. 
+TABLE 2 List of Variables Used in Creating the Dependent Variables (N 5 8,625) 
+Variable  Mean  SD  
+Deviant activities: In the past 12 months, how often did you:  
+Paint graf.ti or signs on someone else’s property or in a public place? . . .  .14  .49  
+Deliberately damage property that didn’t belong to you? . . . . . . . . . . . . .  .25  .59  
+Lie to your parents or guardians about where you had been or  
+whom you were with? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .95  1.05  
+Take something from a store without paying for it? . . . . . . . . . . . . . . . . .  .38  .78  
+Get into a serious physical .ght? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .42  .74  
+Hurt someone badly enough to need bandages or care from a  
+doctor or nurse? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .23  .57  
+Run away from home? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .09  .35  
+Drive a car without its owner’s permission? . . . . . . . . . . . . . . . . . . . . . . . .  .14  .47  
+Steal something worth more than $50? . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .07  .35  
+Go into a house or building to steal something? . . . . . . . . . . . . . . . . . . . . .  .07  .35  
+Use or threaten to use a weapon to get something from someone? . . . . . .  .05  .30  
+Sell marijuana or other drugs? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .13  .52  
+Steal something worth less than $50? . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .33  .75  
+Take part in a .ght where a group of your friends was against  
+another group? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .24  .58  
+Act loud, rowdy, or unruly in a public place? . . . . . . . . . . . . . . . . . . . . . .  .73  .91  
+Deviant activities index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4.22  5.15  
+Athletic activities: During the past week, how many times did you:  
+Play an active sport, such as baseball, softball, basketball, soccer,  
+swimming, or football? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1.42  1.14  
+Do exercise, such as jogging, walking, karate, jumping rope,  
+gymnastics, or dancing? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  1.63  1.04  
+Athletic activities index . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3.07  1.74  
+
+Control Variables 
+We include several control variables in our analyses. First, we include four social network variables to distinguish the direct in.uence of friends from the effect of niche position. The Add Health asked respondents to identify their (one or .ve) best male and (one or .ve) best female friends. These net-work data provide measures of the respondents’ strongest ties but almost certainly do not capture all of their ongoing relationships, much less their casual contacts. Identifying effects from our nicher variables while control-ling for these strong ties would indicate that our respondents are being in-.uenced by social contacts (e.g., classmates and other acquaintances) other than their closest associates, consistent with organizational leakage. We be-gin with a variable for the proportion of all close friends (i.e., those identi.ed by the Add Health network items) who are af.liated with the focal organi-zation; a larger proportion of close friends who are gang or athletic club members should increase the respondent’s engagement in deviant or ath-letic activities, respectively (Jussim and Osgood 1989; Matsueda and An-derson 1998; Haynie 2001).23 Respondents whose close friends engage in more deviant or athletic activities should also engage in more of these activ-ities themselves, and so we include the mean level of deviant or athletic ac-tivity among the respondent’s close friends as a control.24 The respondent’s level of sociability may have an independent effect on collective behaviors (e.g., by determining their level of demographic availability), and we in-clude a measure of the amount of time spent with close friends during the preceding week. Finally, we include a dichotomous variable for the respon-dent’s membership status in the focal group to ensure that niche overlap has an impact net of membership. 
+Second, drawing on existing research, we include two psychological var-iables and one availability variable that should directly affect both deviant and conventional behaviors: quality of parent-child relationship, attach-ment to school, and level of truancy. These behaviors are thought to exert their effects on the outcome variables independent of our network or niche variables. Research suggests that a strong parent-child relationship decreases the likelihood of engaging in deviant behaviors (Gove and Crutch.eld 1982). Because mothers are often the primary or custodial caregivers, we measure the quality of the parental relationship using an item capturing the respon-dent’s closeness to his or her mother. A close attachment to one’s school has also been found to decrease an adolescent’s deviant behaviors (Dornbusch et al. 2001), and a strong attachment might also increase engagement in con-ventional behaviors (e.g., athletic behaviors) that are associated with the school. We measure attachment to the school using the respondent’s self-report. Finally, truancy, which by de.nition reduces engagement in school, can lead to increased involvement with delinquent peers and greater devi-ance (Henry and Huizinga 2007). We measure truancy as the self-reported frequency of skipping school without an excuse.25 
+Third, we included three demographic variables: sex, age, and race.26 Sex is coded 1 if the respondent is female and 0 if male, age ranges from 10 to 19, 
+23 Substituting a binary variable indicating whether any of the respondent’s friends are in 
+the focal group produces similar results. 24 We are interested in ecological effects, so we include both the saturation schools, where all students were recruited, and the nonsaturation schools, where probability sampling was used. This variation in data structure precludes the use of cross-sectional contagion models (e.g., Marsden and Friedkin 1993), but our mean activity level variable is a rea-sonable substitute. 
+25 Truancy was not included in the deviance index because our coders did not judge it as being uniquely associated with gangs and it was not part of the Add Health delinquency scale. 
+26 Age and grade are strongly correlated (r 5 .914, P < .001) and so cannot both be included in the same model. We use age because its greater dispersion provides somewhat more information. Estimating our models using grade instead produces substantively identical results. 
+and race is coded 1 if respondents marked their race as white and 0 other-wise. These variables are included because they in.uence association (e.g., Marsden 1987, 1988; McPherson and Smith-Lovin 1987; Ibarra 1995; Bra-shears 2008a; Smith et al. 2014) and, in certain schools, may be directly re-lated to the dependent variables (e.g., if more sports clubs are available for males than for females). 
+Finally, we include our four Blau space parameters—AHPVT score, phys-ical maturity, BMI, and family income—as controls. These allow us to distin-guish our ecological proximity effects from the linear impact of the variables making up our Blau space. A statistically signi.cant effect for any of these variables would indicate that a dimension has a direct effect on the outcome (e.g., higher-PVT individuals are more likely to be deviant), while a lack of signi.cance indicates no direct effect on behavior. The lack of a direct effect for a given control does not, however, mean that niche position in a Blau space using that dimension is also nonsigni.cant in effect. Descriptive statis-tics for the control variables are available in table 3. 
+Analytic Strategy 
+We test our hypotheses by regressing our nicher variables on engagement in deviant and athletic behaviors, controlling for other effects. Both of our de-pendent variables violate the normality assumption of ordinary least squares regression, so we use negative binomial regression for deviant activities and ordered logistic regression for athletic activities. Negative binomial regres-
+TABLE 3 
+Descriptive Statistics for the Independent Variables Used in the Analysis (N 5 8,625) 
+Variable Mean SD Min Max 
+Gangmembership(%) ............................ 3.0 ... 01 Athleticclubmembership(%) ...................... 54.6 ... 01 Proportion of friends who are in a named gang (%) . . . . . .2 ... 01 Proportion of friends who are in an athletic club (%) . . . 5.4 ... 01 Friends’ meandeviantactivity ..................... .18 .67 0 11.38 Friends’ meanathleticactivity ..................... .12 .38 0 4.8 Timespentwithfriends .......................... 2.01 .98 0 3 Gender (female 5 1)(%) .......................... 50.5 ... 01 Age ........................................... 14.97 1.65 10 19 Race (white 5 1)(%) ............................. 67.5 ... 01 Parent-childrelationship .......................... 4.54 .77 1 5 Attachmenttoschool ............................. 3.56 1.16 1 5 Truancy ....................................... .59 1.19 0 6 PVTscore ..................................... 103.51 13.93 13 138 Physicalmaturity ................................ 3.41 .83 1 5 BMI .......................................... 22.40 4.34 11.25 63.49 Familyincome(thousands) ........................ 49.97 52.29 0 999 
+sion allows us to adjust for the positive skew and overdispersion present in our index of deviant activities (Gardner, Mulvey, and Shaw 1995). Because the athletic activities index has a restricted range consisting of integer values (0–6), the ordinal logistic regression model provides a better .t to the data than the alternatives. In all models, we use robust standard errors to adjust for clustering on schools in the Add Health data, and we employ sample weights to control for differential sampling probabilities. The level of aggre-gation is critical to applying the correct weights, and previous research using Blau space models has adopted either a national (e.g., McPherson and Ranger-Moore 1991; Mark 1998; Bonikowski 2010) or a local (e.g., McPherson 1983; Popielarz and McPherson 1995) level. The choice depends partly on data avail-ability and partly on whether the modeled entities are structurally able to com-pete. Because schools are constrained to recruit from different school districts and groups in one school do not compete for members in another, we con-struct individual Blau space models for each school (i.e., adopt the local level) and use only the level 1 within-school weight component to correct for design effects within schools (Chantala and Suchindran 2011). This permits us to make locally representative statements at the school level, which is appropri-ate given that the Blau space ecologies of different schools are functionally independent. Omitting the weights only slightly alters our results, but using them represents the conservative approach. 
+Modeling proceeds in three stages. In the .rst stage a model is estimated for each dependent variable using nicher status as the sole independent var-iable. A signi.cant effect for the nicher status variable would support our niche membership hypothesis. All control variables, with the exception of organizational membership status, are also included. In the second stage we use the exclusive and manifold nicher variables, with the same controls, to test our niche overlap hypothesis. In the third stage we retain the vari-ables for exclusive and manifold nichers, as well as the previous controls, but add the control for organizational membership status, providing a more stringent test of the niche overlap hypothesis. Following these models, we present a series of additional analyses to rule out alternative explanations for our .ndings. Effects are given as incidence rate or odds ratios (depend-ing on the model) in the text and the table, but untransformed coef.cients are available on request. 
+RESULTS Beginning with our control variables, our network, psychological, avail-ability, and demographic controls reveal the anticipated effects (or lack thereof) on the dependent variables (table 4). Membership in one of the focal organizations (i.e., gangs or athletic clubs) dramatically increases the likelihood 
+818 
+TABLE 4 
+Negative Binomial Regression and Ordered Logistic Regression Analysis of Deviant and Athletic Activities 
+DEVIANT ACTIVITIES ATHLETIC ACTIVITIES 
+Model 1 Model 2 Model 3 Model 4 Model 5 Model 6 
+Ecological in. uence: Nicher ................ 1.21***(.05) 1.13*(.07) Manifold nicher . . . . . . . . . 1.16*** (.05) 1.10* (.05) 1.12~ (.07) 1.06 (.07) Exclusive nicher . . . . . . . . . 1.76*** (.18) 1.28** (.12) 1.97** (.44) 1.68* (.40) 
+Social network: Actual membership . . . . . . 2.19*** (.23) 2.53*** (.17) Proportion of friends who aremembers .......... 2.881 (1.65) 2.981 (1.71) 2.951 (1.79) 1.58** (.24) 1.56** (.24) 1.24 (.21) Friends’ mean activity . . . . 1.04** (.02) 1.04** (.01) 1.04** (.01) 1.04 (.04) 1.05 (.04) 1.03 (.05) Time spent with friends . . . 1.23*** (.03) 1.23*** (.03) 1.22*** (.03) 1.36*** (.04) 1.36*** (.04) 1.37*** (.04) 
+Individual characteristics: Gender (female 5 1) . . . . . . .69*** (.03) .69*** (.03) .71*** (.03) .57*** (.04) .57*** (.04) .67*** (.05) Age . . . . . . . . . . . . . . . . . . . .94*** (.02) .94*** (.02) .95** (.01) .86*** (.02) .86*** (.02) .88*** (.02) Race (white 5 1) . . . . . . . . .89* (.05) .89* (.05) .91* (.04) .871 (.06) .871 (.06) .881 (.06) Parent relationship . . . . . . . .78*** (.02) .78*** (.02) .78*** (.02) 1.091 (.05) 1.091 (.05) 1.11* (.05) School attachment . . . . . . . .93*** (.02) .93*** (.02) .93*** (.02) 1.26*** (.03) 1.26*** (.03) 1.18*** (.03) Truancy . . . . . . . . . . . . . . . 1.20*** (.03) 1.20*** (.02) 1.20*** (.02) .97 (.03) .97 (.03) .98 (.03) PVT score . . . . . . . . . . . . . 1.00 (.00) 1.00 (.00) 1.00 (.00) 1.00 (.00) 1.00 (.00) 1.00 (.00) Physical maturity . . . . . . . . 1.01 (.03) 1.01 (.03) 1.02 (.03) 1.12** (.05) 1.12** (.05) 1.10* (.05) 
+819 
+BMI .................. 1.01*(.01) 1.01(.01)1 1.01 (.00) 1.00 (.01) 1.00 (.01) 1.00 (.01) 
+Family income . . . . . . . . . . 1.00 (.00) 1.00 (.00) 1.00 (.00) 1.00*** (.00) 1.00*** (.00) 1.00* (.00) Constant . . . . . . . . . . . . . . . . . 27.99*** (9.71) 27.34*** (9.32) 25.19*** (8.30) .1 ...................... 23.70 (.46) 23.65 (.46) 22.90 (.48) .2 ...................... 22.29 (.46) 22.24 (.46) 21.45 (.48) .3 ...................... 21.38 (.46) 21.33 (.46) 2.51 (.48) .4 ...................... 2.43 (.47) 2.38 (.47) .48 (.48) .5 ...................... .40(.47) .45(.47) 1.34(.49) .6 ...................... 1.29(.48) 1.34(.48) 2.25(.50) Lnalpha ................. .85(.05) .84(.05) .81(.04) Alpha ................... 2.33(.04) 2.32(.04) 2.25(.04) Wald v2 . . . . . . . . . . . . . . . . . 1,136.43 1,460.39 1,248.55 459.36 452.02 789.89 Loglikelihood ............ 284,991.41 284,932.17 284,517.71 285,640.25 285,613.80 284,220.49 
+NOTE.—N 5 6,390 for models 1, 2, and 3; N 5 8,625 for models 4, 5, and 6. Numbers in parentheses are SEs. 1 P < .10. ~ P < .05, one-tailed. 
+* P < .05. ** P < .01. *** P < .001. 
+of participating in the associated activities. The amount of time spent with friends produces signi.cant increases in the dependent variables across all models. Having a larger proportion of friends who are members of the focal group (i.e., gang or athletic club) exerts a positive in.uence that approaches signi.cance for deviant activities and is signi.cant for athletic activities in two models (i.e., models 4 and 5).27 The mean level of deviant activities of one’s friends signi.cantly increases one’s own level of deviance in three models (i.e., models 1–3). 
+Females and older students are signi.cantly less inclined toward both de-viance and athletic participation in all models. As expected, a close attach-ment to one’s school decreases the level of deviance in models 1–3, while it increases the level of athletic participation in models 4–6. A strong parental relationship reduces deviance across all models and increases athletic partic-ipation in one model (i.e., model 6), while truancy increases deviant behavior but has no effect on athletic participation. White respondents appear to be some-what less likely to engage in deviance than nonwhite respondents. Finally, our four Blau space parameters—AHPVT score, physical maturity, BMI, and fam-ily income—are weakly and inconsistently related, if at all, to our dependent variables. Both physical maturity and family income appear to increase the level of participation in athletic activities, while BMI has an occasional and very weak positive impact on engagement in deviant activities. Our Blau space parameters fail to show any consistent link to the dependent variables, suggesting that any effects detected for our nicher variables are not the result of a direct connection between a value of the dimension and the behaviors in question. 
+This brings us to the main effects in our models. Do individuals’ ecological positions in Blau space matter for behavioral outcomes, controlling for the above direct effects? Our results (table 4) provide clear evidence that they do. Model 1 indicates that those who are located within the gang niche engage in signi.cantly more deviant activities than nonnichers (b 5 1.207, P < .001), even while controlling for other factors. Likewise, model 4 shows that those within the athletic club niche engage in signi.cantly more athletic activities (b 5 1.133, P < .05) than those outside of it. Importantly, these effects are ob-served even while controlling for the associational and dispositional charac-teristics described above. Thus, all things being equal, it appears that niche position does indeed in.uence both deviant and conventional behaviors. This provides support for the niche membership hypothesis. 
+We then separate the nicher category into binary variables for exclusive and manifold nichers and include both in our stage 2 analyses (i.e., model 2 and 
+27 An interaction between niche status and the proportion of member friends was also tested but had no signi.cant effect. 
+model 5). This allows us to determine if individual behaviors are affected by the ecological competition between organizations, as predicted by our niche over-lap hypothesis. Model 2 indicates that gang exclusive nichers, those who re-side solely within the gang niche, have a substantially greater level of de-viance than nonnichers (b 5 1.756, P < .001). Those who are within the gang niche but who are also overlapped by other niches (i.e., gang manifold nichers) are also more likely to engage in deviance than nonnichers (b 5 1.164, P < .001). However, as predicted, the effect on exclusive nichers is greater than that on manifold nichers (Wald v2 5 16.17, P < .001). Turning to athletic clubs, we see in model 5 that athletic exclusive nichers engage in signi.cantly higher levels of athletic activities than nonnichers (b 5 1.970, P < .01). Man-ifold nichers also have higher levels of athletic participation than those out-side the niche (b 5 1.120, P < .05 one-tailed), but again the exclusive nicher effect is signi.cantly larger (Wald v2 5 6.15, P < .05). The results con.rm the importance of niche overlap for predicting behavior and indicate that exclu-sive nichers are more heavily in.uenced by their niche location than are man-ifold nichers, supporting the niche overlap hypothesis. Notably, these mech-anisms appear to operate for both legitimate and delinquent activities, and position relative to the niches appears to have consistent effects across schools even though the niches may be located in different places in the Blau spaces of each school. 
+Although the preceding models supported both of our hypotheses, in stage 3 we add dichotomous variables for gang membership and athletic club mem-bership to model 3 and model 6, respectively, to distinguish the effects of niche overlap from the effects of membership. As one would expect, including mem-bership reduces the size of our coef.cients, but it does not eliminate them. In model 3 both exclusive nicher status (b 5 1.281, P < .01) and manifold nicher status (b 5 1.104, P < .05) continue to exert a positive effect on deviance, even while controlling for gang membership. Moreover, the exclusive nicher ef-fect remains the stronger of the two (Wald v2 5 2.71, P < .05 one-tailed), as predicted. In model 6, exclusive nichers (b 5 1.683, P < .05) continue to engage in higher levels of athletic activities, while manifold nichers no longer differ signi.cantly from those outside the niche. While some of the niche ef-fects in the earlier models derived from identifying group members in the data, niche position nonetheless exerts an independent in.uence over both members and nonmembers, providing continuing support for both of our hypotheses.28 
+28 We also estimated models that included interaction effects between membership in the organization and the manifold and exclusive nicher variables, but the interactions were nonsigni.cant. 
+
+FIG.2.—Predicted level of engagement in deviant activities 
+Figures 2 and 3 illustrate the effects of exclusive and manifold nicher sta-tuses on deviant and athletic behaviors, distinguished by the organizational membership statuses, using predictions generated by models 3 and 6. 
+In both .gures, the left set of columns shows the predicted levels for non-members, while the right set of columns shows the levels for members. Within these membership statuses, the leftmost column indicates the predicted values of deviant or athletic activity for nonnichers (the reference group), while the middle and the rightmost columns give the predicted values for manifold nichers and exclusive nichers, respectively. The predictions were calculated using mean values for all control variables. In both .gures, the predicted value of engagement increases noticeably as we move from nonnichers, to manifold nichers, to exclusive nichers. These results are completely consistent with our hypotheses, illustrating the important role that organizational leakage plays in shaping the behaviors of adolescents. 
+BLAU SPACE MODELS AND ISSUES OF CAUSALITY 
+It is appropriate to be concerned about causal direction in research, but unique features of the Blau space approach as well as .ve additional analyses lend support to our conclusions. First, Blau space models can appear tauto-logical; niches are calculated from the mean characteristics of members, and thus, by de.nition, members will be more common in the niche than outside of it. However, in our research niches are calculated using an af.liation (i.e., 
+
+organizational membership), but they are used to predict behavior (i.e., athletic-related and gang-related behaviors). In other words, while it is true by def-inition that most members of an organization will be found within its niche, it is not true by de.nition that most people who exhibit a particular behavior will be found within an organization’s niche. 
+Second, those who engage in a certain type of activity might gravitate to-ward particular values on the Blau dimensions (e.g., those who enjoy athletic activity tend to develop a similar BMI) and produce a spurious association between the two. As discussed above, our Blau space dimensions (i.e., BMI, PVT score, physical maturity score, and parental income) are largely or com-pletely beyond the control of the respondents. As such, while individuals’ pref-erences could lead them to join an organization or engage in a particular type of behavior, they cannot determine Blau space position in one dimension (e.g., a preference for academic clubs cannot alter parental income), much less sev-eral at once. 
+Third, our results might be due to the direct effect of the underlying Blau space dimensions (e.g., parental income). Because we include our dimensions as control variables, the effects of niche overlap are unlikely to be mistaken for the direct effects of the dimensions. Additionally, the niches, and niche overlaps, are not located at the same range of Blau space coordinates in each school, while the results of overlap are consistent across schools. Table 5 gives summary statistics for the niche centers (i.e., means) and widths (i.e., stan-dard deviations) for each dimension and focal organization calculated across schools. Quite clearly, there is substantial variation both in where the niches are centered and in the width of the niches from school to school. For exam-ple, in the BMI dimension the gang niche is centered on a value ranging from a low of roughly 15.97 to a high of 32.73, while in the PVT dimension a stan-dard deviation for the athletic group ranges from a low of approximately 8.36 to a high of 27.72. While there is obviously clustering about a central tendency, there is also considerable diversity. 
+Nevertheless, to further investigate this possibility we performed a pro-pensity score matching (PSM) analysis (Rosenbaum and Rubin 1983; Rubin 2006). PSM methods simulate an experimental design using observational data by matching each “treated” individual (e.g., a nicher) to one or more “untreated” individuals who have similar propensities for being in the treat-ment group (see Morgan and Winship 2007; Guo and Fraser 2010). This method has a number of advantages over standard linear models (e.g., Mor-gan and Todd 2008) and has previously aided in determining causation (e.g., 
+TABLE 5 
+Descriptive Statistics for the Niche Centers and Widths of Blau Parameters: Gangs and Athletic Groups 
+Variable  Mean  SD  Min  Max  
+Gang niche:  
+PVT score:  
+Mean . . . . . . . . . . . . . .  96.92  10.75  52.63  122.00  
+SD . . . . . . . . . . . . . . . . .  9.24  7.33  0  53.01  
+Physical maturity:  
+Mean . . . . . . . . . . . . . .  3.29  .56  2  5  
+SD . . . . . . . . . . . . . . . . .  .60  .43  0  2.12  
+BMI:  
+Mean . . . . . . . . . . . . . .  22.72  2.83  15.97  32.74  
+SD . . . . . . . . . . . . . . . . .  2.98  2.30  0  9.82  
+Family income:  
+Mean . . . . . . . . . . . . . .  34.69  19.85  2  102.45  
+SD . . . . . . . . . . . . . . . . .  15.35  18.47  0  114.59  
+Athletic group niche:  
+PVT score:  
+Mean . . . . . . . . . . . . . .  100.76  8.40  45.29  119.45  
+SD . . . . . . . . . . . . . . . . .  12.66  3.29  8.36  27.72  
+Physical maturity:  
+Mean . . . . . . . . . . . . . .  3.37  .27  2  4.09  
+SD . . . . . . . . . . . . . . . . .  .78  .19  0  1.36  
+BMI:  
+Mean . . . . . . . . . . . . . .  22.07  1.21  19.34  26.11  
+SD . . . . . . . . . . . . . . . . .  3.87  .83  2.32  6.85  
+Family income:  
+Mean . . . . . . . . . . . . . .  47.56  23.53  8.10  188.32  
+SD . . . . . . . . . . . . . . . . .  34.41  31.29  4.81  215.89  
+
+Lundquist 2004; Diaz and Handa 2006; Trinitapoli and Vaisey 2009; Brand and Xie 2010). Because our focal niches are in different Blau space locations in each school, it is possible to .nd a considerable number of treated and un-treated individuals with similar propensity scores. This permits us to com-pare treated (e.g., nicher) and untreated (e.g., nonnicher) individuals who have similar values on our Blau parameters, and a signi.cant difference between them would be consistent with organizational leakage. We use kernel-based matching (i.e., propensity score matching based on nonparametric regres-sion; see Guo and Fraser 2010, chap. 7) on our Blau dimensions to identify several matches for each treated individual. Our results show signi.cant dif-ferences between the treated and untreated matches for both deviant behav-ior (t 5 8.269, P < .001) and athletic behavior (t 5 3.742, P < .001). Using an alternative strati.cation matching procedure on our Blau dimensions in place of kernel-based matching produces substantively identical results for both de-viant behavior (t 5 8.919, P < .001) and athletic behavior (t 5 2.419, P < .05).29 PSM analysis therefore supports our contention that the nicher effects are not a consequence of respondent values on the underlying Blau dimensions. 
+Fourth, it could be that organizational niche position is the result of organization-typical behavior rather than vice versa. For example, early in childhood, individuals might be interested in particular groups, but as they age, fewer and fewer remain active members (e.g., many teens have played soccer, but few are on the high school team). This could leave a large number of individuals within a group niche who exhibit its typical behaviors but are not members. Alternatively, it may be that behaviors compete for adherents and behavioral enthusiasts are more likely to join the corresponding organi-zation. As a result, organizations draw their membership from among those who already engage in their typical behaviors. Because organizational mem-bership is measured only at wave 1, we cannot use a longitudinal analysis to resolve this issue. However, if something like the above were to obtain, then the organizational niche should be located within the niche of the behaviors. Using the approach described by Mark (1998), we construct niches in each school for our gang-related and athletic-related behaviors. These niches are centered on the mean characteristics of those who exhibit high levels of gang-related and athletic-related behavior and extend 1.5 SDs in each dimension. We then create a new binary variable for behavioral nichers that equals one when a respondent is within the focal behavioral niche and zero otherwise. We estimate a new set of models identical to those in table 4 but with this 
+29 Strati.cation matching based on the Blau dimensions as well as all remaining covar-iates continues to support our conclusions (results omitted to save space). 
+new behavioral nicher binary variable included. We are therefore able to de-termine if organizational overlap has an effect after controlling for the under-lying behavioral niche. The results (table 6) continue to support our hypoth-eses. As expected, the behavioral nicher variable is a signi.cant predictor of both deviant (models 7–9) and athletic (models 10–12) behaviors. The gang nicher variable (model 7) remains a signi.cant, positive predictor of deviant behavior (b 5 1.210, P < .01), although the athletic nicher variable loses sig-ni.cance (model 10). This suggests that our niche membership hypothesis is only partially supported. The manifold nicher variables are nonsigni.cant for both deviant (models 8 and 9) and athletic (models 11 and 12) behaviors, al-though the coef.cients remain in the anticipated direction for deviant behav-iors. Models 8 and 9 indicate that the gang exclusive nicher variable remains signi.cant for deviant behaviors both when the control for club membership is omitted (b 5 1.757, P < .001) and when it is included (b 5 1.293, P < .01). Likewise, models 11 and 12 reveal that the athletic exclusive nicher variable remains signi.cant for athletic behaviors both without (b 5 1.810, P < .001) and with (b 5 1.534, P < .05 one-tailed) the control for club membership. This provides continuing support for our niche overlap hypothesis; being ex-clusively overlapped by an organizational niche produces noticeably stronger effects from organizational leakage. Therefore, organizational leakage has a detectable and consistent effect on individual behavior even when control-ling for the behavioral niche. Moreover, in model 8 the effect for exclusive nichers is larger than the effect for behavioral nichers (Wald v2 5 6.87, P < .01), while in all other models there is no signi.cant difference in the size of their effects. In other words, in all models the effect of being an exclusive or-ganizational nicher is equal to or larger than the effect of being a behavioral nicher. That our effects of interest are so robust is particularly impressive given the extensive set of controls we impose in our models. 
+Finally, we were unable to include age or grade as Blau dimensions despite their obvious relevance to the population under study, and thus it is possi-ble that including them would somehow disrupt our results.30 Given that the voluntary organizations included in these data are not especially selective on grade or age, the most likely way in which these variables could affect our mod-els would be by shaping the academic contexts in which students are lodged and thus their social networks. However, while some required classes are strongly associated with particular grades (e.g., Algebra I, English II), others (e.g., physical education, language courses) are only weakly associated, and electives (e.g., speech, web design, industrial arts) often contain a heteroge-
+30 We did include age as a control variable without disrupting our predicted effects, and parallel analyses using grade as a control are substantively identical. 
+neous mixture of grades and ages. As such, age or grade only imperfectly con-trols for copresence in these settings and exposure to their in.uence. There-fore, we estimate a new series of models that control for the local positions (Field et al. 2006; Crosnoe et al. 2008; Frank et al. 2008, 2013) of our respon-dents as proxies for their academic contexts. Data on the local positions of a limited subset of respondents to the Add Health were obtained (see Muller et al. 2007), and we estimated four new models (table 7) controlling for these positions. The .rst two models (models 13 and 14) predict deviant behaviors while the second two models (models 15 and 16) predict athletic behaviors. The .rst model in each pair (models 13 and 15) is identical to, respectively, models 3 and 6 from table 4, with the addition of a control for local position. The second model in each pair (models 14 and 16) is equivalent to, respec-tively, models 9 and 12 from table 6, with the addition of a control for local position. In all cases, using the local position covariate reduces our sample sizes by 50% or more relative to tables 4 and 6, with the consequent reduc-tion in power. The results of this analysis (table 7) continue to support our hy-potheses. Across all models, local position fails to predict the level of deviant or athletic behavior, suggesting that these characteristics are essentially or-thogonal to one’s location within the academic structure. Unsurprisingly, the behavioral nicher variable is a signi.cant positive predictor of both devi-ant (1.183, P < .05 one-tailed) and athletic (1.342, P < .05) behavior in models where it appears. The manifold nicher variable is a signi.cant positive pre-dictor of deviant behavior only in model 13 (1.187, P < .001) and loses signif-icance in the subsequent model. Manifold nicher status is not a signi.cant predictor of athletic behavior in any model. In contrast, the exclusive nicher variable is a signi.cant positive predictor of both deviant behaviors (model 
+13: 1.526, P < .05 one-tailed; model 14: 1.568, P < .05) and athletic behaviors (model 15: 2.661, P < .05; model 16: 2.268, P < .05 one-tailed) in all models. Overall, this is consistent with our expectation that exclusive nichers should be more robustly associated with the organization-typical behavior than man-ifold nichers. As such, in light of both the substantially reduced power and the inclusion of many controls, we view these results as supportive of our model. It appears unlikely that our results are an artifact deriving from our inability to include age or grade as Blau dimensions. Moreover, these results are con-sistent with our argument that local positions capture a different aspect of ca-sual contact than our method, thereby suggesting that both approaches can be employed together to achieve greater understanding of the social environment. 
+None of these supplemental analyses, taken in isolation, can entirely resolve concerns with alternative causation. But collectively, our additional analyses eliminate a wide variety of possible alternatives. As a result, it is dif.cult to see what mechanisms could account for each school’s unique niche positions, as well as the degree of overlap between them, producing our hypothesized ef-fects, without actually being the mechanisms we hypothesize. 
+828 
+TABLE 6 
+Negative Binomial Regression and Ordered Logistic Regression Analysis of Deviant and Athletic Activities: Behavioral Nicher Controlled 
+DEVIANT ACTIVITIES ATHLETIC ACTIVITIES 
+Model 7 Model 8 Model 9 Model 10 Model 11 Model 12 
+Ecological in. uence: Nicher ................ 1.21**(.09) .93(.09) Behavioral nicher . . . . . . . 1.12* (.06) 1.25*** (.09) 1.24*** (.08) 1.32** (.12) 1.36*** (.12) 1.37*** (.11) Manifold nicher . . . . . . . . . 1.06 (.06) 1.01 (.05) .90 (.08) .84~ (.08) Exclusive nicher . . . . . . . . . 1.76*** (.17) 1.29** (.12) 1.81** (.40) 1.53~ (.36) 
+Social network: Actual membership . . . . . . 2.18*** (.23) 2.53*** (.17) Proportion of friends 
+whoaremembers...... 2.801 (1.53) 2.90* (1.58) 2.881 (1.66) 1.57** (.24) 1.55** (.24) 1.23 (.21) Friends’ mean activity . . . . 1.04* (.02) 1.04** (.01) 1.03* (.01) 1.04 (.04) 1.05 (.04) 1.04 (.05) Time spent with friends . . . 1.23*** (.03) 1.23*** (.03) 1.22*** (.03) 1.36*** (.04) 1.36*** (.04) 1.37*** (.04) 
+Individual characteristics: Gender (female 5 1) . . . . . . .69*** (.03) .70*** (.03) .72*** (.03) .57*** (.04) .57*** (.04) .66*** (.05) Age . . . . . . . . . . . . . . . . . . . .94*** (.02) .94*** (.02) .95*** (.01) .85*** (.02) .85*** (.02) .87*** (.02) Race (white 5 1) ........ .90*(.05) .89*(.04) .911 (.04) .871 (.06) .871 (.06) .881 (.06) Parent relationship . . . . . . . .79*** (.02) .79*** (.02) .79*** (.02) 1.091 (.05) 1.091 (.05) 1.11* (.05) School attachment . . . . . . . .93*** (.01) .93*** (.01) .93*** (.02) 1.25*** (.03) 1.25*** (.03) 1.18*** (.03) 
+829 
+Truancy . . . . . . . . . . . . . . . 1.20*** (.02) 1.20*** (.02) 1.19*** (.02) .97 (.03) .97 (.03) .97 (.03) PVT score . . . . . . . . . . . . . 1.00 (.00) 1.00 (.00) 1.00 (.00) 1.00 (.00) 1.00 (.00) 1.00 (.00) Physical maturity . . . . . . . . 1.01 (.03) 1.02 (.03) 1.02 (.03) 1.12** (.05) 1.12** (.05) 1.11* (.05) BMI .................. 1.01*(.01) 1.01*(.01) 1.011 (.00) 1.01 (.01) 1.01 (.01) 1.01 (.01) Family income . . . . . . . . . . 1.00 (.00) 1.00 (.00) 1.00 (.00) 1.00*** (.00) 1.00*** (.00) 1.00** (.00) 
+Constant . . . . . . . . . . . . . . . . . 27.50*** (9.50) 26.61*** (8.96) 24.52*** (8.03) .1 ...................... 23.63 (.46) 23.56 (.46) 22.81 (.47) .2 ...................... 22.22 (.46) 22.15 (.46) 21.35 (.48) .3 ...................... 21.31 (.46) 21.23 (.46) 2.40 (.48) .4 ...................... 2.36 (.47) 2.29 (.47) .59 (.48) .5 ...................... .47(.47) .55(.47) 1.44(.49) .6 ...................... 1.36(.48) 1.44(.48) 2.36(.49) Lnalpha ................. 2.18 (.05) 2.18 (.05) 2.22 (.04) Alpha ................... .84(.04) .83(.04) .80(.03) Wald v2 . . . . . . . . . . . . . . . . . 1,183.01 1,631.47 1,509.39 491.54 484.51 839.01 Loglikelihood ............ 284,895.64 284,806.71 284,393.49 285,578.29 285,538.14 284,140.96 
+NOTE.—N 5 6,390 for models 7, 8, and 9; N 5 8,691 for models 10, 11, and 12. Numbers in parentheses are SEs. 1 P < .10. ~ P < .05, one-tailed. 
+* P < .05. ** P < .01. *** P < .001. 
+TABLE 7 
+Negative Binomial Regression and Ordered Logistic Regression Analysis of Deviant and Athletic Activities: Local Position Controlled 
+830 
+DEVIANT ACTIVITIES ATHLETIC ACTIVITIES 
+Model 13 Model 14 Model 15 Model 16 
+Ecological in. uence:Behavioralnicher ..... . ..... Local position . . . . . . . . . . . . . . . . Manifoldnicher .............. Exclusive nicher . . . . . . . . . . . . . . 
+Social network: Actualmembership ........... Proportion of friends 
+whoaremembers ........... Friends’ meanactivity ......... Timespentwithfriends ........ 
+Individual characteristics: Gender (female 5 1) . . . . . . . . . . . Age ........................ Race (white 5 1) ............. Parentrelationship ............ Schoolattachment ............ 
+.99 (.01) 1.19*** (.06) 1.53~ (.33)
+2.46*** (.52) 
+1.63 (1.42) 1.031 (.02)1.21*** (.03) 
+.70*** (.04) .95 (.03) .84** (.05) .77*** (.03) .94* (.03) 
+1.18~ (.11).99 (.01) 1.10 (.08) 1.57* (.34) 
+2.46*** (.52) 
+1.63 (1.39) 1.02 (.02) 1.21*** (.03) 
+.70*** (.04) .951 (.03).84** (.05) .78*** (.02) .94* (.03) 
+1.02 (.01) 1.10 (.10) 2.66* (1.15) 
+2.92*** (.29) 
+1.25 (.31) 
+.97 (.05) 1.35*** (.07) 
+.61*** (.07) 
+.87*** (.03) 
+.86 (.10) 1.00 (.06) 1.15*** (.05) 
+1.34* (.20) 1.02 (.01) 
+.89 (.13) 2.27~ (1.07)
+2.90*** (.29) 
+1.23 (.31) 
+.98 (.05) 1.36*** (.07) 
+.61*** (.07) 
+.87*** (.03) 
+.86 (.10) 1.01 (.06) 1.14*** (.05) 
+831 
+Truancy .................... PVTscore .................. Physicalmaturity ............. BMI ....................... Familyincome ............... Constant ...................... .1 ........................... .2 ........................... .3 ........................... .4 ........................... .5 ........................... .6 ........................... Lnalpha ...................... Alpha ........................ Wald v2 ...................... Loglikelihood ................. 
+N 
+1.23*** (.03) 1.00 (.00) 1.00 (.03) 1.011 (.01)1.00 (.00) 
+21.74*** (13.07) 
+2.33 (.05) .72 (.04) 485.51 241,253.213,106 
+1.22*** (.03) 1.00 (.00) 1.01 (.04) 1.01* (.01) 1.001 (.00)2.44*** (12.41) 
+2.34 (.05) .71 (.04) 579.56 241,213.873,104 
+.96 (.05) .991 (.00)1.08 (.07) 1.021 (.01) 1.001 (.00) 
+24.04 (.98) 22.51 (1.01) 21.56 (1.00) 
+2.63 (1.00) .20 (1.00) 1.05 (1.01) 
+531.16 238,740.643,960 
+.96 (.05) 1.00 (.00) 1.08 (.07) 1.021 (.01)1.00* (.00) 
+23.90 (.95) 22.36 (.98) 21.42 (.97) 2.48 (.96) .35 (.97) 1.20 (.97) 
+588.87 238,711.343,960 
+NOTE.—Numbers in parentheses are SEs. 1 P < .10. 
+~ 
+P < .05, one-tailed, 
+* P < .05. ** P < .01. *** P < .001. 
+DISCUSSION 
+Our research demonstrates that organizations and the competition between them have a unique impact on individual behavior. Organizations develop and legitimate their own distinctive identities and cultures that provide a sup-portive context for organization-typical behaviors. However, this supportive context is not limited in effect to members but also affects nonmembers who have frequent contact with the organization or those who belong to it. On the whole, our results con.rm the importance of organizational leakage and sug-gest that organizational culture plays a critical part in shaping the behavior of members and nonmembers within the organization’s social locale. As a re-sult, our research has implications for a wide range of sociological concerns. 
+First, this work speaks to the classic macro-micro problem by showing how microlevel behaviors are in.uenced by mesolevel processes (Marsden 1981; Coleman 1986). Individuals and organizations have traditionally been treated as different levels of analysis that respond to different causal mechanisms, but our results suggest that individuals and organizations interact as part of a sin-gle system. Our work shows one promising method for integrating multiple levels into a single analysis, but we anticipate that many more are possible. 
+While not directly tested in this article, areas of niche overlap are also im-portant because they may slow the diffusion of new practices. As contagion becomes more costly to the individual in terms of time or resources, it is also more likely to be affected by competition in Blau space. In other words, the diversity of behaviors that compete for limited time in an area of niche over-lap makes it less likely that a new entrant (e.g., behavior) will diffuse. Com-petition is likely to be an especially serious constraint for complex contagions, which require contacts from multiple others in order to spread to a new indi-vidual (Centola and Macy 2007; Barash et al. 2012). In areas of niche overlap it will be dif.cult to produce the redundant contacts required by complex con-tagions. Because only the most simple behaviors are exempt from competi-tion for time and resources, the majority of phenomena that can diffuse through social networks should be affected by organizational competition.31 Areas of high niche overlap function as natural barriers to the diffusion of contagions, separating the social world much as high mountains can separate disparate cultures. Organizational competition has typically been ignored in studies of contagion and diffusion, and thus our research represents a signi.cant step forward. Nevertheless, our mechanism of organizational leakage provides a competitive advantage only to organization-typical behaviors within the or-ganization’s niche and thus is a supplement to, rather than a replacement for, models of social contagion and diffusion. 
+31 A contagion that has no impact on behavior or time use is unlikely to be of interest pre-cisely because it has no impact on behavior or time use. 
+In addition, our work presents an innovative approach to studying certain types of context effects. Social context is of long-standing interest to social scientists (e.g., Durkheim [1851] 1997; Blalock 1984; Abbott 1997) but has proven extremely dif.cult to operationalize. When a mechanism is not spec-i.ed, social context appears to act as if an occult hand had directly in.uenced the individual behavior. Specifying such a mechanism through conventional network analysis is partly effective, but measuring the vast number of rele-vant relationships is prohibitively dif.cult or, in the case of casual contacts, nearly impossible. Even if a researcher is able to gather exhaustive data on one or two relationship types, there remain many other unobserved types through which in.uence can .ow. Other methods of capturing casual contact are available (e.g., local positions) but typically require very detailed data and are often narrow in the types of contact that they can measure. We therefore suggest that our approach is most useful either when the data needed for local position methods are unavailable or when the researcher wishes to capture a larger fraction of the extant casual contacts. Our approach to context effects relies on the mechanism of social networks but does not require exhaustive social network data. Individuals who have similar values on salient variables are sorted into the same types of positions (e.g., occupations, residential areas) by structural forces and often choose each other for interaction (McPherson et al. 2001). They are thus likely to experience similar environmental features and to have higher rates of friendly and casual contact. Niches in Blau space capture this wider social context in a probabilistic way and thus provide a measure of social context that is grounded in the concrete mechanisms of so-cial networks without their prohibitive data requirements. Our approach is not intended to replace network methods but instead is a supplement (to cap-ture casual contacts) or a useful alternative when network data are not avail-able. We recognize that this type of analysis will be challenging for many re-searchers to duplicate and so have produced a package named BlauNet for the R statistical environment that automates niche calculations and performs many other tasks needed to adopt our methods.32 
+Our work provides a unique way to model causal effects. In our model, causation is not a linear function of the underlying parameters (i.e., variables) that de.ne our Blau space model because a change in a given parameter is not invariably linked to a change in behavior. For example, an increase in edu-cation will make it more likely that a person will engage in organization A’s characteristic behaviors only as long as it pushes one more deeply into A’sex-clusive niche area. However, education beyond a certain point may remove a person from A’s exclusive niche, or even manifold niche, and lower the prob-ability of adoption. We also might reasonably expect that organizational leak-
+32 The package is available from https://cran.r-project.org/web/packages/Blaunet/index .html. 
+age will be limited not just by the presence or absence of organizational com-petition in an area of Blau space (i.e., exclusive vs. manifold nicher) but by the degree of competition between organizations (i.e., the number of niches over-lapping a manifold nicher). We focused on the exclusive/manifold nicher dis-tinction because our schools contain a relatively homogeneous population, so often either many niches are in competition or there is no competition. In a dif-ferent empirical case it might be possible to study the impact of degree of com-petition, but increasing competition will likely have a diminishing effect on be-havioral adoption. 
+As with any research, this effort has certain limitations. Our data are based on a sample of adolescents and thus are not representative of the population at large. Nevertheless, most studies of homophily and Blau space have em-ployed adult populations and give us good reason to expect that our model will apply to adults. We were also limited in our ability to construct indices of behaviors that corresponded to available organization types. Despite the availability of data on membership in multiple groups, we were able to con-struct valid dependent measures only for athletic groups and gangs. At the same time, the robustness of our effects across both legitimate and illegiti-mate activities, even when controlling for a variety of possible confounds, strongly implies that our model is general. Our work is limited because the tar-get behaviors we predict were derived from naturalistic data by our coders rather than induced experimentally. While experimental inducement of a leaking behavior would be ideal, it is notoriously dif.cult to introduce even a single innovation (e.g., Rogers 2003), much less to successfully introduce the same innovation dozens of times (i.e., to all of our independent ecologies). Given that the microfoundations of our theory have already been extensively documented in laboratory studies (e.g., Zajonc 1968; Alexander et al. 1970; Saegert et al. 1973; Brockner and Swap 1976; Swap 1977; Zucker 1977; Moreland and Zajonc 1982), we think that this limitation is acceptable. Fi-nally, while the Add Health data are longitudinal, items measuring organi-zational membership were asked only during wave 1. Because some amount of change in niche position is expected over time, we were limited to cross-sectional models, preventing us from de.nitively .xing the causal direction. Nonetheless, given the nature of our predictors, the extensiveness of our con-trols, and our subsequent efforts to rule out alternative explanations, it is un-likely that endogenous artifacts are generating the consistent patterns of niche overlap and behavior across the schools. 
+CONCLUSIONS Our results strongly suggest that the competition between organizations can affect the behaviors exhibited by the members and nonmembers who are being competed over. Moreover, this is the case even when controlling for 
+network effects, for variables that ought to have a direct effect on behavior, and for the main effects of the variables that form our Blau space dimen-sions. Our niche membership hypothesis received partial support, while our niche overlap hypothesis was repeatedly supported, and as such, our underlying model and concept of organizational leakage both receive con-siderable validation. 
+Future research should explore the effects of using different Blau space parameters and different numbers of parameters to predict behaviors. In-creases in the dimensionality of the system will change the amount of overlap between niches (Peli and Bruggeman 2006), but there is no theoretical or em-pirical method for selecting an appropriate set of dimensions. We follow pre-vious work in this regard, selecting four dimensions that are salient to the population under study, but this is a somewhat arbitrary criterion. Further research should also use an adult population, but such an effort will require the collection of new data drawn from multiple independent ecologies that include measures of group membership, demographics, and adoption of be-haviors characteristic of various groups. Additional effort should also be de-voted to exploring what types of organizations can be modeled as members of a common Blau space. Existing work on Blau space relies almost exclu-sively on voluntary associations/organizations (e.g., McPherson 1983; Mc-Pherson and Ranger-Moore 1991; Popielarz and McPherson 1995) or cultural products (e.g., Mark 1998; Bonikowski 2010), but the model is applicable to other types of organizations. Such an improvement would also cast addi-tional light on our results; while we identi.ed individuals who were being com-peted over by only a single organization (i.e., exclusive nichers), this is at least partly an illusion. Exclusive nichers in our data are also being competed over by the school itself and may well be experiencing competition from other groups that are not captured in our data. Because all of our respondents are part of the school context and we included niches for the three major non-school adolescent organization types (i.e., religious organizations, formal em-ployment, and gangs), this is unlikely to affect our results. However, use of the method in other empirical cases would be aided by an improved understand-ing of when groups compete. Our model also includes implications for the abil-ity of contagions to diffuse through a population, but we were unable to test them. Future research should explore whether the diffusion of social conta-gions is impeded by niche overlap, as we suggest. We .nd that the behaviors characteristic of an organization are able to in.uence nonmembers, but it is probably not the case that all observable organizational behaviors are prone to spread beyond the organization’s borders. Future research should identify the attributes of those behaviors most likely to spread. Finally, while beyond the scope of this article, it would be interesting to attempt to link our approach to other methods for capturing casual contacts. For example, researchers could examine whether proximity in Blau space is associated with sharing the same local position (Field et al. 2006; Frank et al. 2008), as well as how local positions and Blau space proximity interact to produce social networks. 
+Much work remains to be done, but these results are promising. Our the-ory and .ndings have important implications for organizational theory, dif-fusion, the study of culture, and social psychology. Moreover, this article supports the classic sociological insight that organizations are social entities that can have an effect on the world around them at multiple levels of anal-ysis. It appears that when modeling individual behavior, we should attend not only to the characteristics of the individuals but also to the entities that compete for their allegiance. 
+APPENDIX 
+Exponential Random Graph Models of Blau Dimensions 
+Analytic Strategy 
+We used exponential random graph models (ERGM; see Lusher et al. 2013) to examine whether the adolescents in our data tend to associate with those like themselves on each of our Blau dimensions, while controlling for soci-ality (main) effects, demographic variables, organizational comembership, and endogenous network effects. 
+In the ERGM framework the attribute effects belong to one of two types. First, the modeling of the overall effect of an attribute (e.g., are females more likely to form ties than males?), sometimes referred to as “sociality” (Good-reau, Kitts, and Morris 2009), is measured at the individual level. The second type of effect is measured at the dyadic level and captures how the sharing of an attribute by the two members of a dyad affects the likelihood that they will form a tie (e.g., are pairs of nodes that share a gender category more likely to form a tie?). This dyadic attribute effect is used to investigate homophily/ heterophily. The two effects function akin to main effects and interaction ef-fects, respectively, and both types of effects should be included in the model if one is investigating a given attribute (Goodreau et al. 2009; Lusher et al. 2013). 
+Moreover, when modeling the effect of an exogenous attribute on tie for-mation, it is important to demonstrate that the outcome is robust to effects that are endogenous to the network itself. Endogenous mechanisms include triadic and higher-order or structural effects, which capture well-established (or newly theorized) mechanisms of tie formation such as preferential attach-ment (Goodreau et al. 2009; Lusher et al. 2013). 
+We performed our ERGM analyses using the two largest schools in the Add Health, which we pseudonymously refer to as William McKinley High School (models 1a–4a) and New Utrecht High School (models 1b–4b). Focus-ing on these two schools is common (Bearman et al. 2004; Haas and Schaefer 2014; Zhang et al. 2015) in network analysis of Add Health as these larger schools provide suf.cient statistical power to test a variety of complex effects. In addition, the schools represent two different social contexts: McKinley is located in a midsized town in the Midwest and is more than 90% white while New Utrecht is located in a suburb of the West and is ethnically and racially diverse. 
+For each school we estimated four sets of nested models, which assess the tendency to associate on the basis of Blau dimensions while controlling for sociality effects (models 1a and 1b), demographic variables (models 2a and 2b), organizational comembership (models 3a and 3b), and structural effects (models 4a and 4b). We have symmetrized the networks, as is relatively common in the analysis of Add Health data (Goodreau et al. 2009; Schaefer et al. 2011).33 Missing attribute data were imputed using the multivariate imputation by the chained equations procedure (Raghunathan et al. 2001; Buuren 2007).34 All models converged, and diagnostic tests showed they were not degenerate. 
+Variables and Measurement Homophily for continuous variables is measured as the absolute difference in values between two actors making up the dyad. For example, the lower the absolute difference on physical maturity between two actors, the more likely they are to form a tie (i.e., a signi.cant and negative coef.cient indi-cates the presence of homophily). We included all of the demographic var-iables from our main models (i.e., race, gender, and age). 
+Organizational membership is modeled using a dyadic covariate rather than absolute difference. Since our expectation is that sharing an organiza-tional membership increases the likelihood of association, it would be inap-propriate to model this in terms of absolute difference in number of organi-zational memberships. In other words, our interest is to capture the effect of sharing the same organizations, not the same number of organizations. We therefore calculated the number of organizations shared by each dyad of the network and used this matrix as a dyadic covariate (see Lusher et al. 2013, chap. 8) in the model. In addition, we included a main effect variable for the number of organizations a person belongs to, in order to control for the main effect of overall organizational activity. 
+33 Analysis of unsymmetrized or directed data produces consistent results. However, the diagnostics and goodness of .t are better for the symmetrized data, and many other re-searchers also symmetrize, so we present those models here. 
+34 The imputation generated .ve data sets, and the analysis was repeated on each one. The results are consistent across each data set. 
+We included two standard structural or endogenous network effects: tri-adic closure and preferential attachment. Triadic closure refers to the ten-dency to form a tie to the associate of an associate, creating a closed triangle of relationships. For example, Mary might be more likely to form a tie to Sue if Mary and Sue both know Jon. One way to model triadic closure is to in-clude triads as a predictor variable. However, because network data are by their nature interdependent and the formation of one triad tends to increase the creation of further triads, this simple triadic parameter tends to be un-stable and leads to degeneracy (see Hunter 2007). To deal with this, one may use a geometrically weighted edge-wise degree distribution (GWESP) term, which captures the distribution of the number of shared partners for each tie in the network (Hunter, Goodreau, and Handcock 2008). The term en-tails a decreasing marginal return for each extra shared partner a pair of nodes have. To continue our example, the tie between Mary and Sue is more likely if, besides Jon, they both know two, three, or perhaps four persons; but each additional shared associate produces a diminishing return in asso-ciation probability, and at some point additional shared associates make no signi.cant difference to the likelihood of closure.35 
+Another important network mechanism is preferential attachment, which refers to the tendency to send ties to those who already have many ties in a rich get richer or “Matthew” effect (Barabási and Albert 1999). This is mea-sured using the geometrically weighted degree distribution (GWD) term, which captures the distribution of degrees in the network. The more ties a person has, the more likely she is to receive a tie. Like the GWESP parameter, the GWD term attenuates the impact of each additional tie to deal with model degeneracy (Hunter et al. 2008). 
+Results 
+The results are presented in table A1 for William McKinley High School (WMHS) and table A2 for New Utrecht High School (NUHS). The coef.-cients of ERGM terms can be interpreted similarly to logistic regression. They are expressed as odds ratios that indicate how a one-unit increase in a predictor variable affects the odds of a tie. 
+The four Blau dimensions are clear predictors of tie formation, controlling for sociality, demographic variables, organizational comembership, and tri-adic effects. While the homophily effect size of our dimensions diminishes slightly as the controls are introduced, they remain signi.cant in both 
+35 Currently there is no principled way of identifying the exact value for the scaling param-eter. We set the weighting parameter at 0.25 on the basis of two previous ERGM studies of Add Health data that used this parameter (Goodreau et al. 2009; Schaefer et al. 2011). The GWESP parameter using this value performed well in diagnostics. 
+TABLE A1 
+ERG Models of Tie Formation for William McKinley High School 
+MODEL 1a MODEL 2a MODEL 3a MODEL 4a b SE b SE b SE b SE 
+Edges .................... 24.83*** .31 23.11*** .51 22.83*** .51 25.10*** .11 Sociality: 
+Blau dimensions: PVT ................. .00 .00 .00 .00 .00 .00 .00 .00 Maturity .............. .00 .02 .01 .02 .01 .02 .01 .01 Income ............... .00*** .00 .00*** .00 .00** .00 .00* .00 BMI ................. .00 .00 .01 .00 .01 .00 .01 .00 
+Demographic controls: Gender (ref. 5 male) . . . . .06* .03 .05 .03 .05** .02 Race (ref. 5 nonwhite) . . . .20 .19 .21 .19 .18 .13 Age .................. 2.04*** .01 2.05*** .01 2.02*** .01 
+Organization total . . . . . . . . 2.04*** .01 2.05*** .01 Homophily: 
+Blau dimensions: PVT ................. 2.02*** .00 2.02*** .00 2.02*** .00 2.02*** .00 Maturity .............. 2.14*** .03 2.10*** .03 2.10*** .03 2.08** .02 Income ............... 2.00*** .00 2.00*** .00 2.00*** .00 2.00** .00 BMI ................. 2.06*** .01 2.05*** .01 2.05*** .01 2.04*** .01 
+Demographic controls: Gender ............... .26*** .04 .22*** .04 .20*** .04 Race ................. 2.16 .20 2.16 .20 2.16 .15 Age .................. 2.71*** .02 2.69*** .02 2.51*** .02 
+Organization comembers . . . .66*** .03 .55*** .03 
+Triadic effects: Triad closure (GWESP) . . . . 1.58*** .03 Preferential attachment 
+(GWD) ............. 2.45*** .00 
+NOTE.—The high school names used are pseudonyms. 
+* P < .05. ** P < .01. *** P < .001. 
+schools. We can also see that, as expected by our theory, membership in the same organization increases the likelihood of association and that this effect remains when demographic similarities and higher-order network effects are controlled for. Interestingly, we see that the main effect of the number of organizational memberships is negative, suggesting that the more organi-zations one belongs to, the fewer ties he or she will have overall. This makes sense as one’s resources are consumed with organizational duties. However, it is countered by the robust effect of sharing organizational membership(s); the more organizations two persons share, the more likely they are to form a tie. In short, these results are consistent with our expectations and support the validity of our primary analyses. 
+Blau dimensions such as income in both schools and PVT in NUHS ap-pear to exert a main effect on tie formation. Gender also appears to exert a 
+TABLE A2 
+ERG Models of Tie Formation for New Utrecht High School 
+MODEL 1b MODEL 2b MODEL 3b MODEL 4b b SE b SE b SE b SE 
+Edges .................... 26.61*** .25 28.29*** .51 28.15*** .51 28.56*** .44 Sociality: 
+Blau dimensions: PVT ................. .01*** .00 .01*** .00 .01*** .00 .00*** .00 Maturity .............. .01 .02 2.01 .02 2.01 .02 2.01 .01 Income ............... .00*** .00 .00*** .00 .00** .00 .00** .00 BMI ................. .00 .00 .00 .00 .00 .00 .00 .00 
+Demographic controls: Gender (ref. 5 male) . . . . .05* .02 .05* .02 .04* .02 Race (ref. 5 nonwhite) . . . .75*** .10 .75*** .10 .64*** .08 Age .................. .02 .01 .02 .01 .01 .01 
+Organization total . . . . . . . . 2.04*** .01 2.04*** .01 Homophily: 
+Blau dimensions: PVT ................. 2.02*** .00 2.02*** .00 2.02*** .00 2.01*** .00 Maturity .............. 2.06* .02 2.05* .02 2.05* .02 2.05* .02 Income ............... 2.01*** .00 2.01*** .00 2.01*** .00 2.01*** .00 BMI ................. 2.04*** .01 2.04*** .01 2.04*** .01 2.04*** .01 
+Demographic controls: Gender ............... .46*** .04 .44*** .04 .39*** .03 Race ................. 1.34*** .13 1.34*** .13 1.12*** .11 Age .................. 2.66*** .03 2.66*** .03 2.56*** .02 
+Organization comembers . . . .51*** .03 .42*** .03 
+Triadic effects: Triad closure (GWESP) . . . . 1.94*** .03 Preferential attachment 
+(GWD) ............. 2.11*** .20 
+NOTE.—The high school names used are pseudonyms. 
+* P < .05. ** P < .01. *** P < .001. 
+main effect, with women having more ties than men overall in both schools and whites tending to have more ties than nonwhites in NUHS, while youn-ger students tend to have more ties in WMHS. In addition to our Blau dimen-sions, there appears to be homophily on gender and age in both schools, as well as race in NUHS. Further, we see that structural mechanisms such as triad closure and preferential attachment exert strong effects on tie formation. 
+REFERENCES 
+Abbott, Andrew. 1988. “Transcending General Linear Reality.” Sociological 
+Theory 
+6: 
+169–86. ———. 1997. “Of Time and Space: The Contemporary Relevance of the Chicago School.” 
+Social 
+Forces 
+75:1149–82. 
+Albert, Stuart, and David A. Whetten. 1985. “Organizational Identity.” Research in Or-ganizational Behavior 7:263–95. 
+Alexander, Norman, Jr., Lynne G. Zucker, and Charles L. Brody. 1970. “Experimental Expectations and Autokinetic Experiences: Consistency Theories and Judgmental Convergence.” Sociometry 
+33:108–22. 
+
+Aral, Sinan, and Marshall Van Alstyne. 2011. “The Diversity-Bandwidth Trade-off.” American 
+Journal 
+of 
+Sociology 
+117:90–171. 
+
+Argote, Linda, and Henrich R. Greve. 2007. “A Behavioral Theory of the Firm—40 Years and Counting: Introduction and Impact.” Organization 
+Science 
+18:337–49. 
+
+Ashforth, Blake E., and Fred Mael. 1989. “Social Identity Theory and the Organization.” Academy of Management Review 14:20–39. 
+Barabási, Albert-Lászl, and Réka Albert. 1999. “Emergence of Scaling in Random Net-works.” Science 
+286:509–12. 
+
+Barash, Vladimir, Christopher Cameron, and Michael Macy. 2012. “Critical Phenomena in Complex Contagions.” Social 
+Networks 
+34:451–61. 
+
+Barber, Bonnie L., Jacquelynne S. Eccles, and Margaret R. Stone. 2001. “Whatever Hap-pened to the Jock, the Brain, and the Princess? Young Adult Pathways Linked to Ad-olescent Activity Involvement and Social Identity.” Journal 
+of 
+Adolescent 
+Research 
+
+16:429–55. 
+Barnes, J. C., Kevin M. Beaver, Jacob T. N. Young, and Michael TenEyck. 2014. “A Be-havior Genetic Analysis of the Tendency for Youth to Associate According to GPA.” Social 
+Networks 
+38:41–49. 
+
+Bearman, Peter, James Moody, and Katherine Stovel. 2004. “Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks.” American 
+Journal 
+of 
+Soci-
+
+ology 
+110:44–91. 
+
+Bewley, T. F. 1999. Why Wages Don’t Fall during a Recession. Cambridge, Mass.: Har-vard University Press. 
+Blalock, Hubert M. 1984. “Contextual-Effects Models: Theoretical and Methodological Issues.” Annual 
+Review 
+of 
+Sociology 
+10:353–72. 
+
+Bond, Robert M., et al. 2012. “A 61-Million-Person Experiment in Social In.uence and Political Mobilization.” Nature 
+489:295–98. 
+
+Bonikowski, Bart. 2010. “Ecology of Taste: A Dynamic Analysis of Musical Genre Pref-erences, 1982–2002.” Manuscript. 
+Borgonovi, Francesca. 2008. “Divided We Stand, United We Fall: Religious Pluralism, Giving, and Volunteering.” American 
+Sociological 
+Review 
+73:105–28. 
+
+Brady, Henry E., Sidney Verba, and Kay Lehman Schlozman. 1995. “Beyond SES: A Re-source Model of Political Participation.” American 
+Political 
+Science 
+Review 
+89: 271–94. 
+
+Brand, Jennie E., and Yu Xie. 2010. “Who Bene.ts Most from College? Evidence for Negative Selection in Heterogeneous Economic Returns to Higher Education.” Amer-
+
+ican 
+Sociological 
+Review 
+75:273–302. 
+
+Brashears, Matthew E. 2008a. “Gender and Homophily: Differences in Male and Female Association in Blau Space.” Social 
+Science 
+Research 
+37:400–415. 
+
+———. 2008b. “Sex, Society, and Association: A Cross-National Examination of Status Construction Theory.” Social 
+Psychology 
+Quarterly 
+71:72–85. 
+
+Brockner, Joel, and Walter C. Swap. 1976. “Effects of Repeated Exposure and Attitudi-nal Similarity on Self-Disclosure and Interpersonal Attraction.” Journal 
+of 
+Personality 
+
+and 
+Social 
+Psychology 
+33:531–40. 
+
+Brown, B. Bradford, Sue Ann Eicher, and Sandra Petrie. 1986. “The Importance of Peer Group (‘Crowd’)Af.liation in Adolescence.” Journal 
+of 
+Adolescence 
+9:73–96. 
+
+Brown, B. Bradford, and Mary Jane Lohr. 1987. “Peer-Group Af.liation and Adolescent Self-Esteem: An Integration of Ego-Identity and Symbolic-Interaction Theories.” Journal 
+of 
+Personality 
+and 
+Social 
+Psychology 
+52:47–55. 
+
+Burgess, Simon, Eleanor Sanderson, and Marcela Umana-Aponte. 2011. “School Ties: An Analysis of Homophily in an Adolescent Friendship Network.” Working paper no. 11/267. Centre for Market and Public Organization, University of Bristol. http:// www.bristol.ac.uk/cmpo/publications/papers/2011/wp267.pdf. 
+Burt, Ronald S. 1980. “Innovation as a Structural Interest: Rethinking the Impact of Net-work Position on Innovation Adoption.” Social 
+Networks 
+2:327–55. 
+———. 1991. “Measuring Age as a Structural Concept.” Social 
+Networks 
+13:1–34. 
+
+Buuren, Stef van. 2007. “Multiple Imputation of Discrete and Continuous Data by Fully Conditional Speci.cation.” Statistical 
+Methods 
+in 
+Medical 
+Research 
+16 (3): 219–42. 
+
+Centola, Damon. 2010. “The Spread of Behavior in an Online Social Network Experi-ment.” Science 
+329:1194–97. 
+
+Centola, Damon, and Michael W. Macy. 2007. “Complex Contagions and the Weakness of Long Ties.” American 
+Journal 
+of 
+Sociology 
+113:702–34. 
+
+Chantala, Kim, and Chirayath M. Suchindran. 2011. “Add Health Weight Components.” Carolina Population Center, University of North Carolina at Chapel Hill. 
+Christakis, Nicholas A., and James H. Fowler. 2007. “The Spread of Obesity in a Large Social Network over 32 Years.” New 
+England 
+Journal 
+of 
+Medicine 
+357:370–79. 
+
+Cohen-Cole, Ethan, and Jason M. Fletcher. 2008a. “Detecting Implausible Social Net-work Effects in Acne, Height, and Headaches: Longitudinal Analysis.” British 
+Med-
+
+ical 
+Journal 
+337:a2533. doi:http://dx.doi.org/10.1136/bmj.a2533. 
+
+———. 2008b. “Is Obesity Contagious? Social Networks vs. Environmental Factors in the Obesity Epidemic.” Journal 
+of 
+Health 
+Economics 
+27:1382–87. 
+
+Coleman, James S. 1982. The Asymmetric Society. Syracuse, N.Y.: Syracuse University Press. 
+———. 1986. “Social Theory, Social Research, and a Theory of Action.” American 
+Jour-
+
+nal 
+of 
+Sociology 
+91:1309–35. 
+
+———. 1990. Foundations of Social Theory. Cambridge, Mass.: Belknap Press/Harvard University Press. 
+Coleman, James S., Elihu Katz, and Herbert Menzel. 1966. Medical Innovation: A Dif-fusion Study. Indianapolis: Bobbs-Merrill (for Columbia University Bureau of Ap-plied Social Research). 
+Conell, C., and S. Cohn. 1995. “Learning from Other People’s Actions: Environmental Variation and Diffusion in French Coal Mining Strikes, 1890–1935.” American Jour-nal of Sociology 101:366–403. 
+Crosnoe, Robert, Kenneth Frank, and Anna Strassmann Mueller. 2008. “Gender, Body Size and Social Relations in American High Schools.” Social 
+Forces 
+86:1189–1216. 
+
+Crosnoe, Robert, Catherine Riegle-Crumb, Sam Field, Kenneth Frank, and Chandra Muller. 2008. “Peer Group Contexts of Girls’ and Boys’ Academic Experiences.” Child 
+
+Development 
+79:139–55. 
+
+Dalton, Madeline A., James D. Sargent, Michael L. Beach, et al. 2003. “Effect of Viewing Smoking in Movies on Adolescent Smoking: A Cohort Study.” Lancet 
+362:281–85. 
+
+Davis, G. F. 1991. “Agents without Principles? The Spread of the Poison Pill through the Intercorporate Network.” Administrative 
+Science 
+Quarterly 
+36:583–613. 
+
+Dawkins, Richard. (1976) 2006. The Sel.sh Gene, 30th anniversary ed. New York: Oxford University Press. 
+Diaz, Juan Jose, and Sudhanshu Handa. 2006. “An Assessment of Propensity Score Matching as a Nonexperimental Impact Estimator: Evidence from Mexico’sPRO-GRESA Program.” Journal 
+of 
+Human 
+Resources 
+41:319–45. 
+
+DiMaggio, Paul J., and Walter W. Powell. 1983. “The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields.” American 
+Socio-
+
+logical 
+Review 
+48:147–60. 
+
+DiPrete, Thomas A., Andrew Gelman, Tyler McCormick, Julien Teitler, and Tian Zheng. 2011. “Segregation and Social Networks Based on Acquaintanceship and Trust.” Amer-
+
+ican 
+Journal 
+of 
+Sociology 
+116:1234–83. 
+
+Dornbusch, Sanford M., Kristan Glasgow Erickson, Jennifer Laird, and Carol A. Wong. 2001. “The Relation of Family and School Attachment to Adolescent Devi-ance in Diverse Groups and Communities.” Journal 
+of 
+Adolescent 
+Research 
+16:396– 
+422. 
+Drapela, Laurie A., Janet L. Gebelt, and Nick McRee. 2006. “Pubertal Development, Choice of Friends, and Smoking Initiation among Adolescent Males.” Journal 
+of 
+Youth 
+
+and 
+Adolescence 
+35:717–27. 
+
+Duncan, Alexis E., Arpana Agrawal, Julia D. Grant, Kathleen K. Bucholz, Pamela A. F. Madden, and Andrew C. Heath. 2009. “Genetic and Environmental Contributions to BMI in Adolescent and Young Adult Women.” Obesity 
+17:1040–43. 
+
+Durkheim, Emile. (1851) 1997. Suicide. New York: Free Press. 
+Eccles, Jacquelynne S., and Bonnie L. Barber. 1999. “Student Council, Volunteering, Basketball, or Marching Band: What Kind of Extracurricular Involvement Matters?” Journal 
+of 
+Adolescent 
+Research 
+14:10–43. 
+
+Eder, Donna, and Stephen Parker. 1987. “The Cultural Production of Gender: The Ef-fect of Extracurricular Activities on Peer-Group Culture.” Sociology 
+of 
+Education 
+60: 
+200–213. 
+Ellemers, Naomi, Russell Spears, and Bertjan Doosje. 2002. “Self and Social Identity.” Annual 
+Review 
+of 
+Psychology 
+53:161–86. 
+
+Erbring, Lutz, and Alice A. Young. 1979. “Individuals and Social Structure: Contex-tual Effects as Endogenous Feedback.” Sociological 
+Methods 
+and 
+Research 
+7:396–430. 
+Feld, Scott L. 1981. “The Focused Organization of Social Ties.” American 
+Journal 
+of 
+So-
+
+ciology 
+86:1015–35. 
+
+Feldman, Daniel C. 1984. “The Development and Enforcement of Group Norms.” Acad-emy of Management Review 9:47–53. 
+Festinger, Leon. 1954. “A Theory of Social Comparison Processes.” Human 
+Relations 
+7: 
+117–40. 
+Field, Sam, Kenneth A. Frank, Kathryn Schiller, Catherine Riegle-Crumb, and Chandra Muller. 2006. “Identifying Positions from Af.liation Networks: Preserving the Duality of People and Events.” Social 
+Networks 
+28:97–123. 
+
+Flache, Andreas, and Michael W. Macy. 2011. “Small Worlds and Cultural Polarization.” Journal 
+of 
+Mathematical 
+Sociology 
+35:146–76. 
+
+Fowler, J. H., and N. A. Christakis. 2008. “The Dynamic Spread of Happiness in a Large Social Network.” BMJ: 
+British 
+Medical 
+Journal 
+337:a2338. 
+
+Frank, Kenneth A. 2009. “Quasi-Ties: Directions Resources to Members of a Collective.” American 
+Behavioral 
+Scientist 
+52:1613–45. 
+
+Frank, Kenneth A., Chandra Muller, and Anna S. Mueller. 2013. “The Embeddedness of Adolescent Friendship Nominations: The Formation of Social Capital in Emergent Network Structures.” American 
+Journal 
+of 
+Sociology 
+119:216–53. 
+
+Frank, Kenneth A., Chandra Muller, Kathryn S. Schiller, et al. 2008. “The Social Dy-namics of Mathematics Coursetaking in High School.” American 
+Journal 
+of 
+Sociology 
+
+113:1645–96. 
+Friedkin, Noah E. 1983. “Horizons of Observability and Limits of Informal Control in Organizations.” Social 
+Forces 
+62:54–77. 
+———. 2001. “Norm Formation in Social In.uence Networks.” Social 
+Networks 
+23: 
+167–89. 
+Friedkin, Noah E., and Eugene C. Johnsen. 1997. “Social Positions in In.uence Net-works.” Social 
+Networks 
+19:209–22. 
+
+———. 2011. Social In.uence Network Theory: A Sociological Examination of Small Group Dynamics. Cambridge: Cambridge University Press. 
+Gamoran, Adam, and Robert D. Mare. 1989. “Secondary School Tracking and Educa-tional Inequality: Compensation, Reinforcement, or Neutrality?” American 
+Journal 
+
+of 
+Sociology 
+94:1146–83. 
+
+Gardner, William, E. P. Mulvey, and C. E. Shaw. 1995. “Regression Analyses of Counts and Rates: Poisson, Overdispersed Poisson, and Negative Binomial Models.” Psycho-
+
+logical 
+Bulletin 
+118:392–404. 
+Gavetti, Giovanni, Daniel Levinthal, and William Ocasio. 2007. “Neo-Carnegie: The Carnegie School’s Past, Present, and Reconstructing for the Future.” Organization 
+Sci-
+
+ence 
+18:523–36. 
+
+Gilbert, Daniel T., R. Brian Giesler, and Kathryn A. Morris. 1995. “When Comparisons Arise.” Journal 
+of 
+Personality 
+and 
+Social 
+Psychology 
+69:227–36. 
+
+Gioia, Dennis A., and Peter P. Poole. 1984. “Scripts in Organizational Behavior.” Acad-emy of Management Review 9:449–59. 
+Gioia, Dennis A., Kristin N. Price, Aimee L. Hamilton, and James B. Thomas. 2010. “Forging an Identity: An Insider-Outsider Study of Processes Involved in the Forma-tion of Organizational Identity.” Administrative 
+Science 
+Quarterly 
+55:1–46. 
+Giordano, Peggy C. 2003. “Relationships in Adolescence.” Annual 
+Review 
+of 
+Sociology 
+
+29:257–81. 
+Goethals, George R. 1986. “Social Comparison Theory: Psychology from the Lost and Found.” Personality 
+and 
+Social 
+Psychology 
+Bulletin 
+12:261–78. 
+
+Goodreau, Steven M., James A. Kitts, and Martina Morris. 2009. “Birds of a Feather, or Friend of a Friend? Using Exponential Random Graph Models to Investigate Adoles-cent Social Networks.” Demography 
+46 (1): 103–25. 
+
+Gove, Walter R., and Robert D. Crutch.eld. 1982. “The Family and Juvenile Delinquency.” Sociological 
+Quarterly 
+23:301–19. 
+
+Granovetter, Mark S. 1995. Getting a Job: A Study in Contacts and Careers, 2d ed. Chi-cago: University of Chicago Press. 
+Guo, Shenyang, and Mark W. Fraser. 2010. Propensity Score Analysis: Statistical Meth-ods and Applications. Thousand Oaks, Calif.: Sage. 
+Haas, Steven A., and David R. Schaefer. 2014. “With a Little Help from My Friends? Asymmetrical Social In.uence on Adolescent Smoking Initiation and Cessation.” Journal 
+of 
+Health 
+and 
+Social 
+Behavior 
+55 (2): 126–43. 
+
+Hallinan, Maureen T., and Richard A. Williams. 1989. “Interracial Friendship Choices in Secondary Schools.” American 
+Sociological 
+Review 
+54:67–78. 
+
+Hanks, Michael. 1981. “Youth, Voluntary Associations and Political Socialization.” So-
+
+cial 
+Forces 
+60:211–23. 
+
+Hannan, Michael T., Glenn R. Carroll, and Laszlo Polos. 2003. “The Organizational Niche.” Sociological 
+Theory 
+21:309–40. 
+
+Hannan, Michael T., and John Freeman. 1989. Organizational Ecology. Cambridge, Mass.: Harvard University Press. 
+Harris, Kathleen M. 2009. “The National Longitudinal Study of Adolescent Health (Add Health), Waves I & II, 1994–1996; Wave III, 2001–2002; Wave IV, 2007–2009 [Machine-Readable Data File and Documentation].” Carolina Population Center, University of North Carolina, Chapel Hill. 
+Harrison, J. Richard, and Glenn R. Carroll. 2002. “The Dynamics of Cultural In.uence Networks.” Computational 
+and 
+Mathematical 
+Organization 
+Theory 
+8:5–30. 
+
+Hayea, Kayla de la, Garry Robbins, Philip Mohr, and Carlene Wilson. 2011. “Homophily and Contagion as Explanations for Weight Similarities among Adolescent Friends.” Journal 
+of 
+Adolescent 
+Health 
+49:421–27. 
+
+Haynie, Dana L. 2001. “Delinquent Peers Revisited: Does Network Structure Matter?” American 
+Journal 
+of 
+Sociology 
+106:1013–57. 
+
+Henry, Kimberly L., and David H. Huizinga. 2007. “School-Related Risk and Protective Factors Associated with Truancy among Urban Youth Placed at Risk.” Journal 
+of 
+Pri-
+
+mary 
+Prevention 
+28:505–19. 
+
+Hogg, Michael A., and Deborah J. Terry. 2000. “Social Identity and Self-Categorization Processes in Organizational Contexts.” Academy of Management Review 25:121–40. 
+Holden, R. T. 1986. “The Contagiousness of Aircraft Hijacking.” American 
+Journal 
+of 
+
+Sociology 
+91:874–904. 
+
+Hornsey, Matthew J. 2008. “Social Identity Theory and Self-Categorization Theory: A 
+Historical Review.” Social 
+and 
+Personality 
+Psychology 
+Compass 
+2:204–22. 
+Hunter, David R. 2007. “Curved Exponential Family Models for Social Networks.” So-
+
+cial 
+Networks 
+29 (2): 216–30. 
+
+Hunter, David R., Steven M. Goodreau, and Mark S. Handcock. 2008. “Goodness of Fit of Social Network Model.” Journal 
+of 
+the 
+American 
+Statistical 
+Association 
+103 (481): 
+248–58. 
+Ibarra, Herminia. 1995. “Race, Opportunity, and Diversity of Social Circles in Manage-rial Networks.” Academy 
+of 
+Management 
+Journal 
+38:673–703. 
+
+Ingram, Paul, and Peter W. Roberts. 2000. “Friendship among Competitors in the Syd-ney Hotel Industry.” American 
+Journal 
+of 
+Sociology 
+106:387–423. 
+
+Johnson, Cathryn, Timothy J. Dowd, and Cecilia L. Ridgeway. 2006. “Legitimacy as a Social Process.” Annual 
+Review 
+of 
+Sociology 
+32:53–78. 
+
+Jussim, Lee, and Wayne D. Osgood. 1989. “In.uence and Similarity among Friends: An Integrative Model Applied to Incarcerated Adolescents.” Social 
+Psychology 
+Quarterly 
+
+52:98–112. 
+Kelley, Jonathon, and Nan Dirk De Graaf. 1997. “National Context, Parental Socializa-tion, and Religious Belief: Results from 15 Nations.” American 
+Sociological 
+Review 
+
+62:639–59. 
+Kilduff, Gavin J., Hillary Anger Elfenbein, and Barry M. Staw. 2010. “The Psychology of Rivalry: A Relationally Dependent Analysis of Competition.” Academy 
+of 
+Management 
+
+Journal 
+53:943–69. 
+
+Killworth, Peter D., Eugene C. Johnsen, H. Russell Bernard, Gene Ann Shelley, and Christopher McCarty. 1990. “Estimating the Size of Personal Networks.” Social 
+Net-
+
+works 
+12:289–312. 
+
+King, Brayden G., Teppo Felin, and David A. Whetten. 2010. “Finding the Organization in Organizational Theory: A Meta-Theory of the Organization as a Social Actor.” Or-
+
+ganization 
+Science 
+21:290–305. 
+
+Kirke, Deirdre M. 2004. “Chain Reactions in Adolescents’ Cigarette, Alcohol and Drug Use: Similarity through Peer In.uence or the Patterning of Ties in Peer Networks?” Social 
+Networks 
+26:3–28. 
+
+Kitts, James A. 2006. “Collective Action, Rival Incentives, and the Emergence of Antiso-cial Norms.” American 
+Sociological 
+Review 
+71:235–59. 
+
+Klein, William M. 1997. “Objective Standards Are Not Enough: Affective, Self-Evaluative and Behavioral Responses to Social Comparison Information.” Journal 
+of 
+Personality 
+
+and 
+Social 
+Psychology 
+72:763–74. 
+
+Kohn, Melvin L., and Carmi Schooler. 1978. “The Reciprocal Effect of the Substantive Complexity of Work and Intellectual Flexibility: A Longitudinal Assessment.” Amer-
+
+ican 
+Journal 
+of 
+Sociology 
+84:24–52. 
+
+———. 1982. “Job Conditions and Personality: A Longitudinal Assessment of Their Re-ciprocal Effects.” American 
+Journal 
+of 
+Sociology 
+87:1257–86. 
+
+Ku, Gillian, Deepak Malhotra, and J. Keith Murninghan. 2005. “Towards a Com-petitive Arousal Model of Decision-Making: A Study of Auction Fever in Live and Internet Auctions.” Organizational 
+Behavior 
+and 
+Human 
+Decision 
+Processes 
+96:89– 
+103. 
+Kubitschek, Warren N., and Maureen T. Hallinan. 1998. “Tracking and Students’ Friendships.” Social 
+Psychology 
+Quarterly 
+61:1–15. 
+
+Laumann, Edward O. 1965. “Subjective Social Distance and Urban Occupational Strat-i.cation.” American 
+Journal 
+of 
+Sociology 
+71:26–36. 
+
+———. 1966. Prestige and Association in an Urban Community: An Analysis of an Urban Strati.cation System. Indianapolis: Bobbs-Merrill. 
+Lazarsfeld, Paul F., and Robert K. Merton. 1954. “Friendship as a Social Process: A Sub-stantive and Methodological Analysis.” Freedom and Control in Modern Society 18: 18–66. 
+Levins, Richard. 1968. Evolution in Changing Environments: Some Theoretical Explo-rations. Princeton, N.J.: Princeton University Press. 
+Lewis, Kevin, Marco Gonzalez, and Jason Kaufman. 2012. “Social Selection and Peer In-.uence in an Online Social Network.” Proceedings 
+of 
+the 
+National 
+Academy 
+of 
+Sci-
+
+ences 
+USA 
+109:68–72. 
+
+Lim, Chaeyoon, and Carol Ann MacGregor. 2012. “Religion and Volunteering in Con-text: Disentangling the Contextual Effects of Religion on Voluntary Behavior.” Amer-
+
+ican 
+Sociological 
+Review 
+77:747–79. 
+
+Lundquist, Jennifer Hickes. 2004. “When Race Makes No Difference: Marriage and the Military.” Social 
+Forces 
+83:731–57. 
+
+Lusher, Dean, Johan Koskinen, and Garry Robins. 2013. Exponential Random Graph Models for Social Networks: Theory, Methods, and Applications. New York: Cam-bridge University Press. 
+Marin, Alexandra. 2012. “Don’t Mention It: Why People Don’t Share Job Information, When They Do, and Why It Matters.” Social 
+Networks 
+34:181–92. 
+
+Mark, Noah. 1998. “Birds of a Feather Sing Together.” Social 
+Forces 
+77:453–85. 
+
+———. 2003. “Culture and Competition: Homophily and Distancing Explanations for Cultural Niches.” American 
+Sociological 
+Review 
+68:319–45. 
+
+Marsden, Peter V. 1981. “Introducing In.uence Processes into a System of Collective De-cisions.” American 
+Journal 
+of 
+Sociology 
+86:1203–35. 
+———. 1987. “Core Discussion Networks of Americans.” American 
+Sociological 
+Review 
+
+52:122–31. 
+———. 1988. “Homogeneity in Con.ding Relations.” Social 
+Networks 
+10:57–76. 
+
+Marsden, Peter V., and Noah E. Friedkin. 1993. “Network Studies of Social In.uence.” Sociological 
+Methods 
+and 
+Research 
+22:127–51. 
+
+Marsden, Peter V., and E. H. Gorman. 2001. “Social Networks, Job Changes and Recruit-ment.” Pp. 503–30 in Sourcebook of Labor Markets: Evolving Structures and Processes, edited by I. E. Berg and A. L. Kallenberg. New York: Kluwer Academic/Plenum. 
+Matsueda, Ross L., and Kathleen Anderson. 1998. “The Dynamics of Delinquent Peers and Delinquent Behavior.” Criminology 
+36:269–308. 
+
+McCarty, Christopher, Peter D. Killworth, H. Russell Bernard, Eugene C. Johnsen, and Gene A. Shelley. 2001. “Comparing Two Methods for Estimating Network Size.” Hu-
+
+man 
+Organization 
+60:28–39. 
+
+McCarty, Christopher, Peter D. Killworth, and James Rennell. 2007. “Impact of Methods for Reducing Respondent Burden on Personal Network Structural Measures.” Social 
+
+Networks 
+29:300–315. 
+
+McFarland, Daniel A., and Reuben J. Thomas. 2006. “Bowling Young: How Youth Vol-untary Associations In.uence Adult Political Participation.” American 
+Sociological 
+
+Review 
+71:401–25. 
+
+McPherson, J. Miller. 1983. “An Ecology of Af.liation.” American 
+Sociological 
+Review 
+
+48:519–32. 
+———. 2004. “A Blau Space Primer: Prolegomenon to an Ecology of Af.liation.” Indus-
+
+trial 
+and 
+Corporate 
+Change 
+13:263–80. 
+
+McPherson, J. Miller, and James R. Ranger-Moore. 1991. “Evolution on a Dancing Land-scape: Organizations and Networks in Dynamic Blau Space.” Social 
+Forces 
+70:19–42. 
+
+McPherson, J. Miller, and Thomas Rotolo. 1996. “Testing a Dynamic Model of Social Composition: Diversity and Change in Voluntary Groups.” American 
+Sociological 
+Re-
+
+view 
+61:179–202. 
+
+McPherson, J. Miller, and Lynn Smith-Lovin. 1987. “Homophily in Voluntary Organi-zations: Status Distance and the Composition of Face-to-Face Groups.” American 
+So-
+
+ciological 
+Review 
+52:370–79. 
+
+———. 1988. “A Comparative Ecology of Five Nations: Testing a Model of Competition among Voluntary Organizations.” Chap. 6 in Ecological Models of Organizations, ed-ited by Glenn R. Carroll. Cambridge, Mass.: Ballinger. 
+McPherson, J. Miller, Lynn Smith-Lovin, and James M. Cook. 2001. “Birds of a Feather: 
+Homophily in Social Networks.” Annual 
+Review 
+of 
+Sociology 
+27:415–44. 
+Mercken, L., T. A. B. Snijders, C. Steglich, E. Vartiainen, and H. de Vries. 2010. “Dy-namics of Adolescent Friendship Networks and Smoking Behaviors.” Social 
+Networks 
+
+32:72–81. 
+Moreland, Richard L., and Robert B. Zajonc. 1982. “Exposure Effects in Personal Per-ception: Familiarity, Similarity, and Attraction.” Journal 
+of 
+Experimental 
+Social 
+Psy-
+
+chology 
+18:395–415. 
+
+Morgan, Stephen L., and Jennifer J. Todd. 2008. “A Diagnostic Routine for the Detec-tion of Consequential Heterogeneity of Causal Effects.” Sociological 
+Methodology 
+38: 
+231–81. 
+Morgan, Stephen L., and Christopher Winship. 2007. Counterfactuals and Causal Infer-ence: Methods and Principles for Social Research. Cambridge: Cambridge University Press. 
+Muller, Chandra, Jennifer Pearson, Catherine Riegle-Crumb, et al. 2007. “National Lon-gitudinal Study of Adolescent Health Wave III Education Data Academic Networks Codebook.” Chapel Hill, N.C.: Carolina Population Center. http://www.laits.utexas .edu/ahaa/docs/AcdmcNtwrks_2007.pdf. 
+Mussweiler, Thomas, and Katja Ruter. 2003. “What Friends Are For! The Use of Rou-tine Standards in Social Comparison.” Journal 
+of 
+Personality 
+and 
+Social 
+Psychology 
+
+85:467–81. 
+Nathan, Anil Sathia. 2008. “Friendship Patterns in Schools: An Analysis Using the Na-tional Longitudinal Study of Adolescent Health.” Ph.D. dissertation. Duke University, Department of Economics. 
+Newman, Mark, Albert-Laszló Barabási, and Duncan J. Watts. 2006. The Structure and Dynamics of Networks. Princeton, N.J.: Princeton University Press. 
+Newman, Philip R., and Barbara M. Newman. 1976. “Early Adolescence and Its Con-.ict: Group Identity versus Alienation.” Adolescence 42:261–74. 
+Ouchi, William G., and Alan L. Wilkins. 1985. “Organizational Culture.” Annual 
+Review 
+
+of 
+Sociology 
+11:457–83. 
+
+Peli, Gabor, and Jeroen Bruggeman. 2006. “Networks Embedded in n-Dimensional Space: The Impact of Dimensionality Change.” Social 
+Networks 
+28:449–53. 
+
+Perrow, Charles B. 1979. Complex Organizations: A Critical Essay. Glenview, Ill. Scott, Foresman. 
+———. 2002. Organizing America: Wealth, Power, and the Origins of Corporate Capital-ism. Princeton, N.J.: Princeton University Press. 
+Popielarz, Pamela A., and Miller J. McPherson. 1995. “On the Edge or in Between: Niche Position, Niche Overlap, and the Duration of Voluntary Association Memberships.” American 
+Journal 
+of 
+Sociology 
+101:698–720. 
+
+Raghunathan, Trivellore E., James M. Lepkowski, John Van Hoewyk, and Peter Solenberger. 2001. “A Multivariate Technique for Multiply Imputing Missing Values Using a Sequence of Regression Models.” Survey Methodology 27 (1): 85–96. 
+Richardson, Helen M. 1940. “Community of Values as a Factor in Friendships of College and Adult Women.” Journal 
+of 
+Social 
+Psychology 
+11:303–12. 
+
+Roberts, Sam G. B., Ruth Wilson, Pawel Fedurek, and R. I. M. Dunbar. 2008. “Individ-ual Differences and Personal Network Size and Structure.” Personality 
+and 
+Individ-
+
+ual 
+Differences 
+44:954–64. 
+
+Rogers, Everett M. 2003. Diffusion of Innovations, 5th ed. New York: Free Press. 
+Rosenbaum, Paul R., and Donald R. Rubin. 1983. “The Central Role of the Propensity Score in Observational Studies for Causal Effects.” Biometrika 
+70:41–55. 
+
+Rotchford, Nancy L., and Karlene H. Roberts. 1982. “Part-Time Workers as Missing Persons in Organizational Research.” Academy of Management Review 7:228–34. 
+Rubin, Donald B. 2006. Matched Sampling for Causal Effects. New York: Cambridge University Press. 
+Ruiter, Stijn, and Nan Dirk De Graaf. 2006. “National Context, Religiosity, and Volun-
+teering: Results from 53 Countries.” American 
+Sociological 
+Review 
+71:191–210. 
+———. 2010. “National Religious Context and Volunteering: More Rigorous Tests Sup-porting the Association.” American 
+Sociological 
+Review 
+75:179–84. 
+
+Saegert, Susan, Walter Swap, and R. B. Zajonc. 1973. “Exposure, Context, and Interper-sonal Attraction.” Journal 
+of 
+Personality 
+and 
+Social 
+Psychology 
+25:234–42. 
+Sargent, James D. 2005. “Smoking in Movies: Impact on Adolescent Smoking.” Adoles-
+
+cent 
+Medicine 
+Clinics 
+16:345–70. 
+
+Schaefer, David R., Olga Kornienko, and Andrew M. Fox. 2011. “Misery Does Not Love Company: Network Selection Mechanisms and Depression Homophily.” American 
+
+Sociological 
+Review 
+76:764–85. 
+
+Schaefer, David R., Sandra D. Simpkins, Andrea E. Vest, and Chara D. Price. 2011. “The Contribution of Extracurricular Activities to Adolescent Friendships: New Insights through Social Network Analysis.” Developmental 
+Psychology 
+47:1141–52. 
+
+Scott, W. Richard. 2004. “Re.ections on a Half-Century of Organizational Sociology.” Annual 
+Review 
+of 
+Sociology 
+30:1–21. 
+
+Scott, W. Richard, and John W. Meyer. 1994. Institutional Environments and Organiza-tions: Structural Complexity and Individualism. Thousand Oaks, Calif.: Sage. 
+Shi, Yongren, Fedor A. Dokshin, Michael Genkin, and Matthew E. Brashears. 2017. “A Member Saved Is a Member Earned? The Recruitment-Retention Trade-off and Or-ganizational Strategies for Membership Growth.” American 
+Sociological 
+Review 
+82: 
+407–34. 
+Simpkins, Sandra D., David R. Schaefer, Chara D. Price, and Andrea E. Vest. 2012. “Ad-olescent Friendships, BMI, and Physical Activity: Untangling Selection and In.uence through Longitudinal Social Network Analysis.” Journal 
+of 
+Research 
+on 
+Adolescence 
+
+23:537–49. 
+Smith, Jeffrey A., Miller McPherson, and Lynn Smith-Lovin. 2014. “Social Distance in the United States: Sex, Race, Religion, Age, and Education.” American 
+Sociological 
+
+Review 
+79:432–56. 
+
+Stattin, Hakan, and David Magnusson. 1990. Pubertal Maturation in Female Develop-ment. Hillsdale, N.J.: Erlbaum. 
+Strang, David, and Sarah A. Soule. 1998. “Diffusion in Organizations and Social Move-ments: From Hybrid Corn to Poison Pills.” Annual 
+Review 
+of 
+Sociology 
+24:265–90. 
+
+Suchman, Mark C. 1995. “Managing Legitimacy: Strategic and Institutional Approaches.” Academy of Management Review 20:571–610. 
+Sun, Lijun, Kay W. Axhausen, Der-Horng Lee, and Xienfeng Huan. 2013. “Understand-ing Metropolitan Patterns of Daily Encounters.” Proceedings 
+of 
+the 
+National 
+Academy 
+
+of 
+Sciences 
+USA 
+110:13774–79. 
+
+Swap, Walter C. 1977. “Interpersonal Attraction and Repeated Exposure to Rewarders and Punishers.” Personality 
+and 
+Social 
+Psychology 
+Bulletin 
+3:248–51. 
+
+Tajfel, Henri. 1982. “Social Psychology of Intergroup Relations.” Annual 
+Review 
+of 
+Psy-
+
+chology 
+33:1–39. 
+
+Trinitapoli, Jenny, and Stephen Vaisey. 2009. “The Transformative Role of Religious Experience: The Case of Short-Term Missions.” Social 
+Forces 
+88:121–46. 
+
+Useem, M. 1984. The Inner Circle. New York: Oxford University Press. 
+Uzzi, Brian. 1997. “Social Structure and Competition in Inter.rm Networks: The Para-dox of Embeddedness.” Administrative 
+Science 
+Quarterly 
+42:35–67. 
+
+Uzzi, Brian, and Ryon Lancaster. 2003. “Relational Embeddedness and Learning: The Case of Bank Loan Managers and Their Clients.” Management 
+Science 
+49:383–99. 
+
+Van den Bulte, Christophe, and Gary L. Lilien. 2001. “Medical Innovation Revisited: So-cial Contagion versus Marketing Effort.” American 
+Journal 
+of 
+Sociology 
+106:1409–35. 
+
+Van der Meer, Tom, Manfred Te Grotenhuis, and Ben Pelzer. 2010. “In.uential Cases in Multilevel Modeling: A Methodological Comment.” American 
+Sociological 
+Review 
+
+75:173–78. 
+Walker, Henry A., George M. Thomas, and Morris Zelditch, Jr. 1986. “Legitimation, En-
+dorsement, and Stability.” Social 
+Forces 
+64:620–43. 
+Walker, Henry A., and Morris Zelditch, Jr. 1993. “Power, Legitimacy, and the Stability of Authority: A Theoretical Research Program.” Pp. 364–84 in Theoretical Research Pro-grams: Studies in the Growth of Theory, edited by J. Berger and Morris Zelditch, Jr. Stanford, Calif.: Stanford University Press. 
+White, Harrison C., Scott A. Boorman, and Ronald L. Breiger. 1976. “Social Structure from Multiple Networks. I. Blockmodels of Roles and Positions.” American 
+Journal 
+
+of 
+Sociology 
+81:730–80. 
+
+Wilson, Anne, and Michael Ross. 2000. “The Frequency of Temporal-Self and Social Comparisons in People’s Personal Appraisals.” Journal 
+of 
+Personality 
+and 
+Social 
+Psy-
+
+chology 
+78:928–42. 
+
+Wilson, John, and Marc Musick. 1999. “The Effects of Volunteering on the Volunteer.” Law 
+and 
+Contemporary 
+Problems 
+62:141–68. 
+
+Zajonc, Robert B. 1968. “Attitudinal Effects of Mere Exposure.” Journal 
+of 
+Personality 
+
+and 
+Social 
+Psychology 
+9:1–27. 
+Zelditch, Morris, Jr., and Henry A. Walker. 2003. “The Legitimacy of Regimes.” Advances 
+
+in 
+Group 
+Processes 
+20:217–49. 
+
+Zhang, J., L. Tong, P. J. Lamberson, R. A. Durazo-Arvizu, A. Luke, and D. A. Shoham. 2015. “Leveraging Social In.uence to Address Overweight and Obesity Using Agent-Based Models: The Role of Adolescent Social Networks.” Social 
+Science 
+and 
+Medicine 
+
+125:203–13. 
+Zucker, Lynne G. 1977. “The Role of Institutionalization in Cultural Persistence.” Amer-
+
+ican 
+Sociological 
+Review 
+42:726–43. 
+
+

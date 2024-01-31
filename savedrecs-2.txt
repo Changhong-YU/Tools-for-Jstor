@@ -1,0 +1,126 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Spears, Taylor
+TI Discounting collateral: quants, derivatives and the reconstruction of
+   the 'risk-free rate' after the financial crisis
+SO ECONOMY AND SOCIETY
+VL 48
+IS 3
+BP 342
+EP 370
+DI 10.1080/03085147.2018.1525153
+EA MAY 2019
+PD JUL 3 2019
+PY 2019
+ZB 0
+TC 6
+ZA 0
+Z8 0
+ZS 0
+ZR 0
+Z9 6
+SN 0308-5147
+EI 1469-5766
+UT WOS:000470456100001
+ER
+
+PT J
+AU Pellandini-Simanyi, Lena
+   Vargha, Zsuzsanna
+TI Spatializing the future: financial expectations, EU convergence and the
+   Eastern European Forex mortgage crisis
+SO ECONOMY AND SOCIETY
+VL 47
+IS 2
+BP 280
+EP 312
+DI 10.1080/03085147.2018.1484050
+PD 2018
+PY 2018
+RI Vargha, Zsuzsanna/ABH-2955-2021; Vargha, Zsuzsanna/
+OI Vargha, Zsuzsanna/0000-0002-1578-6531
+ZS 0
+ZA 0
+ZB 0
+TC 6
+ZR 0
+Z8 0
+Z9 6
+SN 0308-5147
+EI 1469-5766
+UT WOS:000441636200006
+ER
+
+PT J
+AU Potts, Shaina
+TI Deep finance: sovereign debt crises and the secondary market "fix'
+SO ECONOMY AND SOCIETY
+VL 46
+IS 3-4
+BP 452
+EP 475
+DI 10.1080/03085147.2017.1408215
+PD 2017
+PY 2017
+ZB 0
+ZA 0
+TC 6
+ZR 0
+Z8 0
+ZS 0
+Z9 6
+SN 0308-5147
+EI 1469-5766
+UT WOS:000424166300007
+ER
+
+PT J
+AU Larsson, B
+TI Neo-liberalism and polycontextuality: banking crisis and re-regulation
+   in Sweden
+SO ECONOMY AND SOCIETY
+VL 32
+IS 3
+BP 428
+EP 448
+DI 10.1080/0308514032000107619
+PD AUG 2003
+PY 2003
+OI Larsson, Bengt/0000-0001-8454-2891
+ZS 0
+Z8 0
+ZR 0
+TC 6
+ZA 0
+ZB 0
+Z9 6
+SN 0308-5147
+UT WOS:000184935000004
+ER
+
+PT J
+AU Curran, Dean
+TI Connecting risk: Systemic risk from finance to the digital
+SO ECONOMY AND SOCIETY
+VL 49
+IS 2
+BP 239
+EP 264
+DI 10.1080/03085147.2020.1718912
+EA APR 2020
+PD APR 2 2020
+PY 2020
+Z8 0
+ZB 0
+TC 5
+ZR 0
+ZS 0
+ZA 0
+Z9 5
+SN 0308-5147
+EI 1469-5766
+UT WOS:000528531700001
+ER
+
+EF
